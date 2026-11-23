@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vendor Maps: find vendors for your event</title>
 <meta name="description" content="A free list of businesses seen on public event exhibitor and vendor lists, sorted by category, place and reach: local, state, regional or national. Business names only. We're not selling your data.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vendor Maps">
+<meta property="og:title" content="Vendor Maps: find vendors for your event">
+<meta property="og:description" content="Planning a fair, festival, market, expo or trade show? Search businesses that already work events like yours, by state, category and reach. Free for organizers. We're not selling your data.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Vendor Maps: find vendors for your event">
+<meta name="twitter:description" content="Search businesses that already work events like yours, by state, category and reach. Free for organizers.">
 <style>
 :root{--bg:#f7f5f0;--panel:#fff;--ink:#1d2430;--muted:#5b6575;--line:#e2ddd2;--accent:#1f6f5c;--accent-ink:#fff;--chip:#eef4f1;--warn:#8a5a00}
 @media (prefers-color-scheme:dark){:root{--bg:#14181d;--panel:#1c2229;--ink:#e8ebef;--muted:#a3adba;--line:#2d3640;--accent:#4fb39a;--accent-ink:#0d1512;--chip:#1f2c29;--warn:#e0b25c}}
@@ -15,6 +22,17 @@ a{color:var(--accent)}
 header{padding:40px 0 16px}
 h1{font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.15;margin:0 0 8px}
 .lede{font-size:1.1rem;color:var(--muted);max-width:44em;margin:0}
+.pledge{margin:12px 0 0;font-weight:600}
+.here{margin:22px 0 8px}
+.here h2{font-size:1rem;margin:0 0 8px;color:var(--muted)}
+.choose{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:10px}
+.choose li{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 16px}
+.choose .go{font-weight:700;font-size:1.05rem;text-decoration:none}
+.choose .go:hover{text-decoration:underline}
+.choose p{margin:4px 0 0;color:var(--muted);font-size:.95rem}
+.choose .reach{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.choose .reach a{background:var(--chip);border-radius:99px;padding:3px 12px;font-size:.9rem;text-decoration:none;color:var(--ink)}
+.choose .reach a:hover{text-decoration:underline}
 .promise{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:24px 0}
 .promise div{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
 .promise b{display:block;margin-bottom:2px}
@@ -42,16 +60,21 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
 <div class="wrap">
 <header>
   <h1>Find vendors for your event</h1>
-  <p class="lede">Vendor Maps lists businesses that show up on public exhibitor and vendor lists at fairs, festivals, markets, expos and trade shows, so organizers can see who works events near them.</p>
-  <div class="promise">
-    <div><b>Free for organizers</b><span>No account and no fee to search.</span></div>
-    <div><b>Business names only</b><span>No contact people, emails or phone numbers are published.</span></div>
-    <div><b>Opt-in contact</b><span>Organizers' messages go through Vendor Maps to vendors who want to hear about events.</span></div>
-    <div><b>We're not selling your data</b><span>Not to advertisers, not to list brokers, not to anyone.</span></div>
-  </div>
+  <p class="lede">Planning a fair, festival, market, expo or trade show? Search businesses that already work events like yours, by state, category and reach. Every name here comes from a public list.</p>
+  <p class="pledge">Free for organizers. Business names only. Contact is opt-in. We're not selling your data.</p>
+  <nav class="here" aria-labelledby="here-title">
+    <h2 id="here-title">I'm here…</h2>
+    <ul class="choose">
+      <li><a class="go" href="#find">To find vendors for my event</a>
+        <p>Pick your state and category below, or start with vendors by reach:</p>
+        <p class="reach"><a href="?reach=local#find">Local</a><a href="?reach=state#find">Statewide</a><a href="?reach=regional#find">Regional</a><a href="?reach=national#find">National</a></p></li>
+      <li><a class="go" href="#vendors">As a vendor who wants to hear about new events</a>
+        <p>Whether you work one town's markets, a state's fair circuit or national shows: how your listing works and how your details are protected.</p></li>
+    </ul>
+  </nav>
 </header>
 
-<div class="tools" role="search">
+<div class="tools" role="search" id="find">
   <input id="q" type="search" placeholder="Search a business, event or city" aria-label="Search">
   <select id="state" aria-label="State"><option value="">All states</option></select>
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
@@ -67,7 +90,17 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
   <p><b>Reach</b> is worked out from where a business shows up. <b>Local</b> means one city or metro area, <b>state</b> means across one state, <b>regional</b> means two or three states, and <b>national</b> means the business serves the whole country or turns up in four or more states.</p>
   <p>When an event lists a maker only by their own name, we count them but don't list them.</p>
   <p class="small" id="stats"></p>
+</section>
+
+<section class="how" id="vendors">
   <h2>For vendors</h2>
+  <p>Sell at fairs, festivals, markets, expos or trade shows? Vendor Maps is built so organizers can find your business without your personal details going public, at the local, state and national level.</p>
+  <div class="promise">
+    <div><b>Free for organizers</b><span>No account and no fee to search.</span></div>
+    <div><b>Business names only</b><span>No contact people, emails or phone numbers are published.</span></div>
+    <div><b>Opt-in contact</b><span>Organizers' messages go through Vendor Maps to vendors who want to hear about events.</span></div>
+    <div><b>We're not selling your data</b><span>Not to advertisers, not to list brokers, not to anyone.</span></div>
+  </div>
   <p>If your business is listed and you'd like it changed or taken off, or you'd like to hear about events near you, opt-in messaging is opening soon. Until then this list is a preview.</p>
 </section>
 <footer>Vendor Maps. A free resource. We're not selling your data.</footer>
@@ -114,6 +147,11 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
     var lab=document.createElement('label');lab.className='small';lab.style.gridColumn='1/-1';
     lab.innerHTML='<input type="checkbox" id="natl" style="width:auto"> Include national vendors when a state is picked';
     document.querySelector('.tools').appendChild(lab);
+    var pre=new URLSearchParams(location.search);
+    if(pre.get('q'))$('q').value=pre.get('q');
+    if(pre.get('state'))$('state').value=pre.get('state').toUpperCase();
+    if(pre.get('cat'))$('cat').value=pre.get('cat');
+    if(pre.get('reach'))$('scope').value=pre.get('reach');
     ['q','state','cat','scope','natl'].forEach(function(id){$(id).addEventListener('input',function(){shown=PAGE;render()})});
     $('more').addEventListener('click',function(){shown+=PAGE;render()});
     $('stats').textContent='Built '+d.built_on+' from '+d.counts.rows_merged.toLocaleString()+' source rows; '+d.counts.duplicates_merged.toLocaleString()+' duplicates merged.';
