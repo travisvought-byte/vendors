@@ -1,0 +1,982 @@
+{
+ "source": "us-oh-haymaker-farmers-market-2026",
+ "title": "Haymaker Farmers' Market 2026 vendors",
+ "publisher": "haymakermarket.com",
+ "landing_url": "https://haymakermarket.com/vendors",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "53459a026bca308dfb9db68adf8becadc72c3cb98f42d1bf01ba8fee1e866534",
+ "counts": {
+  "read": 61,
+  "kept": 61,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "3Shadows Apothecary",
+   "website": "https://www.unabandonedherbals.com/online-store",
+   "category_hint": "herbal teas, tinctures, salves",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Akron Food Works",
+   "website": "https://thewellakron.com/akronfoodworks/",
+   "category_hint": "shared commercial kitchen, rotating food vendor",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Astral Eatz",
+   "website": "https://www.astraleatz.com",
+   "category_hint": "freeze-dried fruit snacks",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Barton Farms and Gardens",
+   "website": "https://www.bartonfarmsandgardens.com",
+   "category_hint": "jams, produce, flowers",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bereka Coffee",
+   "website": "https://www.berekacoffee.com/",
+   "category_hint": "Ethiopian coffee drinks",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Big Deal Whitfield",
+   "website": "https://www.instagram.com/bigdealwhitfield/",
+   "category_hint": "caterer, prepared foods",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bigfoot Mushrooms",
+   "website": "https://www.bigfootmushrooms.net/",
+   "category_hint": "gourmet mushrooms, tinctures",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Birdsong Farm",
+   "category_hint": "organic vegetables, flowers, plant starts",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Brimfield Bread Oven",
+   "website": "https://www.brimfieldbreadoven.com/",
+   "category_hint": "sourdough, pastries",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Busy B Patisserie",
+   "website": "https://www.busybkent.com",
+   "category_hint": "pastries, desserts",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Davina Rae's Hot Sauce",
+   "website": "https://www.davinaraes.com/",
+   "category_hint": "hot sauce",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Dogtown Bakery",
+   "website": "https://www.facebook.com/DogtownBakery/",
+   "category_hint": "dog treats",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Ellington Farms",
+   "website": "https://www.ellingtonfarmsohio.com/",
+   "category_hint": "beef, pork, chicken, eggs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Emily's Soaps",
+   "website": "http://emilyssoaps.com/",
+   "category_hint": "soaps, body butters, balms",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Everett Trail Kitchen",
+   "website": "https://everetttrailkitchen.com/",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Forestview Farmhouse",
+   "website": "https://forestviewfarmhouse.com",
+   "category_hint": "microgreens, peppers, spice blends",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Frank 5 Tool Sharpening",
+   "category_hint": "knife and scissor sharpening",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Freaky Fruits",
+   "category_hint": "food truck, fruit cups, juices",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Gacy's Garden",
+   "category_hint": "salves, bath products, seasonings, teas",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Goodell Family Farm",
+   "website": "http://www.goodellfamilyfarm.com/",
+   "category_hint": "maple syrup",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Haley's Homemade Pantry",
+   "category_hint": "fruit butters, jams",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Haught Hemp",
+   "website": "https://Haughthempllc.com",
+   "category_hint": "hemp salves, tinctures, pet treats",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Health Junkie",
+   "website": "https://heyhealthjunkie.com",
+   "category_hint": "elderberry syrups",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Heron Hill Farm",
+   "website": "https://www.heronhillfarm.net",
+   "category_hint": "produce, plant starts",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Husk-Kees Bakery",
+   "category_hint": "dog treats",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Ikonic Crumbs & Co.",
+   "category_hint": "sourdough bread",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Jo's Kettle Corn",
+   "website": "https://www.facebook.com/JosKettleCorn/",
+   "category_hint": "kettle corn",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "K.C. & Family Coffee",
+   "category_hint": "coffee, cold brew",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Kres Kitchen",
+   "website": "https://www.kreskitchen.com",
+   "category_hint": "fermented vegetables, herbs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Krispies by Vel",
+   "website": "https://www.krispiesbyvel.com/",
+   "category_hint": "rice krispy treats",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Lang Classics",
+   "website": "https://www.langsclassicspickles.com",
+   "category_hint": "pickles",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Little Bean Farm & Larder",
+   "website": "https://littlebeanfarm.com",
+   "category_hint": "cut-flower bouquets",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "MacLean Greens",
+   "category_hint": "hydroponic lettuce, microgreens",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mamalagels Bagels",
+   "website": "https://mamalagels.com/",
+   "category_hint": "bagels",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Martha's Farm",
+   "website": "http://www.marthasfarm.com",
+   "category_hint": "vegetables, fruits",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Micah Specialty Foods",
+   "website": "https://www.micahspecialtyfoods.com",
+   "category_hint": "marinade sauce",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mueller Honey Bee",
+   "website": "https://www.muellerhoneybee.org/",
+   "category_hint": "honey and hive products",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "NEO Pops",
+   "website": "https://www.facebook.com/neopopsicles/",
+   "category_hint": "popsicles",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "New Life Soils",
+   "website": "https://newlifesoils.com/",
+   "category_hint": "food scrap pickup, compost",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Oak Tree Hydroponics Farms",
+   "website": "https://oaktreehydroponics.com/",
+   "category_hint": "hydroponic lettuce, herbs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Old Forge Dairy",
+   "website": "https://oldforgedairycheese.wixsite.com/oldforgedairy",
+   "category_hint": "aged cheese",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Purple Thistle Botanicals",
+   "website": "https://www.thepurplethistle.com/",
+   "category_hint": "skin and body products",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Rogues Over The Top Pierogi",
+   "website": "https://roguespierogi.com/",
+   "category_hint": "pierogi",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Rose Ridge Farm",
+   "website": "https://www.facebook.com/roseridgeorganic/",
+   "category_hint": "organic beef",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Rusty Creek Coffee",
+   "website": "https://www.rustycreekcoffee.com/",
+   "category_hint": "roast-to-order coffee",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Savoure Kitchen",
+   "website": "http://savorysnackage.com",
+   "category_hint": "nut mixes, sauces, dressings",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Shari's Berries and Gardens",
+   "website": "http://www.sharisberriesandgarden.com/",
+   "category_hint": "flowers, arrangements, wreaths",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Smyrna Mediterranean Morsels",
+   "website": "https://www.smyrnamorsels.com/",
+   "category_hint": "Mediterranean prepared foods",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Socially Responsible Sweatshop of Kent",
+   "website": "https://sociallyresponsiblesweatshopohio.org/",
+   "category_hint": "upcycled textile goods",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Swain Perennials",
+   "category_hint": "flowers, arrangements, crafts",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tea Hill Farms",
+   "website": "https://www.teahillsfarms.com/",
+   "category_hint": "pastured meats, sausages",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Curious Crepe",
+   "website": "https://www.facebook.com/thecuriouscrepe/",
+   "category_hint": "mobile crepe stand",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Green Cottage Makery",
+   "website": "https://www.greencottagemakery.com/",
+   "category_hint": "Castile soap, home and body products",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tierra Verde Farms",
+   "website": "https://www.tierraverdefarms.com",
+   "category_hint": "grass-fed beef and lamb, pork, eggs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Top Flight Pasta",
+   "website": "https://topflightpasta.com/",
+   "category_hint": "fresh pasta",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Trailing Edge Farm",
+   "category_hint": "scones, sprouts, vegetables, herbs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Vue Farm",
+   "category_hint": "vegetables, herbs",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Walnut Drive Gardens",
+   "website": "http://walnutdrivegardens.com/",
+   "category_hint": "produce",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Western Reserve Heritage Seed Co",
+   "category_hint": "heirloom seeds, plants",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Woolf Farms",
+   "website": "http://woolffarms.co/",
+   "category_hint": "fruit, vegetables, pies, cider",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wren Box Farm",
+   "website": "https://www.wrenboxfarm.com/",
+   "category_hint": "produce, plant starts",
+   "events": [
+    {
+     "name": "Haymaker Farmers' Market",
+     "year": 2026,
+     "city": "Kent",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

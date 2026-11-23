@@ -1,0 +1,411 @@
+{
+ "source": "us-oh-space-small-press-and-alternative-comics-expo-2026",
+ "title": "SPACE (Small Press and Alternative Comics Expo) 2026 exhibitors",
+ "publisher": "spaceguy1313.blogspot.com",
+ "landing_url": "https://spaceguy1313.blogspot.com/2026/02/space-2026-exhibitor-bios-part-1.html",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "958103ebf0f4f3a3c22155c37e534aea1ffae2ec5cf4848828c585b9814f452c",
+ "counts": {
+  "read": 26,
+  "kept": 26,
+  "dropped": {},
+  "personal_name_only": 77
+ },
+ "vendors": [
+  {
+   "name": "80 Proof Comix",
+   "category_hint": "mini comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "BobxSonic",
+   "category_hint": "comic book artist",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Bumble Banner",
+   "category_hint": "small press comics, zines, merch",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Power Pulp Comics",
+   "website": "https://powerpulpcomics.com/",
+   "category_hint": "comics publisher/collective",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "CanonWrite Productions",
+   "category_hint": "comic anthologies",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Columbus Cartoon Coalition",
+   "category_hint": "cartoonist community group",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Comicsburgh",
+   "category_hint": "comics creator/curator (Pittsburgh)",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cretin Comix",
+   "category_hint": "self-published comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Crooked Comix",
+   "category_hint": "comics company",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cartoon Crossroads Columbus (CXC)",
+   "category_hint": "comics and animation festival",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Flyby Publishing",
+   "category_hint": "independent comics publisher",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Gutpunks & Rahaf!",
+   "category_hint": "zines, stickers, prints, crafts",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Amiculus Books",
+   "category_hint": "comics self-publishing label",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Ironclad Comics",
+   "category_hint": "comics self-publishing",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Last Pages of Humanity",
+   "category_hint": "printmaking, comics, zines",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Caesar Comics",
+   "category_hint": "comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "TORC Press",
+   "category_hint": "small press comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Museum of Infinite Outcomes",
+   "category_hint": "exhibit",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mobankiki",
+   "website": "https://mobankiki.com",
+   "category_hint": "illustration, comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Phoenix Productions",
+   "category_hint": "small press comics, fanzines",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "All Sorrows",
+   "category_hint": "illustration, comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "RAW COMIX",
+   "category_hint": "comics",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cbus Comics & Zines Society",
+   "category_hint": "comics and zines society",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Unhinged Twins",
+   "category_hint": "character art and design",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "COPY THIS!",
+   "category_hint": "indie zine",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Zine Club Columbus",
+   "category_hint": "zine-making community",
+   "events": [
+    {
+     "name": "SPACE (Small Press and Alternative Comics Expo)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "convention"
+  }
+ ]
+}

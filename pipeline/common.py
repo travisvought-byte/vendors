@@ -40,7 +40,7 @@ CATEGORIES = {
     'security-logistics': 'Security & Logistics',
     'event-services': 'Event Services & Rentals',
     'entertainment': 'Entertainment & Activities',
-    'outdoors-auto': 'Outdoors, Auto & Recreation',
+    'outdoors-auto': 'Outdoors, Equine, Auto & Recreation',
     'nonprofit-community': 'Nonprofit, Community & Government',
     'other': 'Other',
 }

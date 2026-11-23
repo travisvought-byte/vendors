@@ -1,0 +1,126 @@
+{
+ "event": {
+  "name": "Metro Times Cannabis Week",
+  "year": 2026,
+  "city": "Detroit metro",
+  "state": "MI",
+  "type": "festival"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://www.metrotimes.com/?p=296126",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Hytek",
+   "category_hint": "cannabis brand"
+  },
+  {
+   "name": "Local Grove",
+   "category_hint": "cannabis brand"
+  },
+  {
+   "name": "Tip Top Crop",
+   "category_hint": "cannabis brand"
+  },
+  {
+   "name": "Utopia Gardens",
+   "category_hint": "cannabis brand/dispensary"
+  },
+  {
+   "name": "One Garden",
+   "category_hint": "cannabis cultivation and processing"
+  },
+  {
+   "name": "Emerald Canning",
+   "category_hint": "cannabis beverages"
+  },
+  {
+   "name": "Wojo",
+   "city": "Pinconning",
+   "state": "MI",
+   "category_hint": "cannabis brand"
+  },
+  {
+   "name": "The Hive",
+   "city": "Hazel Park",
+   "state": "MI",
+   "category_hint": "dispensary and microbusiness; flower, live rosin"
+  },
+  {
+   "name": "Premier Cannabis Farms",
+   "city": "Lansing area",
+   "state": "MI",
+   "category_hint": "small-batch flower"
+  },
+  {
+   "name": "Growing Pains",
+   "city": "Paw Paw",
+   "state": "MI",
+   "category_hint": "flower and live rosin"
+  },
+  {
+   "name": "DogHouse Farms",
+   "city": "Detroit",
+   "state": "MI",
+   "category_hint": "flower"
+  },
+  {
+   "name": "Mojo Chocolate",
+   "category_hint": "THC-infused chocolate"
+  },
+  {
+   "name": "KSHN Pouch Co.",
+   "state": "MI",
+   "category_hint": "THC pouches"
+  },
+  {
+   "name": "Society C",
+   "city": "Orion Township",
+   "state": "MI",
+   "category_hint": "flower, prerolls, live resin, rosin, vapes"
+  },
+  {
+   "name": "Seed Junky",
+   "category_hint": "flower"
+  },
+  {
+   "name": "LegaSea Farms",
+   "category_hint": "flower and prerolls"
+  },
+  {
+   "name": "Dank & Disorderly",
+   "category_hint": "flower brand (grown by Delta Farms)"
+  },
+  {
+   "name": "Delta Farms",
+   "city": "Niles",
+   "state": "MI",
+   "category_hint": "cannabis cultivation"
+  },
+  {
+   "name": "High Neighbor",
+   "category_hint": "flower, prerolls, concentrates"
+  },
+  {
+   "name": "Candy Man",
+   "category_hint": "flower"
+  },
+  {
+   "name": "Levels",
+   "state": "MI",
+   "category_hint": "dispensary retail network"
+  },
+  {
+   "name": "Puff Cannabis",
+   "state": "MI",
+   "category_hint": "sponsor; dispensary chain"
+  },
+  {
+   "name": "BDT Smoke Shop",
+   "city": "Hazel Park",
+   "state": "MI",
+   "category_hint": "sponsor; smoke shop"
+  }
+ ]
+}

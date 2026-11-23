@@ -1,0 +1,223 @@
+{
+ "event": {
+  "name": "Columbus Building & Renovation Expo",
+  "year": 2027,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://homeshowcenter.com/content/columbus/1277",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "ADT Security Services Inc",
+   "category_hint": "Home Automation & Security"
+  },
+  {
+   "name": "All American Gutter Protection",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "Altimate Outdoors",
+   "category_hint": "StruXure luxury motorized louvered pergolas and retractable screens"
+  },
+  {
+   "name": "America's Best Choice Windows",
+   "category_hint": "Windows, Doors, Baths"
+  },
+  {
+   "name": "Art of Drawers Columbus",
+   "category_hint": "Shelving"
+  },
+  {
+   "name": "Bath Fitter",
+   "category_hint": "Bath & Shower Liners"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Corps 1 Construction",
+   "category_hint": "Remodeling, Painting, Gutters, Skylights"
+  },
+  {
+   "name": "Culligan Water",
+   "category_hint": "Window Treatments (as listed)"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "category_hint": "Cutlery"
+  },
+  {
+   "name": "Diamond in the Rough Property Solutions LLC",
+   "category_hint": "Remodeler"
+  },
+  {
+   "name": "Edison Landscape & Deck Lighting, LLC",
+   "category_hint": "Landscape lighting"
+  },
+  {
+   "name": "Everdry Waterproofing",
+   "category_hint": "Waterproofing & Foundation Repair"
+  },
+  {
+   "name": "ExperiGreen Lawn Care",
+   "category_hint": "Lawn Care"
+  },
+  {
+   "name": "Floor Coverings International",
+   "category_hint": "Flooring"
+  },
+  {
+   "name": "GatorGuard Concrete Coatings",
+   "category_hint": "Coatings"
+  },
+  {
+   "name": "Groovy Hues Painting of Hilliard",
+   "category_hint": "Painting Contractors"
+  },
+  {
+   "name": "Groundworks-Ohio Basement Authority",
+   "category_hint": "Foundation Repair, Waterproofing, Crawlspace, Concrete"
+  },
+  {
+   "name": "Home Genius Exteriors",
+   "category_hint": "Windows"
+  },
+  {
+   "name": "ImproveIt! Home Remodeling",
+   "category_hint": "Windows & Bathroom Remodeling"
+  },
+  {
+   "name": "Infinity from Marvin",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "JSB Home Solutions",
+   "category_hint": "Remodeling, Doors, Kitchens"
+  },
+  {
+   "name": "Keefer Contractors",
+   "category_hint": "Remodeling: kitchen, bath, basement & additions"
+  },
+  {
+   "name": "Kitchen Fronts",
+   "category_hint": "Cabinet Refacing"
+  },
+  {
+   "name": "Kitchen Saver",
+   "category_hint": "Cabinet Refacing"
+  },
+  {
+   "name": "Leaf Home Bath",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Leaf Home Water Solutions",
+   "category_hint": "Water Treatment"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "category_hint": "Gutter Protection"
+  },
+  {
+   "name": "LeafGuard",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "Leisure Time Warehouse",
+   "category_hint": "Spas, Swim Spas & Saunas"
+  },
+  {
+   "name": "Mad City Windows and Baths",
+   "category_hint": "Windows, Bath Remodeling, Kitchen Reface, Garage Solutions"
+  },
+  {
+   "name": "Nature Hill NV",
+   "category_hint": "Skincare"
+  },
+  {
+   "name": "Nature Stone",
+   "category_hint": "Stone & Epoxy Flooring"
+  },
+  {
+   "name": "NJW Renovations Unlimited",
+   "category_hint": "Kitchen & Bathroom Remodeling"
+  },
+  {
+   "name": "NRG Home",
+   "category_hint": "Residential energy plans and services"
+  },
+  {
+   "name": "Ohio Renovation Solutions",
+   "category_hint": "Bath & Kitchens"
+  },
+  {
+   "name": "Otterly Bath",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Paint & Rollers LLC",
+   "category_hint": "Painting Contractors-Exterior/Interior"
+  },
+  {
+   "name": "PaperPie",
+   "category_hint": "Books"
+  },
+  {
+   "name": "Patio Enclosures",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures"
+  },
+  {
+   "name": "Renewal By Andersen",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Residence Design Build Remodel",
+   "category_hint": "Remodeling Contractors"
+  },
+  {
+   "name": "ShelfGenie of Columbus",
+   "category_hint": "Roll-out shelving"
+  },
+  {
+   "name": "SHLY™ Deck & Fence",
+   "category_hint": "Decks, Fences, Railings, Patio Covers & Furniture"
+  },
+  {
+   "name": "Simple Bath & Kitchen",
+   "category_hint": "Remodeling - Kitchen & Bath"
+  },
+  {
+   "name": "SmartLevel Concrete",
+   "category_hint": "Concrete Repair/Lifting and Leveling"
+  },
+  {
+   "name": "Sunspace of Central Ohio LLC",
+   "category_hint": "Sunrooms, Patio, & Deck Covers"
+  },
+  {
+   "name": "TEGO",
+   "category_hint": "Roofing, Siding, Gutters"
+  },
+  {
+   "name": "Universal Windows Direct",
+   "category_hint": "Windows, Roofing, Siding, Gutters"
+  },
+  {
+   "name": "Wayne Homes",
+   "category_hint": "Home Builders"
+  },
+  {
+   "name": "Window Nation",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Wingler Construction & Remodeling",
+   "category_hint": "Remodeling - Kitchen, Bath, Basement, & Additions"
+  }
+ ]
+}

@@ -1,0 +1,1324 @@
+{
+ "source": "us-oh-greater-cincinnati-remodeling-expo-2027",
+ "title": "Greater Cincinnati Remodeling Expo 2027 exhibitors",
+ "publisher": "homeshowcenter.com",
+ "landing_url": "https://homeshowcenter.com/content/cincinnati/1275",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "dba0ba2d2f05f2e28ae7c7c1c5403547afd494d0f71d3993b416fc6d828c02ca",
+ "counts": {
+  "read": 87,
+  "kept": 87,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "3 Day Kitchen and Bath",
+   "category_hint": "Remodeling - Kitchens",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "365 Renovations",
+   "category_hint": "Painting Services",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "A Better Life Industries",
+   "category_hint": "Roofing & Solar",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "A1 Concrete Leveling",
+   "category_hint": "Concrete Raising",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Agean Bathrooms",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Agean Spas",
+   "category_hint": "Soft-sided spas",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Alice Cabinets & Woodworking",
+   "category_hint": "Cabinetry and Trim",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "All American Gutter Protection",
+   "category_hint": "Gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Annie Miller Designs",
+   "category_hint": "Kitchen & bath design",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Aqua Systems",
+   "category_hint": "Water Treatment",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ArborCare LLC",
+   "category_hint": "Tree Service",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Art of Drawers",
+   "category_hint": "Shelving and Cabinet",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bath Experts/ Jacuzzi Bath Remodel",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bath Inspirations of Cincinnati LLC",
+   "category_hint": "Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Biehl Brothers Contracting LLC",
+   "category_hint": "Remodeling - kitchens, bath, deck",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bluegrass Trimlight",
+   "category_hint": "Outdoor Lighting",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Build It Brothers LLC",
+   "category_hint": "Home Building, Additions & Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Building Character LLC",
+   "category_hint": "Outdoor Living, Waterfall, Deck",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Carter Kitchen and Bath",
+   "category_hint": "Cabinetry, countertops, flooring",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Champion Windows & Patio Rooms",
+   "category_hint": "Windows, Doors, Siding, Sunrooms",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cincinnati Kitchens",
+   "category_hint": "Remodeling - Kitchens",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cooper Electric",
+   "category_hint": "Electrical Contractor",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Culligan Water",
+   "category_hint": "Water Treatment & Drinking Water",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "category_hint": "Knives",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cutting Edge Flooring & Tile",
+   "category_hint": "Flooring & Tile",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Eagle Custom Homes Inc",
+   "category_hint": "Covered gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Edison Landscape & Deck Lighting",
+   "category_hint": "Landscape Lighting",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Everdry Waterproofing",
+   "category_hint": "Waterproofing",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ExperiGreen Lawn Care",
+   "category_hint": "Lawn/Pest Service",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Five Star Bath Solutions",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Fortress Floors Midwest Pro",
+   "category_hint": "Polyurea floor coatings",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "GatorGuard Concrete Coatings",
+   "category_hint": "Coatings",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gilkey Window Company Inc",
+   "category_hint": "Windows, Patio & Entry Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Greater Cincinnati Doors & Closets",
+   "category_hint": "Home storage/organization, interior doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gutter Solutions Tri-State",
+   "category_hint": "Covered gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "H. Glasgow Construction",
+   "category_hint": "Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Handyman Connection/Mason",
+   "category_hint": "Handyman",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Home Genius Exteriors",
+   "category_hint": "Windows",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Icon Solar LLC",
+   "category_hint": "Solar",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ImproveIt! Home Remodeling",
+   "category_hint": "Windows/Bath Liners",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Infinity Replacement by Marvin",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Innovative Interiors",
+   "category_hint": "Kitchen Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "KBC Design Build & Remodeling",
+   "category_hint": "Remodeling - Kitchens, Bath, Addition",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Bath Design - KBD",
+   "category_hint": "Remodeling - Kitchen & Bath",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Saver",
+   "category_hint": "Kitchen Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Tune-Up Cincinnati East",
+   "category_hint": "Cabinet Refacing",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Klaus Roofing Systems of Cincinnati",
+   "category_hint": "Roof Replacement & Repair",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Lance Roofing & Siding Inc.",
+   "category_hint": "Roofing, Siding, Gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "category_hint": "Gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LeafGuard of Cincinnati LLC",
+   "category_hint": "Gutters",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Legacy Builders Group",
+   "category_hint": "Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LEI Home Enhancements",
+   "category_hint": "Windows, Roofing, Gutters, Siding, Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mad City Windows and Baths",
+   "category_hint": "Windows, Baths, & Kitchen Cabinets",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Midwest Energy Management, LLC",
+   "category_hint": "Insulation",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "MVP Walk-In Tub And Shower",
+   "category_hint": "Walk-In Tubs, Walk-In Showers",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Nature Stone",
+   "category_hint": "Stone and epoxy flooring",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Nisbet Brower",
+   "category_hint": "Kitchen Cabinetry, Countertops, Decking Lumber",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "NRG Home",
+   "category_hint": "Residential energy plans and services",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Otterly Bath",
+   "category_hint": "Remodeling - Bathrooms, Walk In Tubs",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Patio Enclosures",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "PDQ Garage Doors",
+   "category_hint": "Garage Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Peyton Kitchen & Bath",
+   "category_hint": "Remodeling - Kitchen & Bath",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Power Home Remodeling",
+   "category_hint": "Windows, Doors, Attic Insulation",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Re-Bath",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Remark Construction, LLC",
+   "category_hint": "Remodeling; show sponsor",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Renewal by Andersen",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rieman & Arszman Custom Distributors, Inc.",
+   "category_hint": "Appliances",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ryan's All Glass",
+   "category_hint": "Windows, Glass, Mirrors, Shower Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ShelfGenie of Cincinnati",
+   "category_hint": "Custom glide shelving",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "SIS International Trade",
+   "category_hint": "Skincare",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Smart Coat Painting Co.",
+   "category_hint": "Exterior House Painting",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Summer Accents",
+   "category_hint": "Patio Umbrellas",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sunspace by PaltekPro",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Superior Sleep Experience",
+   "category_hint": "Beds",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sustainergy Cooperative",
+   "category_hint": "Solar Panel, Insulation",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Basement Doctor of Cincinnati",
+   "category_hint": "Basement waterproofing, foundation, concrete, crawl space repair",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Dwyer Company",
+   "category_hint": "Waterproofing & Foundation Repair",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Three D Kitchen",
+   "category_hint": "Cabinet Replacement",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tri-State Waterworks",
+   "category_hint": "Water Treatment",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Universal Windows Direct",
+   "category_hint": "Windows, Doors, Siding",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "US Custom Creations",
+   "category_hint": "Motorized screens and louvered roofs",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wildcat Massage Chairs",
+   "category_hint": "Massage Chairs",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Window Nation",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Windows Direct USA",
+   "category_hint": "Windows, Entry Doors, Bath Remodeling",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Windows Plus Cincinnati",
+   "category_hint": "Windows, Doors, Roofing, Siding",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Zimmer Heating & Cooling",
+   "category_hint": "Heating & Air Conditioning",
+   "events": [
+    {
+     "name": "Greater Cincinnati Remodeling Expo",
+     "year": 2027,
+     "city": "Sharonville",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  }
+ ]
+}

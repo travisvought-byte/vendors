@@ -1,0 +1,229 @@
+{
+ "source": "us-oh-columbus-food-truck-festival-2025",
+ "title": "Columbus Food Truck Festival 2025 food-vendors",
+ "publisher": "www.experiencecolumbus.com",
+ "landing_url": "https://www.experiencecolumbus.com/blog/post/columbus-food-truck-festival-2025/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "87318bedbc60a8793e2dc6035cc5aeb773dd6bce214732be5e0f24146e51f4ed",
+ "counts": {
+  "read": 14,
+  "kept": 14,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "Cousins Maine Lobster",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Big Pappy's BBQ",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Island Noodles",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Tortilla Street Food",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Aloha Aina Food Truck",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "For the Love of Dough",
+   "category_hint": "dessert",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Amish Country Donuts",
+   "category_hint": "dessert",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Ciao Gelato Truck",
+   "category_hint": "dessert",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Diamonds Ice Cream",
+   "category_hint": "dessert",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Rime Time Pops",
+   "category_hint": "dessert",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Coffico African Beauty and Fashion",
+   "category_hint": "artisan",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Magic Hands Massage Bus",
+   "category_hint": "service",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "JW Sticker Shop",
+   "category_hint": "artisan",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Columbus Vintage Exchange",
+   "category_hint": "vintage market",
+   "events": [
+    {
+     "name": "Columbus Food Truck Festival",
+     "year": 2025,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  }
+ ]
+}

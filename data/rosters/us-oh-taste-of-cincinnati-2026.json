@@ -1,0 +1,331 @@
+{
+ "event": {
+  "name": "Taste of Cincinnati",
+  "year": 2026,
+  "city": "Cincinnati",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://www.fox19.com/2026/05/21/everything-you-need-know-about-taste-cincinnati-2026/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Adena's Beefstroll",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "AJ's Cheesesteaks",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Alfio's Buon Cibo",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Alley Baby",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Bridges Nepali Cuisine",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Buffalo's Best",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Che's Globally Inspired Catering and Events",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Cheese N Chong",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Chicago Gyros and Dogs",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Chino's Street Food",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Christine's Casual Dining",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Davis Cookie Collection",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Dreamys Ice Cream",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Eddie's Southern Style BBQ",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Eliza Jane's Bakeshop",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "El Vaquero Food Truck",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Funnel Cake Island",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Fusako Japanese Street Fusion",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Gee's Caribbean Kitchen",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Glier's Goetta",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Goetta and Sweets",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Hankering Southern Kitchen",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Izzy's",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Juntos Mexican Cocina",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Kabobske",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "LALO Chino Latino",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "LaRosa's Family Pizzeria",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Larry's",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Lasang Pinoy Filipino Eats",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Little Trolley Donuts",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Lobsta Bakes of Maine",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Mama Afrique Nigerian Cuisine",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "MamaBear's Mac",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Maw Maw's Creole Kitchen",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Maya Indian Restaurant",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Mazunte Mercado Catering",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Mis Sabores",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Off The Hook",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Oliver's Desserts",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Paityn's Place Soul Food Catering and Cuisine",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Pierre Entities Catering",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Pompilio's Restaurant",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Red Sesame Korean BBQ",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "S.E.A. Cuisine Foodtruck",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Sawasdee Thai Cuisine & Sushi",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Schmidt's of German Village",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "SugarSnap! Sweet Treats",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Taste of Belgium",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "The Cheesecakery",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "The German Corner",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "The Naughty Lobstah",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Tickle Pickle Restaurant",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Twisted Greek",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Wicked Hickory",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Afromeals",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "BanaSun",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Dat's Ole School Cookin'",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Daveyboy's Bourbon Pecans",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Deme Kitchen",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Honey Child Pops",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Jane's Bar",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Jay's Nyam & Jam",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Lotus Street Food",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Magnificent Morsels Catering",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Maker Bakers Co.",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Oliver Tree Catering",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Pankis Dutch Pancakes",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Rocky's Home Flavor",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Sabor Alaniz",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Sen by Kiki",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Soleil Kitchen",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "The Arepa Place",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "The Empanada's Box",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "The Passion Plate",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Tilita",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Twinergy",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Walkerbar",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Wendigo Tea Co.",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  },
+  {
+   "name": "Yee Mama",
+   "category_hint": "food vendor (Taste of Findlay Market section)"
+  }
+ ]
+}

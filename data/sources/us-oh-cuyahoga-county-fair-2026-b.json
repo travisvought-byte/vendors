@@ -1,0 +1,724 @@
+{
+ "source": "us-oh-cuyahoga-county-fair-2026-b",
+ "title": "Cuyahoga County Fair 2026 food-vendors",
+ "publisher": "grandstandsites.com",
+ "landing_url": "https://grandstandsites.com/wlist.php?i=CCF161286180123473124SGS&f=true&iframe=true",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "d39f92b6f91bb3ff882886a76b31dd8e4d07d8900c1869a6d4c82617dd25f42f",
+ "counts": {
+  "read": 49,
+  "kept": 47,
+  "dropped": {},
+  "personal_name_only": 2
+ },
+ "vendors": [
+  {
+   "name": "Amfamco Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Angus Tail",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Boba Tea",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Boltonbacher Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bretz Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bubble Gum Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bubblegum BBQ",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Buckeye Choc",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bush Concessions 3",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bush Fairway Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "CM Concesscions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Concessions Mngt Corp Bob's Lemonade",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Creamalot Ice Cream",
+   "category_hint": "ice cream",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Daughters of CM Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Dechelis Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "DiRusso's Italian Sausage",
+   "category_hint": "Italian sausage sandwiches",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Duncan Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Euclid Beach Custard",
+   "category_hint": "custard",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Evans Family Fudge",
+   "category_hint": "fudge, roasted nuts",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Farmer Foods Inc",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Funnel Cakes- Pennsylvania Dutch",
+   "category_hint": "funnel cakes, birch beer",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Glo Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "J-Bob Shop",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Jimbo Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kolar French Fries",
+   "category_hint": "fries, chicken tenders",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kolar Swiss Fried Cheese",
+   "category_hint": "fried Swiss cheese",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kolar's French Waffles",
+   "category_hint": "waffles",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kona Ice",
+   "category_hint": "shaved ice",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Link Slingers LLC",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Lisa's Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Morlock Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Nana's Kitchen and Catering LLC",
+   "category_hint": "Cubans, empanadas, skewers, rice bowls",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "North American Food Service",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ohio Best Lemonade",
+   "category_hint": "lemonade",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ohm Aesthetic Coffee",
+   "category_hint": "coffee",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Otter Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Otterbacher Bros",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Otterbacher Tradions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Otterbacher's Cotton Candy/Candy Apples",
+   "category_hint": "cotton candy, candy apples, popcorn",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Pretzel Palace",
+   "category_hint": "pretzels, cinnamon rolls",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Redmond Concessions DG",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Rutana Concessions",
+   "category_hint": "apple dumplings, floats, drinks",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Saigon Pearl",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Sweet Jo's Concessions",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Wild Bill's Soda",
+   "category_hint": "soda",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Yarikground",
+   "category_hint": "food concession",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ye Olde Kettlecorn",
+   "category_hint": "kettle corn",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  }
+ ]
+}

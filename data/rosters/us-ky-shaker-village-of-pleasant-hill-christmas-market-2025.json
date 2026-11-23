@@ -1,0 +1,204 @@
+{
+ "event": {
+  "name": "Shaker Village of Pleasant Hill Christmas Market",
+  "year": 2025,
+  "city": "Harrodsburg",
+  "state": "KY",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://shakervillageky.org/wp-content/uploads/2025/10/2025_ChristmasMarket_VendorList_AR02.pdf",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 7,
+ "vendors": [
+  {
+   "name": "Sherwood Acres Farms",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "botanical"
+  },
+  {
+   "name": "Livingston Wilted Wonders",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "botanical"
+  },
+  {
+   "name": "Pinecones and Peanuts",
+   "category_hint": "2D art"
+  },
+  {
+   "name": "Fly Girl Candles",
+   "city": "Louisville",
+   "state": "KY",
+   "category_hint": "apothecary"
+  },
+  {
+   "name": "Forever Rose",
+   "city": "Lancaster",
+   "state": "KY",
+   "website": "https://shopforeverrose.square.site",
+   "category_hint": "apothecary"
+  },
+  {
+   "name": "Baskets by Derek",
+   "city": "Lexington",
+   "state": "KY",
+   "website": "https://basketsbyderek.com",
+   "category_hint": "baskets"
+  },
+  {
+   "name": "Sakia One Of a Kind",
+   "city": "Lexington",
+   "state": "KY",
+   "category_hint": "ceramics"
+  },
+  {
+   "name": "Three Lick Pottery",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "website": "https://threelickpottery.com",
+   "category_hint": "ceramics"
+  },
+  {
+   "name": "Gifts from the Garden",
+   "city": "Lexington",
+   "state": "KY"
+  },
+  {
+   "name": "Dew Drop Pottery",
+   "city": "Livingston",
+   "state": "KY"
+  },
+  {
+   "name": "Blackwatch Alpacas",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "website": "https://blackwatchalpacas.com",
+   "category_hint": "fiber"
+  },
+  {
+   "name": "Luckey Bears",
+   "city": "Indianapolis",
+   "state": "IN",
+   "category_hint": "fiber"
+  },
+  {
+   "name": "Worker Bee Sewing Company",
+   "city": "Berea",
+   "state": "KY",
+   "category_hint": "fiber"
+  },
+  {
+   "name": "A Wiseman's Christmas",
+   "city": "Irvine",
+   "state": "KY",
+   "category_hint": "fiber"
+  },
+  {
+   "name": "That Beard Guy Customs",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "fiber"
+  },
+  {
+   "name": "Green Penguin Hot Sauce",
+   "city": "Midway",
+   "state": "KY",
+   "category_hint": "food"
+  },
+  {
+   "name": "Boone Creek Creamery",
+   "city": "Lexington",
+   "state": "KY",
+   "category_hint": "food"
+  },
+  {
+   "name": "Dough Rae Mi",
+   "city": "Versailles",
+   "state": "KY",
+   "category_hint": "food"
+  },
+  {
+   "name": "4J's Farm",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "food"
+  },
+  {
+   "name": "Mystic Glass",
+   "city": "Berea",
+   "state": "KY",
+   "category_hint": "jewelry"
+  },
+  {
+   "name": "Twelfth House Design",
+   "city": "Berea",
+   "state": "KY",
+   "website": "https://12thhousedesigns.com",
+   "category_hint": "jewelry"
+  },
+  {
+   "name": "Pod's Forge",
+   "city": "Wilmore",
+   "state": "KY",
+   "website": "https://podsforge.com",
+   "category_hint": "metal"
+  },
+  {
+   "name": "Mangled & Tangled Knots",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Top Shelf Production",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Gand N Wood & Glass Creations",
+   "city": "Bardstown",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Bluegrass Leather Traditions",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Made to Remember",
+   "city": "Midway",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Jamila Works",
+   "city": "Louisville",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Wired and Wooly",
+   "city": "Danville",
+   "state": "KY",
+   "category_hint": "mixed media"
+  },
+  {
+   "name": "Happy Spooning",
+   "city": "Louisville",
+   "state": "KY",
+   "website": "https://happyspooning.com",
+   "category_hint": "wood"
+  },
+  {
+   "name": "Gobey's Grave Furniture",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "wood"
+  }
+ ]
+}

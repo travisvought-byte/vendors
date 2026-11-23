@@ -1,0 +1,184 @@
+{
+ "source": "us-oh-great-dayton-food-truck-rally-2025",
+ "title": "Great Dayton Food Truck Rally 2025 food-vendors",
+ "publisher": "www.daytondailynews.com",
+ "landing_url": "https://www.daytondailynews.com/local/more-than-50-vendors-will-be-at-2-day-great-dayton-food-truck-rally/NN6JNSAA25AQJPWGFTKFZENV6E",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "0f8a9539d3c7f52f371842f8a903c11e7cb9f79ab53ef6c5713c2829eb7e0818",
+ "counts": {
+  "read": 11,
+  "kept": 11,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "A Food Hall on Wheels",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Briellas Hot Dogs",
+   "category_hint": "hot dogs",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Claybourne Grill",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Dunkers and Beans",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "El Diablo Grill",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Let's Eat Food Truck",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "MamaBear's Mac",
+   "category_hint": "mac and cheese",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Order Up Food Truck",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Suga and Slices",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Tasty Bacon's",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Yellow Springs Brewery",
+   "category_hint": "craft beer",
+   "events": [
+    {
+     "name": "Great Dayton Food Truck Rally",
+     "year": 2025,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  }
+ ]
+}

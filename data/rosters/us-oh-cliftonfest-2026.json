@@ -1,0 +1,177 @@
+{
+ "event": {
+  "name": "CliftonFest",
+  "year": 2026,
+  "city": "Cincinnati",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "artists",
+ "source_url": "https://cliftonculturalarts.org/cliftonfest/cliftonfest-vendors-2/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 4,
+ "vendors": [
+  {
+   "name": "Abstract Junction",
+   "website": "https://www.abstractjunction.com",
+   "category_hint": "upcycled apparel, patches, illustrations"
+  },
+  {
+   "name": "Art.itika",
+   "category_hint": "watercolor and ink art, cards"
+  },
+  {
+   "name": "Atticfuneral",
+   "website": "https://atticfuneral.bigcartel.com",
+   "category_hint": "gouache paintings, lino prints, stickers"
+  },
+  {
+   "name": "Bgirlsbeads",
+   "category_hint": "handcrafted jewelry"
+  },
+  {
+   "name": "Boardroom Charcuterie",
+   "category_hint": "hand-painted charcuterie boards, trays"
+  },
+  {
+   "name": "Candy's Nuts",
+   "website": "https://www.candysnuts.net",
+   "category_hint": "baked flavored nuts"
+  },
+  {
+   "name": "Dani Dreams of Glass LLC",
+   "website": "https://danidreamsofglass.com",
+   "category_hint": "fused glass jewelry, ornaments, dishes"
+  },
+  {
+   "name": "Dead Rich StreetWear",
+   "website": "https://deadrichstreetwear.com/",
+   "category_hint": "upcycled streetwear"
+  },
+  {
+   "name": "Deliciously Sweet Freeze Dried Treats",
+   "category_hint": "freeze-dried candy and fruit"
+  },
+  {
+   "name": "Fiber Fabric Designs by Therese",
+   "category_hint": "wet-felted and embroidered fiber art"
+  },
+  {
+   "name": "Fictitious Jewels",
+   "category_hint": "statement jewelry"
+  },
+  {
+   "name": "Gallery of Dixie LLC",
+   "category_hint": "upcycled yard and garden art"
+  },
+  {
+   "name": "Glazed & Confused Creations",
+   "website": "https://www.glazedconfusedcreations.com/",
+   "category_hint": "ceramics"
+  },
+  {
+   "name": "Hive and Comb",
+   "website": "https://www.hiveandcomb.com",
+   "category_hint": "raw and flavored honey"
+  },
+  {
+   "name": "Hodge Podge",
+   "category_hint": "natural dyes, leatherwork, block printing"
+  },
+  {
+   "name": "Hodgepodge Studio",
+   "website": "https://hodgepodgebloomington.com/",
+   "category_hint": "slipcast ceramics"
+  },
+  {
+   "name": "IKA Jewels",
+   "website": "https://ikajewels.com/",
+   "category_hint": "stainless and plated jewelry"
+  },
+  {
+   "name": "KOSZTALASCOPES",
+   "website": "https://kosztalascopes.com",
+   "category_hint": "linocut prints"
+  },
+  {
+   "name": "KS Ceramics",
+   "category_hint": "handmade clay products"
+  },
+  {
+   "name": "Keyashas Creations LLC",
+   "website": "https://keyashascreations.company.site/",
+   "category_hint": "scented candles, self-care products"
+  },
+  {
+   "name": "Lifer Studios",
+   "category_hint": "functional pottery"
+  },
+  {
+   "name": "MCM Gravel Art",
+   "category_hint": "ground-glass gravel art"
+  },
+  {
+   "name": "Mim and Moxie Shop LLC",
+   "website": "https://mimandmoxieshopllc.etsy.com",
+   "category_hint": "felted wool, ceramic and resin art"
+  },
+  {
+   "name": "Modern Muse Painting",
+   "category_hint": "acrylic figurative paintings"
+  },
+  {
+   "name": "NC Arts",
+   "category_hint": "crochet, fiber art, illustrations"
+  },
+  {
+   "name": "Northside Comics and Art",
+   "website": "https://etsy.com/shop/NorthsideComics",
+   "category_hint": "prints, trading cards, mini comics"
+  },
+  {
+   "name": "Pineworkshop LLC",
+   "website": "https://www.pineworkshopllc.com/",
+   "category_hint": "hand-carved wood folk art"
+  },
+  {
+   "name": "Poe Pottery",
+   "category_hint": "wheel-thrown pottery"
+  },
+  {
+   "name": "Pollinators and Posies",
+   "website": "https://pollinatorsandposies.com",
+   "category_hint": "dried flower art"
+  },
+  {
+   "name": "PopWater Studio",
+   "website": "https://www.popwaterstudio.com",
+   "category_hint": "comic-style art of Cincinnati/NKY landmarks"
+  },
+  {
+   "name": "Clifton Rec Potters",
+   "category_hint": "ceramics collective"
+  },
+  {
+   "name": "Rudābead",
+   "website": "https://rudabead.square.site/",
+   "category_hint": "beadwoven jewelry, bead art"
+  },
+  {
+   "name": "SadderDay Studios, LLC",
+   "category_hint": "tactile textured art"
+  },
+  {
+   "name": "Thinking in Clay",
+   "website": "https://www.thinkinginclay.app/",
+   "category_hint": "atmospheric-fired ceramics"
+  },
+  {
+   "name": "Weird whimsical whittling",
+   "category_hint": "hand-carved figures"
+  },
+  {
+   "name": "Worms 4 Brunch!",
+   "category_hint": "screen and block prints, illustration, fiber arts"
+  }
+ ]
+}

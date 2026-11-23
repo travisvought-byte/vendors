@@ -1,0 +1,59 @@
+{
+ "event": {
+  "name": "Clintonville Farmers Market",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://marketspread.com/market/24612/clintonville-farmers-market/events/78844/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Harriet Gardens",
+   "category_hint": "vegetables, herbs, fruit"
+  },
+  {
+   "name": "The Frazee's Farm",
+   "category_hint": "vegetables, herbs, fruit"
+  },
+  {
+   "name": "Fulton Creek Organic Farm",
+   "category_hint": "vegetables"
+  },
+  {
+   "name": "Darby Valley Farm",
+   "category_hint": "vegetables, fruit"
+  },
+  {
+   "name": "Foraged & Sown",
+   "category_hint": "herbs, vegetables, plants, value-added"
+  },
+  {
+   "name": "R&O Candy Company",
+   "category_hint": "confections"
+  },
+  {
+   "name": "Columbus Sourdough, LLC",
+   "category_hint": "baked goods"
+  },
+  {
+   "name": "Wild Prairie Flower Farm",
+   "category_hint": "flowers"
+  },
+  {
+   "name": "Sweet Grass Dairy",
+   "category_hint": "dairy/other"
+  },
+  {
+   "name": "Sweet Thing Gourmet",
+   "category_hint": "packaged prepared food"
+  },
+  {
+   "name": "Too Good Eats",
+   "category_hint": "packaged prepared food"
+  }
+ ]
+}

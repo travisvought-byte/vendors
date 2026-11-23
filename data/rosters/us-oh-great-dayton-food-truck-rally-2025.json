@@ -1,0 +1,59 @@
+{
+ "event": {
+  "name": "Great Dayton Food Truck Rally",
+  "year": 2025,
+  "city": "Dayton",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://www.daytondailynews.com/local/more-than-50-vendors-will-be-at-2-day-great-dayton-food-truck-rally/NN6JNSAA25AQJPWGFTKFZENV6E",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "A Food Hall on Wheels",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Briellas Hot Dogs",
+   "category_hint": "hot dogs"
+  },
+  {
+   "name": "Claybourne Grill",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Dunkers and Beans",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "El Diablo Grill",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Let's Eat Food Truck",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "MamaBear's Mac",
+   "category_hint": "mac and cheese"
+  },
+  {
+   "name": "Order Up Food Truck",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Suga and Slices",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Tasty Bacon's",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Yellow Springs Brewery",
+   "category_hint": "craft beer"
+  }
+ ]
+}

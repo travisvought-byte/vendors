@@ -1,0 +1,579 @@
+{
+ "source": "us-mi-motor-city-comic-con-2026-b",
+ "title": "Motor City Comic Con 2026 artists",
+ "publisher": "motorcitycomiccon.com",
+ "landing_url": "https://motorcitycomiccon.com/exhibitors/our-crafters/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "56ceca15cec3fd39958770e024c733e7cbfb3a257b14afe8c424e21f530ff1bf",
+ "counts": {
+  "read": 36,
+  "kept": 36,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "2CLOWNS.COM",
+   "website": "https://www.2clowns.com",
+   "category_hint": "face painting, glitter tattoos, balloon twisting",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "734DESIGNS",
+   "website": "https://www.etsy.com/shop/734designs",
+   "category_hint": "pop culture vinyl stickers and street signs",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "ASH VS YARN",
+   "website": "https://www.etsy.com/shop/AshvsYarn",
+   "category_hint": "crochet plushies and accessories",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "BATTLEKATZ",
+   "website": "https://battlekatz000.com/",
+   "category_hint": "custom fandom apparel",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "BLACK BOOK SCULPTS",
+   "website": "https://www.blackbooksculpts.com",
+   "category_hint": "ceramic sculptures and drinkware",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "BLUSHBUNCREATIONS",
+   "website": "https://closetcreeps.carrd.co/",
+   "category_hint": "furry products, fursuit partials",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "CHROMATOFORM",
+   "website": "https://www.chromatoform.com",
+   "category_hint": "laser-cut wood art and decor",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "CONCRETE ROSE RUGS",
+   "website": "https://www.concreteroserugs.com/",
+   "category_hint": "custom tufted rugs",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "CROCHET CREATURES INC",
+   "category_hint": "fandom crochet with 3D-printed elements",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "DIMENSIONAL DESIGNS, LLC",
+   "website": "https://www.dimensional-designs.com/",
+   "category_hint": "3D paper characters in shadowbox frames",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "DOGGIE DANNA",
+   "website": "https://doggiedanna.com/",
+   "category_hint": "pop culture pet bandanas",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "FETHER METAL, LLC",
+   "website": "https://fether-studios.square.site/",
+   "category_hint": "chainmail and scalemail items",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "GLOOMY ERINA",
+   "category_hint": "plush creatures, rag dolls, shadowbox scenes",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "HAWK'S DESIGNER DROIDS",
+   "website": "https://www.etsy.com/shop/designerdroids/",
+   "category_hint": "custom-painted droids and robots",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "HOOF 'N HORN TRADING CO",
+   "category_hint": "dice, plush bats, dragons",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "HOUSE OF ELDRIDGE",
+   "category_hint": "foam armor, helmets, shields, weapons",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "HYRULEZ OCARINAS SHOP",
+   "website": "https://www.hyrulez.shop/",
+   "category_hint": "ocarinas",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "I SEE ALIENS EVERYWEHRE",
+   "website": "https://www.etsy.com/shop/iSeeAliensEverywhere",
+   "category_hint": "earrings, keychains, magnets, stickers",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "KYBER PERL",
+   "website": "https://kyberperl.etsy.com",
+   "category_hint": "stained glass and resin art",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "LADY XYLA'S CREATIONS",
+   "category_hint": "resin and wire jewelry, accessories",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "MOUSE INK CREATIONS",
+   "category_hint": "resin crafts and laser-engraved goods",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "MYMY BUTTERFLY",
+   "website": "https://mymybutterfly.com/",
+   "category_hint": "butterfly and insect art",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "ODDMAN OUT PROPS",
+   "category_hint": "hand-made helmets, armor, props",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "RAM'S HEAD CRAFTWORKS",
+   "category_hint": "pottery",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "RIPIECES DESIGNS",
+   "category_hint": "hand-painted fan art on ceramics, jewelry, glass",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "SATORIOUS DESIGNS",
+   "website": "http://satoriousdesigns.com/",
+   "category_hint": "copper gemstone jewelry",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "SEVEN AND A SWITCHBLADE",
+   "category_hint": "wood cutout wall hangings, stationery",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "SHINY THINGS",
+   "category_hint": "acrylic jewelry",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "SKAGGS OF THE LIVING DEAD",
+   "website": "https://skaggsofthelivingdead.bigcartel.com/",
+   "category_hint": "handmade dolls",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "SLEEPING DRAGON'S DEN",
+   "website": "https://www.sleepingdragonsden.com/",
+   "category_hint": "clay dragons, dice potion bottles, dice boxes",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "STARDUST AND DEW STUDIO",
+   "category_hint": "needle-felted and embroidered creatures, stationery",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "THE CUDDLE CULT",
+   "website": "http://www.thecuddlecult.com",
+   "category_hint": "pop culture plush dolls, stickers",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "THE ULTIMATE PILLOW FIGHT!",
+   "category_hint": "plush swords, shields, nunchucks",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "TRINKET TRUNK",
+   "category_hint": "handmade natural crystal jewelry",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "WOOD TURNED MAGIC",
+   "category_hint": "wooden magic wands and accessories",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  },
+  {
+   "name": "WYTCHWàLD STUDIOS",
+   "category_hint": "pyrography art, tabletop gaming supplies",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "convention"
+  }
+ ]
+}

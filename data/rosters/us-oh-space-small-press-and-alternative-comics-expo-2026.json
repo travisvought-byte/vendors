@@ -1,0 +1,121 @@
+{
+ "event": {
+  "name": "SPACE (Small Press and Alternative Comics Expo)",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "convention"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://spaceguy1313.blogspot.com/2026/02/space-2026-exhibitor-bios-part-1.html",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 77,
+ "vendors": [
+  {
+   "name": "80 Proof Comix",
+   "category_hint": "mini comics"
+  },
+  {
+   "name": "BobxSonic",
+   "category_hint": "comic book artist"
+  },
+  {
+   "name": "Bumble Banner",
+   "category_hint": "small press comics, zines, merch"
+  },
+  {
+   "name": "Power Pulp Comics",
+   "website": "https://powerpulpcomics.com/",
+   "category_hint": "comics publisher/collective"
+  },
+  {
+   "name": "CanonWrite Productions",
+   "category_hint": "comic anthologies"
+  },
+  {
+   "name": "Columbus Cartoon Coalition",
+   "category_hint": "cartoonist community group"
+  },
+  {
+   "name": "Comicsburgh",
+   "category_hint": "comics creator/curator (Pittsburgh)"
+  },
+  {
+   "name": "Cretin Comix",
+   "category_hint": "self-published comics"
+  },
+  {
+   "name": "Crooked Comix",
+   "category_hint": "comics company"
+  },
+  {
+   "name": "Cartoon Crossroads Columbus (CXC)",
+   "category_hint": "comics and animation festival"
+  },
+  {
+   "name": "Flyby Publishing",
+   "category_hint": "independent comics publisher"
+  },
+  {
+   "name": "Gutpunks & Rahaf!",
+   "category_hint": "zines, stickers, prints, crafts"
+  },
+  {
+   "name": "Amiculus Books",
+   "category_hint": "comics self-publishing label"
+  },
+  {
+   "name": "Ironclad Comics",
+   "category_hint": "comics self-publishing"
+  },
+  {
+   "name": "Last Pages of Humanity",
+   "category_hint": "printmaking, comics, zines"
+  },
+  {
+   "name": "Caesar Comics",
+   "category_hint": "comics"
+  },
+  {
+   "name": "TORC Press",
+   "category_hint": "small press comics"
+  },
+  {
+   "name": "The Museum of Infinite Outcomes",
+   "category_hint": "exhibit"
+  },
+  {
+   "name": "Mobankiki",
+   "website": "https://mobankiki.com",
+   "category_hint": "illustration, comics"
+  },
+  {
+   "name": "Phoenix Productions",
+   "category_hint": "small press comics, fanzines"
+  },
+  {
+   "name": "All Sorrows",
+   "category_hint": "illustration, comics"
+  },
+  {
+   "name": "RAW COMIX",
+   "category_hint": "comics"
+  },
+  {
+   "name": "Cbus Comics & Zines Society",
+   "category_hint": "comics and zines society"
+  },
+  {
+   "name": "Unhinged Twins",
+   "category_hint": "character art and design"
+  },
+  {
+   "name": "COPY THIS!",
+   "category_hint": "indie zine"
+  },
+  {
+   "name": "Zine Club Columbus",
+   "category_hint": "zine-making community"
+  }
+ ]
+}

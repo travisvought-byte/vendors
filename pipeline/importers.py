@@ -9,7 +9,7 @@ import re
 from pipeline.common import (EMAIL_RE, PHONE_RE, clean, looks_like_personal_name, scrub, state_code,
                              website)
 
-OCHBS_2026 = {'name': 'Ohio Cannabis Health & Business Summit (OCHBS)', 'year': 2026, 'state': 'OH'}
+OCHBS_2026 = {'name': 'Ohio Cannabis Health & Business Summit (OCHBS)', 'year': 2026, 'city': 'Columbus', 'state': 'OH'}
 
 
 def _counts(read, vendors, **dropped):

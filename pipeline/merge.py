@@ -57,7 +57,7 @@ def load_rows():
 
 
 def event_key(e):
-    return (e.get('name', '').lower(), e.get('year'))
+    return (norm_key(e.get('name', '')), e.get('year'))
 
 
 def build():
@@ -93,9 +93,13 @@ def build():
                                             cities=[f'{c}, {s}' if s else c for c, s in cities],
                                             home_state=home.get('state') if home else None)
         cat, cat_basis = 'other', None
-        for r in group:
-            cat, cat_basis = classify.category(r.get('source_category'), r.get('category_hint'), r.get('name'),
-                                               r.get('roster_kind'), r.get('event_type'))
+        for strict in (True, False):  # what the vendor is first; the kind of event only as a fallback
+            for r in group:
+                ev = None if strict else ((r.get('events') or [{}])[0].get('name'))
+                cat, cat_basis = classify.category(r.get('source_category'), r.get('category_hint'), r.get('name'),
+                                                   r.get('roster_kind'), r.get('event_type'), ev)
+                if cat != 'other':
+                    break
             if cat != 'other':
                 break
         if home:

@@ -1,0 +1,334 @@
+{
+ "source": "us-oh-cuyahoga-county-fair-2026",
+ "title": "Cuyahoga County Fair 2026 vendors",
+ "publisher": "grandstandsites.com",
+ "landing_url": "https://grandstandsites.com/wlist.php?i=CCF8697172361872934124GS&f=true&iframe=true",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "2b99923e55259a3a3811a4eeef57034985efe77158aa1437965d565d5e78c109",
+ "counts": {
+  "read": 21,
+  "kept": 21,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "Alta Equipment Company",
+   "category_hint": "DEVELON equipment dealer",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Colleens Candles and Gifts",
+   "category_hint": "candles, gifts, tumblers",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Grace Church",
+   "category_hint": "church outreach",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Momentum Refresh",
+   "category_hint": "accessible restroom provider",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Noteable Treasures",
+   "category_hint": "jewelry, motorcycle gear, hats, flags",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Now Pet Products",
+   "category_hint": "discount pet supplies",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "WMM Custom Woodwork",
+   "category_hint": "wooden flags, signs, plaques",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "3rd Generation Home Improvements",
+   "category_hint": "roofing, siding, windows",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Beth and Jeanne's Face Painting",
+   "category_hint": "face painting, crafts, jewelry",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Buffalo Bills Jerky and Saltwater Taffy",
+   "category_hint": "jerky, taffy",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "CASA of Cuyahoga County",
+   "category_hint": "nonprofit, foster child advocates",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Clear Choice Flooring",
+   "category_hint": "flooring",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Complete Crazy",
+   "category_hint": "art prints, t-shirts, toys",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cuyahoga County Democratic Party",
+   "category_hint": "political party information",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Different Branches LLC",
+   "category_hint": "jewelry, crystals, soaps",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Five Star Pickles and Sausages",
+   "category_hint": "pickles, cured meats, cheeses",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Joyce: Windows, Sunrooms & Baths",
+   "category_hint": "windows, sunrooms, baths",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Punk Princess Experience",
+   "category_hint": "hair styling experience",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "St. Paul Street Evangelization",
+   "category_hint": "religious outreach",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Suburban West Right to Life",
+   "category_hint": "advocacy group",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Restoration Guys",
+   "category_hint": "roofing, siding, windows",
+   "events": [
+    {
+     "name": "Cuyahoga County Fair",
+     "year": 2026,
+     "city": "Berea",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "fair"
+  }
+ ]
+}

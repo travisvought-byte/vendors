@@ -1,0 +1,250 @@
+{
+ "source": "us-oh-ohayocon-2027",
+ "title": "Ohayocon 2027 vendors",
+ "publisher": "ohayocon.online",
+ "landing_url": "https://ohayocon.online/exhibitors",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "092b5c595621638afc43b6ef59fa71a0c7c833da2c77bb49ed8533b9146f6772",
+ "counts": {
+  "read": 15,
+  "kept": 15,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Glitch Gear Clothing",
+   "website": "http://www.glitchgear.com",
+   "category_hint": "anime/pop-culture vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Angry Fox LLC",
+   "website": "http://Angryfoxanime.com",
+   "category_hint": "anime vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mei Lee Productions",
+   "website": "https://meileeproductions.studio",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Dual Forge Creations",
+   "website": "https://dot.cards/dualforgecreations",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Triple D Prints",
+   "website": "http://Tripledprints.com",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Druids Garden Tea Company",
+   "website": "http://www.druidsgardenteacompany.com",
+   "category_hint": "tea",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cartoon Passion",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Anime Palace",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Dragons Trading",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Kochira Kawaii",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Hen Da Ne! Inc.",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Anime Pavillion",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Tanuki's Trading Post",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Crimson Chain Leatherworks",
+   "category_hint": "leatherwork",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Popheart Studios",
+   "category_hint": "vendor",
+   "events": [
+    {
+     "name": "Ohayocon",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  }
+ ]
+}

@@ -5,8 +5,8 @@
  "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory/blob/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
  "evidence_level": "event-profile",
  "kept_rule": "Every exhibitor in the file; headquarters city and state taken from the profile notes.",
- "retrieved_on": "2026-11-23",
- "read_from": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+ "retrieved_on": null,
+ "read_from": "cache",
  "sha256": "ab9dd512ef3511d88a23f72af1cda29f61af04e13ccfc6e946bbef3638407e84",
  "counts": {
   "read": 13,

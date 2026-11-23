@@ -1,0 +1,709 @@
+{
+ "source": "us-oh-columbus-home-improvement-show-2027",
+ "title": "Columbus Home Improvement Show 2027 exhibitors",
+ "publisher": "homeshowcenter.com",
+ "landing_url": "https://homeshowcenter.com/content/columbushome2/1278",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "0a984bf2cf0300b572915f951935bf072d74f805ff81694660a1deaafc341d22",
+ "counts": {
+  "read": 46,
+  "kept": 46,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "ADT Security Services Inc",
+   "category_hint": "Home Automation & Security",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "All American Gutter Protection",
+   "category_hint": "Gutters",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Altimate Outdoors",
+   "category_hint": "StruXure luxury motorized louvered pergolas and retractable screens",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Art of Drawers Columbus",
+   "category_hint": "Shelving",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Backyard Comfort & Design",
+   "category_hint": "Outdoor poly furniture",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bath Fitter",
+   "category_hint": "Bath & Shower Liners",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Be Aligned Health",
+   "category_hint": "Chiropractor",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Corps 1 Construction",
+   "category_hint": "Remodeling, Painting, Gutters, Skylights",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Culligan Water",
+   "category_hint": "Water Treatment",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "category_hint": "Knives",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Diamond in the Rough Property Solutions LLC",
+   "category_hint": "Remodeler",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Edison Landscape & Deck Lighting, LLC",
+   "category_hint": "Landscape lighting",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ExperiGreen Lawn Care",
+   "category_hint": "Lawn Care",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Farmstead Furniture",
+   "category_hint": "Furniture",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Final Touch Painting",
+   "category_hint": "Painting",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Fireplace Pros",
+   "category_hint": "Fireplace and Chimney Restoration",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Floor Coverings International",
+   "category_hint": "Flooring",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Groovy Hues Painting of Hilliard",
+   "category_hint": "Painting Contractors",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Groundworks-Ohio Basement Authority",
+   "category_hint": "Foundation Repair, Waterproofing, Crawlspace, Concrete",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Home Genius Exteriors",
+   "category_hint": "Windows",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Improveit! Home Remodeling",
+   "category_hint": "Windows & Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Infinity from Marvin",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "JSB Home Solutions",
+   "category_hint": "Remodeling, Doors, Kitchens",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Fronts",
+   "category_hint": "Cabinet Refacing",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Saver",
+   "category_hint": "Cabinet Refacing",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Leaf Home",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Leaf Home Water Solutions",
+   "category_hint": "Water Treatment",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "category_hint": "Gutter Protection",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mad City Windows and Baths",
+   "category_hint": "Windows, Bath Remodeling, Kitchen Reface, Garage Solutions",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mid-State Basement Systems",
+   "category_hint": "Waterproofing",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Nature Hill NV",
+   "category_hint": "Skincare",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "NRG Home",
+   "category_hint": "Residential energy plans and services",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Otterly Bath",
+   "category_hint": "Bathroom Remodeling",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "PaperPie",
+   "category_hint": "Books",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Patio Enclosures",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Renewal by Andersen",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ShelfGenie of Columbus",
+   "category_hint": "Roll-out shelving",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "SmartLevel Concrete",
+   "category_hint": "Concrete Repair/Lifting and Leveling",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sunspace of Central Ohio LLC",
+   "category_hint": "Sunrooms, Patio, & Deck Covers",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Superior Sleep Experience",
+   "category_hint": "Beds",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TEGO",
+   "category_hint": "Roofing, Siding, Gutters",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Universal Windows Direct",
+   "category_hint": "Windows, Doors, Roofing, Gutters",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wildcat Mattress & Massage Chairs",
+   "category_hint": "Beds & Massage Chairs",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Window Nation",
+   "category_hint": "Windows & Doors",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wingler Construction & Remodeling",
+   "category_hint": "Remodeling - Kitchen, Bath, Basement, & Additions",
+   "events": [
+    {
+     "name": "Columbus Home Improvement Show",
+     "year": 2027,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  }
+ ]
+}

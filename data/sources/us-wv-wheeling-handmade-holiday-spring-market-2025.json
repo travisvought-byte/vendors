@@ -1,0 +1,566 @@
+{
+ "source": "us-wv-wheeling-handmade-holiday-spring-market-2025",
+ "title": "Wheeling Handmade Holiday Spring Market 2025 vendors",
+ "publisher": "wheelingheritage.org",
+ "landing_url": "https://wheelingheritage.org/handmade-holiday-spring-market-meet-the-vendors/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "e026a5a2f5fbda4457237337caccebe94d64b44d840e37bb9b5e47bc1bc3e23a",
+ "counts": {
+  "read": 39,
+  "kept": 39,
+  "dropped": {},
+  "personal_name_only": 4
+ },
+ "vendors": [
+  {
+   "name": "Apartment Two Art",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "B. Woven",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bellaroses Inner Sanctuary",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bubbles, Bones & Biscuits, LLC",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Card Art by Jes",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Crowded Cat Studio",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Deylight Photography",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Er + Ryal",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Fuzzy Whale Paper Co",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Goat and Soy",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Granny's Girly Goodies LLC",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "House of Hume",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Jericho Road Collective",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Lady Orchid House",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Lone Stone Designs",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mel's Alternative Images",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mountain State Craftsman",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Morning Light Studio",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Nonni says SEW",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Old Soul Candle Co",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Papa Faith",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pamspots",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pressed Oil of Gladness",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "RF Sweet Shop",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sea Salt and Cedar",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sips and Sweets",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Stone Cottage Apothecary",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "SubZero Treats",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sugar and Spice Cookie Co LLC",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Cookie Culprit",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Local Beadery, LLC",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Moors Collective",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Queen of Arts~Curiosities",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tacet Coffee Cart",
+   "category_hint": "craft coffee drinks",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Weeping Willow Farm",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "To Crafting And Beyond",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Weathered Wren",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Yardscape LLC",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "16th Street Clay Co.",
+   "events": [
+    {
+     "name": "Wheeling Handmade Holiday Spring Market",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

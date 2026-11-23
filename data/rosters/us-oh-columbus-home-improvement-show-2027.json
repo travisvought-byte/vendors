@@ -1,0 +1,199 @@
+{
+ "event": {
+  "name": "Columbus Home Improvement Show",
+  "year": 2027,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://homeshowcenter.com/content/columbushome2/1278",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "ADT Security Services Inc",
+   "category_hint": "Home Automation & Security"
+  },
+  {
+   "name": "All American Gutter Protection",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "Altimate Outdoors",
+   "category_hint": "StruXure luxury motorized louvered pergolas and retractable screens"
+  },
+  {
+   "name": "Art of Drawers Columbus",
+   "category_hint": "Shelving"
+  },
+  {
+   "name": "Backyard Comfort & Design",
+   "category_hint": "Outdoor poly furniture"
+  },
+  {
+   "name": "Bath Fitter",
+   "category_hint": "Bath & Shower Liners"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Be Aligned Health",
+   "category_hint": "Chiropractor"
+  },
+  {
+   "name": "Corps 1 Construction",
+   "category_hint": "Remodeling, Painting, Gutters, Skylights"
+  },
+  {
+   "name": "Culligan Water",
+   "category_hint": "Water Treatment"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "category_hint": "Knives"
+  },
+  {
+   "name": "Diamond in the Rough Property Solutions LLC",
+   "category_hint": "Remodeler"
+  },
+  {
+   "name": "Edison Landscape & Deck Lighting, LLC",
+   "category_hint": "Landscape lighting"
+  },
+  {
+   "name": "ExperiGreen Lawn Care",
+   "category_hint": "Lawn Care"
+  },
+  {
+   "name": "Farmstead Furniture",
+   "category_hint": "Furniture"
+  },
+  {
+   "name": "Final Touch Painting",
+   "category_hint": "Painting"
+  },
+  {
+   "name": "Fireplace Pros",
+   "category_hint": "Fireplace and Chimney Restoration"
+  },
+  {
+   "name": "Floor Coverings International",
+   "category_hint": "Flooring"
+  },
+  {
+   "name": "Groovy Hues Painting of Hilliard",
+   "category_hint": "Painting Contractors"
+  },
+  {
+   "name": "Groundworks-Ohio Basement Authority",
+   "category_hint": "Foundation Repair, Waterproofing, Crawlspace, Concrete"
+  },
+  {
+   "name": "Home Genius Exteriors",
+   "category_hint": "Windows"
+  },
+  {
+   "name": "Improveit! Home Remodeling",
+   "category_hint": "Windows & Bathroom Remodeling"
+  },
+  {
+   "name": "Infinity from Marvin",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "JSB Home Solutions",
+   "category_hint": "Remodeling, Doors, Kitchens"
+  },
+  {
+   "name": "Kitchen Fronts",
+   "category_hint": "Cabinet Refacing"
+  },
+  {
+   "name": "Kitchen Saver",
+   "category_hint": "Cabinet Refacing"
+  },
+  {
+   "name": "Leaf Home",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Leaf Home Water Solutions",
+   "category_hint": "Water Treatment"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "category_hint": "Gutter Protection"
+  },
+  {
+   "name": "Mad City Windows and Baths",
+   "category_hint": "Windows, Bath Remodeling, Kitchen Reface, Garage Solutions"
+  },
+  {
+   "name": "Mid-State Basement Systems",
+   "category_hint": "Waterproofing"
+  },
+  {
+   "name": "Nature Hill NV",
+   "category_hint": "Skincare"
+  },
+  {
+   "name": "NRG Home",
+   "category_hint": "Residential energy plans and services"
+  },
+  {
+   "name": "Otterly Bath",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "PaperPie",
+   "category_hint": "Books"
+  },
+  {
+   "name": "Patio Enclosures",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures"
+  },
+  {
+   "name": "Renewal by Andersen",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "ShelfGenie of Columbus",
+   "category_hint": "Roll-out shelving"
+  },
+  {
+   "name": "SmartLevel Concrete",
+   "category_hint": "Concrete Repair/Lifting and Leveling"
+  },
+  {
+   "name": "Sunspace of Central Ohio LLC",
+   "category_hint": "Sunrooms, Patio, & Deck Covers"
+  },
+  {
+   "name": "Superior Sleep Experience",
+   "category_hint": "Beds"
+  },
+  {
+   "name": "TEGO",
+   "category_hint": "Roofing, Siding, Gutters"
+  },
+  {
+   "name": "Universal Windows Direct",
+   "category_hint": "Windows, Doors, Roofing, Gutters"
+  },
+  {
+   "name": "Wildcat Mattress & Massage Chairs",
+   "category_hint": "Beds & Massage Chairs"
+  },
+  {
+   "name": "Window Nation",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Wingler Construction & Remodeling",
+   "category_hint": "Remodeling - Kitchen, Bath, Basement, & Additions"
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+{
+ "source": "us-in-statehouse-market-holiday-market-2026",
+ "title": "Statehouse Market - Holiday Market 2026 vendors",
+ "publisher": "www.in.gov",
+ "landing_url": "https://www.in.gov/statehousemarket/weekly-lineup",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "c2682380ce1cf34dfb698e31584bfd1ef1c30f65b2059e7cb3300641831634e3",
+ "counts": {
+  "read": 37,
+  "kept": 37,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "BoxBurger",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Brozinni Pizzeria",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Chef Dan's",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Chicago Beef & Dog",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "GALS Fresh Fish",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pastelitos Las Gochitas",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Food Florist",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Legendary Kitchen",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Travelin' Tom's Coffee",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wild Boar BBQ",
+   "category_hint": "food truck",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Amazeball by Eat Surreal",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Boo-Z Biscotti",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Cakes by Chew",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Chef Manda's Bakery",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Dragonwood",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Filigree Bakery",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Generations Pie Co.",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Happy Little Pineapple Shop",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Indiana Soap Company",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Little Bears Candle Co.",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Metta Gardens Ferments",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Nature's Tea Co.",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Ollie Lue Soap Co.",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Opulent Radiance",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Plantiful Apothecary",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pup & the Pepper",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Ruth's Garden",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Salamat Cookies",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Storm Striker Art",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Taste of Pink",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Licorice Guy",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Mix Cookie Company",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Pop Shop",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tidy & Izzy Bakery",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tuareg Craft",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tulip Tree Creamery",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wild Spirit Coffee Co.",
+   "events": [
+    {
+     "name": "Statehouse Market - Holiday Market",
+     "year": 2026,
+     "city": "Indianapolis",
+     "state": "IN",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "event": {
+  "name": "Wheeling Handmade Holiday Spring Market",
+  "year": 2025,
+  "city": "Wheeling",
+  "state": "WV",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://wheelingheritage.org/handmade-holiday-spring-market-meet-the-vendors/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 4,
+ "vendors": [
+  {
+   "name": "Apartment Two Art"
+  },
+  {
+   "name": "B. Woven"
+  },
+  {
+   "name": "Bellaroses Inner Sanctuary"
+  },
+  {
+   "name": "Bubbles, Bones & Biscuits, LLC"
+  },
+  {
+   "name": "Card Art by Jes"
+  },
+  {
+   "name": "Crowded Cat Studio"
+  },
+  {
+   "name": "Deylight Photography"
+  },
+  {
+   "name": "Er + Ryal"
+  },
+  {
+   "name": "Fuzzy Whale Paper Co"
+  },
+  {
+   "name": "Goat and Soy"
+  },
+  {
+   "name": "Granny's Girly Goodies LLC"
+  },
+  {
+   "name": "House of Hume"
+  },
+  {
+   "name": "Jericho Road Collective"
+  },
+  {
+   "name": "Lady Orchid House"
+  },
+  {
+   "name": "Lone Stone Designs"
+  },
+  {
+   "name": "Mel's Alternative Images"
+  },
+  {
+   "name": "Mountain State Craftsman"
+  },
+  {
+   "name": "Morning Light Studio"
+  },
+  {
+   "name": "Nonni says SEW"
+  },
+  {
+   "name": "Old Soul Candle Co"
+  },
+  {
+   "name": "Papa Faith"
+  },
+  {
+   "name": "Pamspots"
+  },
+  {
+   "name": "Pressed Oil of Gladness"
+  },
+  {
+   "name": "RF Sweet Shop"
+  },
+  {
+   "name": "Sea Salt and Cedar"
+  },
+  {
+   "name": "Sips and Sweets"
+  },
+  {
+   "name": "Stone Cottage Apothecary"
+  },
+  {
+   "name": "SubZero Treats"
+  },
+  {
+   "name": "Sugar and Spice Cookie Co LLC"
+  },
+  {
+   "name": "The Cookie Culprit"
+  },
+  {
+   "name": "The Local Beadery, LLC"
+  },
+  {
+   "name": "The Moors Collective"
+  },
+  {
+   "name": "The Queen of Arts~Curiosities"
+  },
+  {
+   "name": "Tacet Coffee Cart",
+   "category_hint": "craft coffee drinks"
+  },
+  {
+   "name": "The Weeping Willow Farm"
+  },
+  {
+   "name": "To Crafting And Beyond"
+  },
+  {
+   "name": "Weathered Wren"
+  },
+  {
+   "name": "Yardscape LLC"
+  },
+  {
+   "name": "16th Street Clay Co."
+  }
+ ]
+}

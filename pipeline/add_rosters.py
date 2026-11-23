@@ -32,9 +32,17 @@ def slug(text, n=48):
     return re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', (text or '').lower())).strip('-')[:n].strip('-')
 
 
+def event_name(text):
+    """'Expo (Jan 8-10, 2027)' -> 'Expo'; 'Summit 2026' -> 'Summit'. The year is kept separately."""
+    t = clean(text) or ''
+    t = re.sub(r"\s*\((?:[A-Z][a-z]{2,8}\.?\s*)?[\d\s,\-–]*(?:19|20)\d\d\)", '', t)
+    t = re.sub(r"\s*['’]?\b(?:19|20)?\d\d$", '', t) if re.search(r"\s['’]?\d\d$|\s(?:19|20)\d\d$", t) else t
+    return t.strip(' -–,')
+
+
 def roster_id(r):
     st = (state_code(r.get('event_state')) or 'us').lower()
-    return f'us-{st}-{slug(r.get("event"))}-{r.get("event_year") or "undated"}'
+    return f'us-{st}-{slug(event_name(r.get("event")))}-{r.get("event_year") or "undated"}'
 
 
 def add(collection, reg):
@@ -49,7 +57,7 @@ def add(collection, reg):
         sid = existing['id'] if existing else roster_id(r)
         while not existing and sid in ids:
             sid += '-b'
-        event = {'name': clean(r.get('event')), 'year': r.get('event_year'), 'city': clean(r.get('event_city')),
+        event = {'name': event_name(r.get('event')), 'year': r.get('event_year'), 'city': clean(r.get('event_city')),
                  'state': state_code(r.get('event_state')), 'type': clean(r.get('event_type'))}
         event = {k: v for k, v in event.items() if v}
         vendors = []

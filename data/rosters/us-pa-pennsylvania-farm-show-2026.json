@@ -1,0 +1,618 @@
+{
+ "event": {
+  "name": "Pennsylvania Farm Show",
+  "year": 2026,
+  "city": "Harrisburg",
+  "state": "PA",
+  "type": "fair"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/farmshow/documents/pafarmshow/documents/2026_pafs_exhibitor%20listings.pdf",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 7,
+ "vendors": [
+  {
+   "name": "AA Produce"
+  },
+  {
+   "name": "ACR Metal Roofing & Siding Dist."
+  },
+  {
+   "name": "Adventure World Play Sets"
+  },
+  {
+   "name": "Altmeyer's Western Wear"
+  },
+  {
+   "name": "American Remodeling Enterprises, Inc."
+  },
+  {
+   "name": "Appalachian Trailers"
+  },
+  {
+   "name": "Aurands Machinery and Automation, LLC"
+  },
+  {
+   "name": "Bad Boy Mowers"
+  },
+  {
+   "name": "Basement Waterproofing Specialists"
+  },
+  {
+   "name": "Bass Pro Shops"
+  },
+  {
+   "name": "Bath Fitter"
+  },
+  {
+   "name": "Bell & Evans"
+  },
+  {
+   "name": "Biscuit Authority, LLC"
+  },
+  {
+   "name": "Blind Spot Nutbutters"
+  },
+  {
+   "name": "Bluebird Society of Pennsylvania"
+  },
+  {
+   "name": "ArtAttack"
+  },
+  {
+   "name": "Bouncing Goat Soap, Co"
+  },
+  {
+   "name": "Branded Western Co"
+  },
+  {
+   "name": "Brewers of Pennsylvania"
+  },
+  {
+   "name": "Buffalo Valley Spice and Supply Co."
+  },
+  {
+   "name": "Burnt Cabins Grist Mill LLC"
+  },
+  {
+   "name": "Butterfly House Experience"
+  },
+  {
+   "name": "C & J Catering"
+  },
+  {
+   "name": "Carlisle Products"
+  },
+  {
+   "name": "Casalingo Foods"
+  },
+  {
+   "name": "Cellular Sales"
+  },
+  {
+   "name": "Centre Boot Company"
+  },
+  {
+   "name": "Cherish Creamery, LLC"
+  },
+  {
+   "name": "ChooChoo Barn"
+  },
+  {
+   "name": "Clear Toy Candy From The Past"
+  },
+  {
+   "name": "Clemens Food Group"
+  },
+  {
+   "name": "Cloaked in Freedom, LLC"
+  },
+  {
+   "name": "Concessions, LTD"
+  },
+  {
+   "name": "Countrybrooms"
+  },
+  {
+   "name": "Covered Bridge Garlic Company, LLC"
+  },
+  {
+   "name": "Crop Compass"
+  },
+  {
+   "name": "Cutco Cutlery"
+  },
+  {
+   "name": "Cynful Bliss"
+  },
+  {
+   "name": "Dairy Farmers of America"
+  },
+  {
+   "name": "Delaware Valley University"
+  },
+  {
+   "name": "DelGrosso Family of Companies"
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council of Carpenters"
+  },
+  {
+   "name": "Ebling's Service Plus, LLC"
+  },
+  {
+   "name": "Engelhaupt Embroidery"
+  },
+  {
+   "name": "EZ2C Targets"
+  },
+  {
+   "name": "Face Paint Pittsburgh"
+  },
+  {
+   "name": "Fellowship of Christian Farmers International"
+  },
+  {
+   "name": "Fishing with Friends"
+  },
+  {
+   "name": "Floyd's Wooden Animals"
+  },
+  {
+   "name": "Folkland Foods"
+  },
+  {
+   "name": "Forrester Farm Equipment"
+  },
+  {
+   "name": "Friends of Agriculture"
+  },
+  {
+   "name": "Friends of the Pennsylvania Farm Show Foundation, Inc."
+  },
+  {
+   "name": "GaGa's Glass"
+  },
+  {
+   "name": "Garrety Glass"
+  },
+  {
+   "name": "German Roasted Nuts"
+  },
+  {
+   "name": "Glory Be Farm"
+  },
+  {
+   "name": "Goat Snuggling"
+  },
+  {
+   "name": "Godahavom Gourds"
+  },
+  {
+   "name": "Gourmet Popcorn of Carlisle"
+  },
+  {
+   "name": "Gray Goat BBQ"
+  },
+  {
+   "name": "Greentech Manufacturing"
+  },
+  {
+   "name": "Greenwood Valley Wagyu, LLC"
+  },
+  {
+   "name": "Hatfield Quality Meats, LLC"
+  },
+  {
+   "name": "Hempzels"
+  },
+  {
+   "name": "Herlocher's Dipping Mustard"
+  },
+  {
+   "name": "Hillbetty Bliss"
+  },
+  {
+   "name": "Hillbilly's Jerky"
+  },
+  {
+   "name": "Hilltop Acres Naturals"
+  },
+  {
+   "name": "Homeplace Market, LLC"
+  },
+  {
+   "name": "Inside Out Cookie Co."
+  },
+  {
+   "name": "Insulated Gear"
+  },
+  {
+   "name": "Keystone Oliver Collectors Club"
+  },
+  {
+   "name": "Kingsley Blasco Insurance Inc"
+  },
+  {
+   "name": "Kiss a Cow"
+  },
+  {
+   "name": "Kitchen Craft International"
+  },
+  {
+   "name": "Kitchen Saver"
+  },
+  {
+   "name": "L. B. Smith Ford Lincoln"
+  },
+  {
+   "name": "Lancaster Farming, Inc."
+  },
+  {
+   "name": "LandPro Equipment"
+  },
+  {
+   "name": "Leaf Filter Gutter Protection"
+  },
+  {
+   "name": "Legacy Steel Buildings"
+  },
+  {
+   "name": "Liam's Luck Wood Craft"
+  },
+  {
+   "name": "M&E Sales"
+  },
+  {
+   "name": "Main Line Pretzel Company"
+  },
+  {
+   "name": "Memory Makers Unlimited"
+  },
+  {
+   "name": "Miller Diesel, Inc."
+  },
+  {
+   "name": "Miller's Gourmet Foods"
+  },
+  {
+   "name": "Milton Hershey School"
+  },
+  {
+   "name": "Misfits Farm"
+  },
+  {
+   "name": "Miss Lucy's Dog Treats"
+  },
+  {
+   "name": "Mushroom Farmers of Pennsylvania (MFPA)"
+  },
+  {
+   "name": "Nan-Jac Emu"
+  },
+  {
+   "name": "National Museum of Industrial History"
+  },
+  {
+   "name": "Norwex"
+  },
+  {
+   "name": "NRG/Green Mountain Energy"
+  },
+  {
+   "name": "NTO Farm Toys"
+  },
+  {
+   "name": "Ohiopyle Roots"
+  },
+  {
+   "name": "Old Farmer Tea Company"
+  },
+  {
+   "name": "On Point Adventure Foods"
+  },
+  {
+   "name": "One Womans Junk"
+  },
+  {
+   "name": "Organic Remedies, Inc."
+  },
+  {
+   "name": "Original Strudel Factory"
+  },
+  {
+   "name": "Outback Survival Gear"
+  },
+  {
+   "name": "Over Home Alpacas"
+  },
+  {
+   "name": "PA Alpaca Owners & Breeders Assoc."
+  },
+  {
+   "name": "PA American Water Company"
+  },
+  {
+   "name": "PA Beef Council"
+  },
+  {
+   "name": "PA Breast Cancer Coalition"
+  },
+  {
+   "name": "PA Cable Network & PCN"
+  },
+  {
+   "name": "PA Campground Owners Association"
+  },
+  {
+   "name": "PA Chapter of The American Chestnut Foundation"
+  },
+  {
+   "name": "PA Cider Guild"
+  },
+  {
+   "name": "PA College of Technology"
+  },
+  {
+   "name": "PA Cooperative Potato Growers"
+  },
+  {
+   "name": "PA Dairy Princess and Promotion Services Inc"
+  },
+  {
+   "name": "PA Dairymen's Association"
+  },
+  {
+   "name": "PA Deer Farmers Association"
+  },
+  {
+   "name": "PA Farm Bureau"
+  },
+  {
+   "name": "PA FFA Foundation"
+  },
+  {
+   "name": "PA Hickory Syrup"
+  },
+  {
+   "name": "PA High School Rodeo Association"
+  },
+  {
+   "name": "PA Horse Racing Association"
+  },
+  {
+   "name": "PA Livestock Association"
+  },
+  {
+   "name": "PA Maple Syrup Producers Council"
+  },
+  {
+   "name": "PA Motor Truck Association"
+  },
+  {
+   "name": "PA Nut Growers Association"
+  },
+  {
+   "name": "PA Pork Producers Council"
+  },
+  {
+   "name": "PA State Association of County Fairs"
+  },
+  {
+   "name": "PA State Beekeepers' Association"
+  },
+  {
+   "name": "PA State Grange"
+  },
+  {
+   "name": "PA State Showmen's Association"
+  },
+  {
+   "name": "PA Vegetable Growers Association"
+  },
+  {
+   "name": "PA Winery Association"
+  },
+  {
+   "name": "Painted Spring Farm Alpacas"
+  },
+  {
+   "name": "Painterland Sisters"
+  },
+  {
+   "name": "PaperPie"
+  },
+  {
+   "name": "Paradise Energy Solutions"
+  },
+  {
+   "name": "Penn State Extension"
+  },
+  {
+   "name": "PennAg Industries Association"
+  },
+  {
+   "name": "Pie Bird Farm"
+  },
+  {
+   "name": "Pine Creek Structures"
+  },
+  {
+   "name": "Pottery & Country 4 You"
+  },
+  {
+   "name": "Powerton Generators"
+  },
+  {
+   "name": "Pretty Little Things Boutique"
+  },
+  {
+   "name": "Putt Art Studio"
+  },
+  {
+   "name": "QnC Construction"
+  },
+  {
+   "name": "R. W. Sauder"
+  },
+  {
+   "name": "Red Deer Farm"
+  },
+  {
+   "name": "Red Hill Farms, Inc."
+  },
+  {
+   "name": "Renewal by Anderson"
+  },
+  {
+   "name": "Rodale Institute"
+  },
+  {
+   "name": "Rohrer Seeds"
+  },
+  {
+   "name": "Rotating Press"
+  },
+  {
+   "name": "Rustic Products"
+  },
+  {
+   "name": "Saint Joseph's University"
+  },
+  {
+   "name": "Seltzer's Smokehouse Meats"
+  },
+  {
+   "name": "Setas Mushrooms"
+  },
+  {
+   "name": "Shades of Fun"
+  },
+  {
+   "name": "Shetron Manufacturing, LLC"
+  },
+  {
+   "name": "Silver Fox Trading Post"
+  },
+  {
+   "name": "State Horticultural Association of Pennsylvania"
+  },
+  {
+   "name": "Steinmetz Family Farm"
+  },
+  {
+   "name": "Stockyard Style"
+  },
+  {
+   "name": "Sullivan Supply, Inc."
+  },
+  {
+   "name": "Superior Sleep Experience"
+  },
+  {
+   "name": "Sustainable Energy Fund of Central Eastern PA"
+  },
+  {
+   "name": "Swartz Farm"
+  },
+  {
+   "name": "Tastie Teas"
+  },
+  {
+   "name": "Thaddeus Stevens College of Technology"
+  },
+  {
+   "name": "The Bacon Jams"
+  },
+  {
+   "name": "The Epoch Times Association, Inc."
+  },
+  {
+   "name": "The Foundation for Enhancing Communities, fiscal sponsor of PA Cheese Guild"
+  },
+  {
+   "name": "The GIANT Company"
+  },
+  {
+   "name": "The Greenery of Morgantown"
+  },
+  {
+   "name": "The Pennsylvania Forestry Association"
+  },
+  {
+   "name": "The Pennsylvania State University-Penn State Extension Forestry & Wildlife Team"
+  },
+  {
+   "name": "The Pennsylvania State University Pesticide Education Program"
+  },
+  {
+   "name": "The Plant Spot"
+  },
+  {
+   "name": "The Rustic Horse"
+  },
+  {
+   "name": "The Spice Man"
+  },
+  {
+   "name": "Three Arrows Farm"
+  },
+  {
+   "name": "Thunder River Alpacas & Whiskey Springs Alpacas"
+  },
+  {
+   "name": "T-Mobile USA"
+  },
+  {
+   "name": "T-Shirts & Sew On"
+  },
+  {
+   "name": "Twin Bridge Campground"
+  },
+  {
+   "name": "Uglie Acres"
+  },
+  {
+   "name": "Uncommon USA, Inc."
+  },
+  {
+   "name": "Under the Sun Pottery"
+  },
+  {
+   "name": "Unique Jewelry by Fay"
+  },
+  {
+   "name": "University of PA School of Veterinary Medicine"
+  },
+  {
+   "name": "Varner Farms"
+  },
+  {
+   "name": "Veterans of Foreign Wars Department of Pennsylvania"
+  },
+  {
+   "name": "Weaknecht Archery & Sporting Goods, Inc."
+  },
+  {
+   "name": "Wearhouse Sales"
+  },
+  {
+   "name": "WHP CBS 21"
+  },
+  {
+   "name": "Wild Meats"
+  },
+  {
+   "name": "Wind and Solar, LLC"
+  },
+  {
+   "name": "Window Nation"
+  },
+  {
+   "name": "Wow Fudge and Belgian Chocolates"
+  },
+  {
+   "name": "YMCA Center for Healthy Living & Pennie"
+  }
+ ]
+}

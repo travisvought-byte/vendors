@@ -1,0 +1,34 @@
+{
+ "source": "us-oh-art-on-the-mall-university-of-toledo-2026",
+ "title": "Art on the Mall (University of Toledo) 2026 artists",
+ "publisher": "news.utoledo.edu",
+ "landing_url": "https://news.utoledo.edu/index.php/07_28_2026/sunshine-and-crowds-fuel-33rd-art-on-the-mall",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "db4cf33f9ac0c314ad8c635a6fa686c9cef583ef4faff4dc3603180506a92616",
+ "counts": {
+  "read": 1,
+  "kept": 1,
+  "dropped": {},
+  "personal_name_only": 5
+ },
+ "vendors": [
+  {
+   "name": "DJP Turning",
+   "category_hint": "exhibitor (woodturning)",
+   "events": [
+    {
+     "name": "Art on the Mall (University of Toledo)",
+     "year": 2026,
+     "city": "Toledo",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "festival"
+  }
+ ]
+}

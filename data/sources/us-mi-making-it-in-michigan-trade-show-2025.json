@@ -1,0 +1,1464 @@
+{
+ "source": "us-mi-making-it-in-michigan-trade-show-2025",
+ "title": "Making It in Michigan Trade Show 2025 vendors",
+ "publisher": "www.canr.msu.edu",
+ "landing_url": "https://www.canr.msu.edu/miim/Trade-Show/2025-vendor-list",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "0c4e36123fe6b31bd0b8e89548c225820ffcbe20833f53f17b7d9038159c3d7d",
+ "counts": {
+  "read": 111,
+  "kept": 111,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "1st Micro Greenery",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "AM&M Dough Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Anyi Foods LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "APH Energy",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Aruba Freeze, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "BakeTreats Inc",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Battle Creek Food Reimagined",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Bekka Valley",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Belle Lavande Lavender Farm LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Big O' Smokehouse",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Blake's Orchard and Cider Mill",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Bossy B's Bakery",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Brand My Bags",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Brazilian Oven LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Bros 'n Dough Inc.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Brothers Brew",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "brownieDr",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Charlevoix Cheese Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Charred Craft BBQ Sauces and Rubs",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "CocoMar",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Cook's Condiments, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Crucible, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Detroit Salsa Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Dill Daddy Pickles",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Display Pack",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Doodle's Sugarbush, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Downey's Potato Chips",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Downriver Chip Co",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "drench, llc",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Fair Food Network/Michigan Good Food Fund",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Farm Country Cheese",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Farm View Foods LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "FEAST Detroit",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "First Quarter Farms",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Food for Thought",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "For Heaven's Cake",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Foremost Graphics Group",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Fraser Tea",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Fresh Coast Baking Co.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Fur Pawz LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Furniture City Creamery",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "G&G's Sweet Treats LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Gabby's Garden",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "GingeRx",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Grand Traverse Pie Co.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Great Lakes Farm to Freezer",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Great Lakes Pot Pies",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Great Lakes Tinned Fish",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "HoneyTree, Inc.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "I Love Pig",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Indigo Culinary Co",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Jetta's Gourmet Popcorn",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Kittywampus Soda Brewing",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Kwik LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "La Dulse Vita",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Landa's Popcorn Factory",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Lighthouse Pizza Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Linkland Snack Foods",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Little Long Ears Provisions",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Local Soup LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "M&R Pickling",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "macaronza!",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Mackinaw City Popcorn Factory",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Michigan Biscuit Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Michigan Box Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Michigan Cheese and Dairy Guild",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Milo's Whole World Gourmet",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "MJS Packaging",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Nani Girl Snacks LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Nikki's Ginger Tea LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "NoCapacity LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Northern Initiatives",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "nuttycal",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Paul's Gourmet Jerky",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Pawpaws Pickles LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Peach & Honey, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Pronko Enterprises, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Precision Syrups, LLC",
+   "website": "https://www.precisionsyrups.com",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Prospectors LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "RADD Foods",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Red'z Bulgogi BBQ-Marinade",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Red Truck Orchards",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "ReThink Nutrition",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Rub-N-Grub LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Salads Etc.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Salt & Fire",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Salted Perfection LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Semifreddo",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "SeaPharms",
+   "website": "https://seapharms.com",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Serenity Farmz",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Smiling Jim's Seasonings",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Smoke'n Butt's BBQ",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Smokey Michigan LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "St. Steve's Farm-Crafted Beverages",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Taste the Local Difference",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Tastes So, LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "The Cynt-Sational Popcorn CO.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "The Gnarly Sauce Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "The Jamaican Pot",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Tikka Mix",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Total Food Package / Relative Foods",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Town to Town Gourmet Pastries",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Treeborn, Inc.",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Uncommon Extract",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Wani Cakes LLC",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "West Michigan Pasta & Provisions",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Why Bars - Super Food Snacks",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Wild Dough Limited Liability Company",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "XCO Foods",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "Zingerman's Creamery",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  },
+  {
+   "name": "ZolliCandy",
+   "events": [
+    {
+     "name": "Making It in Michigan Trade Show",
+     "year": 2025,
+     "state": "MI",
+     "type": "trade-show"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "trade-show"
+  }
+ ]
+}

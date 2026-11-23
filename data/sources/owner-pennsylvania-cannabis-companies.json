@@ -5,8 +5,8 @@
  "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
  "evidence_level": "directory-verified",
  "kept_rule": "Every company row; the business-inquiry column (contacts) is never read.",
- "retrieved_on": "2026-11-23",
- "read_from": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/pennsylvania-companies.csv",
+ "retrieved_on": null,
+ "read_from": "cache",
  "sha256": "ce741a23b81a6013f7cc482155a2fb11cebf2f8d97d6c9b45339679611a25f8b",
  "counts": {
   "read": 100,

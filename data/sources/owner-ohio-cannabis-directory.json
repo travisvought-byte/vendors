@@ -5,8 +5,8 @@
  "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
  "evidence_level": "directory-verified",
  "kept_rule": "Every business and nonprofit row except those flagged out of scope, individuals and political parties. OCHBS 2026 exhibitors keep the event; direct OCHBS contacts are marked trade-show-contact. Contact people, emails and phones are not read.",
- "retrieved_on": "2026-11-23",
- "read_from": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/ohio-cannabis-directory.csv",
+ "retrieved_on": null,
+ "read_from": "cache",
  "sha256": "17c5e991949cc8e80825eb08a9a53f009ebca3bc4bc9ed89fd53f26b675e6360",
  "counts": {
   "read": 564,
@@ -110,6 +110,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -178,6 +179,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -227,6 +229,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -320,6 +323,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -338,6 +342,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -455,6 +460,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -487,6 +493,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -561,6 +568,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -594,6 +602,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -667,6 +676,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -793,6 +803,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -808,6 +819,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -825,6 +837,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -959,6 +972,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -986,6 +1000,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1060,6 +1075,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1077,6 +1093,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1113,6 +1130,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1148,6 +1166,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1194,6 +1213,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1220,6 +1240,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1237,6 +1258,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1353,6 +1375,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1419,6 +1442,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1447,6 +1471,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1523,6 +1548,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1578,6 +1604,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1626,6 +1653,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1662,6 +1690,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1688,6 +1717,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1785,6 +1815,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1830,6 +1861,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1897,6 +1929,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1924,6 +1957,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -1990,6 +2024,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2035,6 +2070,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2061,6 +2097,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2098,6 +2135,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2116,6 +2154,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2286,6 +2325,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2385,6 +2425,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2576,6 +2617,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2685,6 +2727,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2816,6 +2859,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2856,6 +2900,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -2986,6 +3031,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3106,6 +3152,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3132,6 +3179,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3317,6 +3365,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3340,6 +3389,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3355,6 +3405,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3398,6 +3449,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3421,6 +3473,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3455,6 +3508,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3472,6 +3526,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3489,6 +3544,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3513,6 +3569,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3571,6 +3628,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3596,6 +3654,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3620,6 +3679,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3637,6 +3697,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3704,6 +3765,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -3984,6 +4046,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4117,6 +4180,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4152,6 +4216,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4201,6 +4266,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4585,6 +4651,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4610,6 +4677,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4653,6 +4721,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4669,6 +4738,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4686,6 +4756,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4701,6 +4772,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4734,6 +4806,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4751,6 +4824,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4778,6 +4852,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4873,6 +4948,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4900,6 +4976,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4917,6 +4994,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4934,6 +5012,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -4958,6 +5037,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5016,6 +5096,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5077,6 +5158,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5093,6 +5175,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5110,6 +5193,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5127,6 +5211,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5144,6 +5229,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5162,6 +5248,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5179,6 +5266,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],
@@ -5196,6 +5284,7 @@
     {
      "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
      "year": 2026,
+     "city": "Columbus",
      "state": "OH"
     }
    ],

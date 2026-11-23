@@ -1,0 +1,71 @@
+{
+ "event": {
+  "name": "Columbus Food Truck Festival",
+  "year": 2025,
+  "city": "Hilliard",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://www.experiencecolumbus.com/blog/post/columbus-food-truck-festival-2025/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 1,
+ "vendors": [
+  {
+   "name": "Cousins Maine Lobster",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Big Pappy's BBQ",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Island Noodles",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Tortilla Street Food",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Aloha Aina Food Truck",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "For the Love of Dough",
+   "category_hint": "dessert"
+  },
+  {
+   "name": "Amish Country Donuts",
+   "category_hint": "dessert"
+  },
+  {
+   "name": "Ciao Gelato Truck",
+   "category_hint": "dessert"
+  },
+  {
+   "name": "Diamonds Ice Cream",
+   "category_hint": "dessert"
+  },
+  {
+   "name": "Rime Time Pops",
+   "category_hint": "dessert"
+  },
+  {
+   "name": "Coffico African Beauty and Fashion",
+   "category_hint": "artisan"
+  },
+  {
+   "name": "Magic Hands Massage Bus",
+   "category_hint": "service"
+  },
+  {
+   "name": "JW Sticker Shop",
+   "category_hint": "artisan"
+  },
+  {
+   "name": "Columbus Vintage Exchange",
+   "category_hint": "vintage market"
+  }
+ ]
+}

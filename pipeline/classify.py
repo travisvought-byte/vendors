@@ -40,12 +40,12 @@ SOURCE_CATEGORY = {
 # more specific categories come first.
 KEYWORDS = [
     ('cannabis-hemp', r'cannabis|marijuana|hemp|\bcbd\b|\bthc\b|dispensar|delta[- ]?[89]|kratom|smoke shop|\bglass\b.*pipe|grow(ing)? supply|hydroponic'),
-    ('food-beverage', r'food|truck|bbq|barbe?cue|grill|taco|pizza|burger|catering|caterer|bakery|bake|cookie|cake|cupcake|donut|dessert|sweet|candy|fudge|chocolate|ice cream|gelato|kettle ?corn|popcorn|lemonade|coffee|espresso|tea\b|brew|beer|wine|winery|distill|spirits|cider|mead|kombucha|juice|smoothie|jerky|sauce|salsa|spice|seasoning|honey|maple|jam|jelly|pickle|cheese|meat|sausage|deli|kitchen|eats|cuisine|noodle|ramen|dumpling|gyro|crepe|waffle|pretzel|funnel|snack|treat|vegan|soul food|sandwich'),
+    ('food-beverage', r'food|truck|bbq|barbe?cue|grill|taco|pizza|burger|catering|caterer|bakery|bake|cookie|cake|cupcake|donut|dessert|sweet|candy|fudge|chocolate|ice cream|gelato|kettle ?corn|popcorn|lemonade|coffee|espresso|tea\b|brew|beer|wine|winery|distill|spirits|cider|mead|kombucha|juice|smoothie|jerky|sauce|salsa|spice|seasoning|honey|maple|jam|jelly|pickle|cheese|meat|sausage|deli|kitchen|eats|cuisine|noodle|ramen|dumpling|gyro|crepe|waffle|pretzel|funnel|snack|treat|vegan|soul food|sandwich|\\bpie\\b|syrup|nut ?butter|dough|bread|biscuit|brownie|granola|toffee|caramel|bagel|pasta|soup|chili|hot sauce|nuts\\b|wings|chicken|fries|lemon|coffee'),
     ('health-wellness', r'wellness|health|chiropract|massage|yoga|fitness|gym|medical|dental|vision|hearing|pharm|nutrition|vitamin|supplement|skin ?care|soap|lotion|cosmetic|beauty|salon|spa\b|hair|nail|essential oil|aromatherap|herbal|apothecary|balm|bath|candle'),
-    ('arts-crafts', r'\bart\b|artist|arts\b|craft|pottery|ceramic|painting|painter|print(s|maker)|photograph|sculpt|jewel|bead|glass ?art|stained glass|woodwork|wood ?turn|fiber|knit|crochet|quilt|weav|leather|metal ?work|blacksmith|illustrat|handmade|hand-made|maker|studio|gallery|calligraph|origami|mosaic'),
-    ('farm-agriculture', r'farm|orchard|produce|vegetable|fruit|egg|microgreen|nursery|greenhouse|plant(s)?\b|flower|florist|lavender|livestock|cattle|alpaca|goat|poultry|seed|agri|grange|4-h|ffa\b'),
+    ('arts-crafts', r'\bart\b|artist|arts\b|craft|pottery|ceramic|painting|painter|print(s|maker)|photograph|sculpt|jewel|bead|glass ?art|stained glass|woodwork|wood ?turn|fiber|knit|crochet|quilt|weav|leather|metal ?work|blacksmith|illustrat|handmade|hand-made|maker|studio|gallery|calligraph|origami|mosaic|creations|woven|forge|oddities|embroider|sew|stitch|resin|macrame|wreath|decoupage'),
+    ('farm-agriculture', r'apiar|\\bbees?\\b|feed\\b|tractor|farm|orchard|produce|vegetable|fruit|egg|microgreen|nursery|greenhouse|plant(s)?\b|flower|florist|lavender|livestock|cattle|alpaca|goat|poultry|seed|agri|grange|4-h|ffa\b'),
     ('home-garden', r'home|house|garden|landscap|lawn|patio|deck|fence|roof|window|door|siding|gutter|kitchen remodel|bath remodel|remodel|construction|contractor|builder|cabinet|countertop|floor|carpet|furniture|mattress|hvac|heating|cooling|plumb|electric|solar|energy|generator|pool|hot tub|water treatment|basement|waterproof|pest|insulation|paint(ing)? contractor|real estate|realt|mortgage|interior|decor'),
-    ('outdoors-auto', r'\brv\b|camper|boat|marine|fishing|hunting|outdoor|trailer|atv|motorcycle|auto|car\b|truck accessor|tire|golf|bike|cycling|kayak|camping|archery|firearm|gun'),
+    ('outdoors-auto', r'mower|equine|horse|saddle|tack\\b|farrier|\\brv\\b|camper|boat|marine|fishing|hunting|outdoor|trailer|atv|motorcycle|auto|car\b|truck accessor|tire|golf|bike|cycling|kayak|camping|archery|firearm|gun'),
     ('professional-services', r'insurance|bank|credit union|financial|finance|invest|account|tax|cpa|law\b|legal|attorney|lawyer|consult|staffing|recruit|payroll|hr\b|realty|estate planning|advisor|wealth'),
     ('technology', r'software|tech|app\b|digital|computer|\bit\b|cyber|data|internet|wireless|phone repair|electronics|pos\b|point of sale|web ?design'),
     ('marketing-media', r'marketing|media|radio|tv\b|television|news|magazine|publish|advertis|sign(s|age)?\b|print(ing|er)\b|promo|branding|seo\b|podcast'),
@@ -58,10 +58,22 @@ KEYWORDS = [
 ]
 KEYWORD_RES = [(cat, re.compile(rx, re.I)) for cat, rx in KEYWORDS]
 
+EVENT_CATEGORY = [
+    (re.compile(r'comic|anime|con\\b|ohayocon|small press', re.I), 'entertainment'),
+    (re.compile(r'equine|horse', re.I), 'outdoors-auto'),
+    (re.compile(r'home|garden|remodel|renovation|building', re.I), 'home-garden'),
+    (re.compile(r'wedding|bridal', re.I), 'event-services'),
+    (re.compile(r'farm show|farmers', re.I), 'farm-agriculture'),
+    (re.compile(r'christmas|holiday|winter', re.I), 'retail-gifts'),
+    (re.compile(r'art|craft|handmade', re.I), 'arts-crafts'),
+    (re.compile(r'cannabis|hemp|canna', re.I), 'cannabis-hemp'),
+    (re.compile(r'food|taste|truck', re.I), 'food-beverage'),
+]
+
 ROSTER_KIND_CATEGORY = {'food-vendors': 'food-beverage', 'food-trucks': 'food-beverage', 'artists': 'arts-crafts'}
 
 
-def category(source_category=None, hint=None, name=None, roster_kind=None, event_type=None):
+def category(source_category=None, hint=None, name=None, roster_kind=None, event_type=None, event_name=None):
     """Return (category_key, basis)."""
     if source_category:
         key = SOURCE_CATEGORY.get(source_category.strip().lower())
@@ -76,6 +88,9 @@ def category(source_category=None, hint=None, name=None, roster_kind=None, event
         return ROSTER_KIND_CATEGORY[roster_kind], f'listed as {roster_kind.replace("-", " ")}'
     if event_type == 'cannabis-expo':
         return 'cannabis-hemp', 'exhibited at a cannabis expo'
+    for rx, cat in EVENT_CATEGORY:
+        if event_name and rx.search(event_name):
+            return cat, f'kind of event ({event_name})'
     return 'other', 'no description to go on'
 
 

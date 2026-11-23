@@ -1,0 +1,136 @@
+{
+ "event": {
+  "name": "Statehouse Market - Holiday Market",
+  "year": 2026,
+  "city": "Indianapolis",
+  "state": "IN",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://www.in.gov/statehousemarket/weekly-lineup",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "BoxBurger",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Brozinni Pizzeria",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Chef Dan's",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Chicago Beef & Dog",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "GALS Fresh Fish",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Pastelitos Las Gochitas",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "The Food Florist",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "The Legendary Kitchen",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Travelin' Tom's Coffee",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Wild Boar BBQ",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Amazeball by Eat Surreal"
+  },
+  {
+   "name": "Boo-Z Biscotti"
+  },
+  {
+   "name": "Cakes by Chew"
+  },
+  {
+   "name": "Chef Manda's Bakery"
+  },
+  {
+   "name": "Dragonwood"
+  },
+  {
+   "name": "Filigree Bakery"
+  },
+  {
+   "name": "Generations Pie Co."
+  },
+  {
+   "name": "Happy Little Pineapple Shop"
+  },
+  {
+   "name": "Indiana Soap Company"
+  },
+  {
+   "name": "Little Bears Candle Co."
+  },
+  {
+   "name": "Metta Gardens Ferments"
+  },
+  {
+   "name": "Nature's Tea Co."
+  },
+  {
+   "name": "Ollie Lue Soap Co."
+  },
+  {
+   "name": "Opulent Radiance"
+  },
+  {
+   "name": "Plantiful Apothecary"
+  },
+  {
+   "name": "Pup & the Pepper"
+  },
+  {
+   "name": "Ruth's Garden"
+  },
+  {
+   "name": "Salamat Cookies"
+  },
+  {
+   "name": "Storm Striker Art"
+  },
+  {
+   "name": "Taste of Pink"
+  },
+  {
+   "name": "The Licorice Guy"
+  },
+  {
+   "name": "The Mix Cookie Company"
+  },
+  {
+   "name": "The Pop Shop"
+  },
+  {
+   "name": "Tidy & Izzy Bakery"
+  },
+  {
+   "name": "Tuareg Craft"
+  },
+  {
+   "name": "Tulip Tree Creamery"
+  },
+  {
+   "name": "Wild Spirit Coffee Co."
+  }
+ ]
+}

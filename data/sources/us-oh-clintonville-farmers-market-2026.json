@@ -1,0 +1,184 @@
+{
+ "source": "us-oh-clintonville-farmers-market-2026",
+ "title": "Clintonville Farmers Market 2026 vendors",
+ "publisher": "marketspread.com",
+ "landing_url": "https://marketspread.com/market/24612/clintonville-farmers-market/events/78844/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "c11161cd228814b18b6a0c68e0a450c09ee387716989b1081ffeaec40a26bf65",
+ "counts": {
+  "read": 11,
+  "kept": 11,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Harriet Gardens",
+   "category_hint": "vegetables, herbs, fruit",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Frazee's Farm",
+   "category_hint": "vegetables, herbs, fruit",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Fulton Creek Organic Farm",
+   "category_hint": "vegetables",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Darby Valley Farm",
+   "category_hint": "vegetables, fruit",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Foraged & Sown",
+   "category_hint": "herbs, vegetables, plants, value-added",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "R&O Candy Company",
+   "category_hint": "confections",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Columbus Sourdough, LLC",
+   "category_hint": "baked goods",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wild Prairie Flower Farm",
+   "category_hint": "flowers",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sweet Grass Dairy",
+   "category_hint": "dairy/other",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sweet Thing Gourmet",
+   "category_hint": "packaged prepared food",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Too Good Eats",
+   "category_hint": "packaged prepared food",
+   "events": [
+    {
+     "name": "Clintonville Farmers Market",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

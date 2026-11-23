@@ -1,0 +1,549 @@
+{
+ "event": {
+  "name": "Motor City Comic Con",
+  "year": 2026,
+  "city": "Novi",
+  "state": "MI",
+  "type": "convention"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://motorcitycomiccon.com/exhibitors/2024-vendors/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 7,
+ "vendors": [
+  {
+   "name": "Ableideaz with Comics, Beer & Sci-Fi",
+   "website": "http://ableideaz.com/"
+  },
+  {
+   "name": "Adam's Action Figures & Comics",
+   "website": "https://www.adamsactionfiguresandcomics.com/"
+  },
+  {
+   "name": "Aeonian Dawn",
+   "website": "https://www.aeoniandawn.com/"
+  },
+  {
+   "name": "Animation Art Guy"
+  },
+  {
+   "name": "Anime Haus",
+   "website": "https://toykoi.com/"
+  },
+  {
+   "name": "Anime Palace",
+   "website": "https://www.theanimepalace.com/"
+  },
+  {
+   "name": "Another Time Around"
+  },
+  {
+   "name": "Armory Quest"
+  },
+  {
+   "name": "Art-Toons",
+   "website": "https://www.ebay.com/str/arttoons"
+  },
+  {
+   "name": "Atomic Trading Post"
+  },
+  {
+   "name": "Auburn and Main LLC",
+   "website": "https://www.auburnandmain.com/"
+  },
+  {
+   "name": "Awesome Minis"
+  },
+  {
+   "name": "Bandai Hobby Pop-Up Shop",
+   "website": "https://galactictoys.com"
+  },
+  {
+   "name": "Besom Boutique"
+  },
+  {
+   "name": "Beyond Epic Shop",
+   "website": "https://beyondepicshop.square.site/"
+  },
+  {
+   "name": "Bill's Books & More",
+   "website": "http://www.billsbooksandmore.com/"
+  },
+  {
+   "name": "Black Bazaar",
+   "website": "https://black-bazaar.square.site/"
+  },
+  {
+   "name": "Bookoff",
+   "website": "https://www.bookoffusa.com/"
+  },
+  {
+   "name": "Brad's Comics & Collectibles"
+  },
+  {
+   "name": "BrianBrain Studio",
+   "website": "https://www.brianbrainstudio.com/"
+  },
+  {
+   "name": "C4 COLLECTIBLES LLC"
+  },
+  {
+   "name": "Cadaver Printing Co.",
+   "website": "https://www.cadaverco.com/"
+  },
+  {
+   "name": "Captive Fancy",
+   "website": "https://captive-fancy.square.site/"
+  },
+  {
+   "name": "Club Rug"
+  },
+  {
+   "name": "Collectible Empire, LLC"
+  },
+  {
+   "name": "Comfort Kingdom",
+   "website": "https://comfort-kingdom.com/"
+  },
+  {
+   "name": "Comic Pop Collectibles"
+  },
+  {
+   "name": "Comic Relief"
+  },
+  {
+   "name": "COMICADE!"
+  },
+  {
+   "name": "Comics Plus Inc."
+  },
+  {
+   "name": "Cool Stuff From Egypt"
+  },
+  {
+   "name": "Cosmic Comics and Toys"
+  },
+  {
+   "name": "Coy's Comics & Books",
+   "website": "http://www.coyscomics.com/"
+  },
+  {
+   "name": "Creative Imaginations"
+  },
+  {
+   "name": "Cross Country Collectibles"
+  },
+  {
+   "name": "Cultures Swines",
+   "website": "http://cultured-swines.com/"
+  },
+  {
+   "name": "Cutiehats",
+   "website": "https://www.cutiehats.com/"
+  },
+  {
+   "name": "Daggetts Comics",
+   "website": "https://www.ebay.com/str/daggettscomics"
+  },
+  {
+   "name": "Dan's Toys"
+  },
+  {
+   "name": "Dark Moon Japan",
+   "website": "https://www.darkmoonjapan.com"
+  },
+  {
+   "name": "DC Sports",
+   "website": "https://www.detroitcitysports.com/"
+  },
+  {
+   "name": "Detroit Colors, LLC",
+   "website": "https://detroitcolors.com/"
+  },
+  {
+   "name": "Dragonwycks",
+   "website": "https://www.dragonwycks.com/"
+  },
+  {
+   "name": "Druids Garden Tea Company",
+   "website": "https://www.druidsgardenteacompany.com/"
+  },
+  {
+   "name": "DX Games & More",
+   "website": "https://dxgamesllc.com/"
+  },
+  {
+   "name": "Emagine Theatres"
+  },
+  {
+   "name": "Enamel Empire",
+   "website": "https://www.enamelempire.net/"
+  },
+  {
+   "name": "ESE Supplies",
+   "website": "http://www.esesupplies.com/"
+  },
+  {
+   "name": "Expressions of Self",
+   "website": "https://www.expressionsofself.com/"
+  },
+  {
+   "name": "Fat Baby Hot Sauce",
+   "website": "https://fatbabyhotsauce.com/"
+  },
+  {
+   "name": "FireChilde Glass Studio",
+   "website": "http://www.fcgstudio.org"
+  },
+  {
+   "name": "First Form Collectibles",
+   "website": "https://firstformcollectibles.com/"
+  },
+  {
+   "name": "Flannel Panels",
+   "website": "https://flannelpanels.com/"
+  },
+  {
+   "name": "FunkyTown Toys"
+  },
+  {
+   "name": "Fuzzbutt Boutique",
+   "website": "https://fuzzbuttboutique.com/"
+  },
+  {
+   "name": "Gameplayers"
+  },
+  {
+   "name": "Geeky Experience"
+  },
+  {
+   "name": "Gem City Books",
+   "website": "https://gemcitybooks.com/"
+  },
+  {
+   "name": "Gindo's Spice of Life, LLC",
+   "website": "https://gindos.com/"
+  },
+  {
+   "name": "Glowing Vista Gifts"
+  },
+  {
+   "name": "Goozee Pins",
+   "website": "https://goozeepins.com/"
+  },
+  {
+   "name": "Gulping Games"
+  },
+  {
+   "name": "Hatchback Comics"
+  },
+  {
+   "name": "hihi",
+   "website": "https://hellohihi.com/"
+  },
+  {
+   "name": "Honey Beads"
+  },
+  {
+   "name": "I Love You Stones, Crystal Shoppe"
+  },
+  {
+   "name": "Idea Farm",
+   "website": "https://www.ideafarm.store/"
+  },
+  {
+   "name": "Inspired Artistry"
+  },
+  {
+   "name": "Internally Comatose"
+  },
+  {
+   "name": "Jamon Red, LLC"
+  },
+  {
+   "name": "Jellykoe",
+   "website": "https://www.jellykoe.com/"
+  },
+  {
+   "name": "Karl & Frank's comics & collectibles"
+  },
+  {
+   "name": "KIF'S"
+  },
+  {
+   "name": "Lange's Sports"
+  },
+  {
+   "name": "Lantern Comics"
+  },
+  {
+   "name": "LES Polinko Studio",
+   "website": "https://www.lespolinko.com/"
+  },
+  {
+   "name": "Literary Alteration",
+   "website": "https://www.ebay.com/str/fandomemporium"
+  },
+  {
+   "name": "Little Bad Wren",
+   "website": "https://www.littlebadwren.com"
+  },
+  {
+   "name": "Lydia's Vintage",
+   "website": "https://lydiasvintage.com/"
+  },
+  {
+   "name": "Mao Mao",
+   "website": "https://www.maomaonails.com/"
+  },
+  {
+   "name": "Mario's Comics"
+  },
+  {
+   "name": "Merlin's Munchies Coffee Company",
+   "website": "https://merlinsmunchiescoffee.com/"
+  },
+  {
+   "name": "Mid Michigan Comics",
+   "website": "https://midmichigancomics.com/"
+  },
+  {
+   "name": "Milky Tomato LLC",
+   "website": "https://www.milkytomato.com/"
+  },
+  {
+   "name": "miniworld enternainment"
+  },
+  {
+   "name": "Mirkywood Emporium",
+   "website": "https://www.mirkywood.com/"
+  },
+  {
+   "name": "Misty Mountain Gaming",
+   "website": "https://mistymountaingaming.com/"
+  },
+  {
+   "name": "MNM Collectibles"
+  },
+  {
+   "name": "Mochi & Co.",
+   "website": "https://www.mochiandco.shop/"
+  },
+  {
+   "name": "Morse's Comic Book Stash"
+  },
+  {
+   "name": "Motion Picture Institute",
+   "website": "https://www.motionpicture.edu/"
+  },
+  {
+   "name": "Multimedia Makeup Academy of Michigan",
+   "website": "https://mma-makeupacademy.com/"
+  },
+  {
+   "name": "Musetap Studios",
+   "website": "https://www.musetapstudios.com/"
+  },
+  {
+   "name": "My retro Pop",
+   "website": "https://www.ebay.com/str/comicgamestoyscollectibles"
+  },
+  {
+   "name": "Neon Culture",
+   "website": "https://www.shopneonculture.com/"
+  },
+  {
+   "name": "New World Collectables"
+  },
+  {
+   "name": "OSOK Collectibles"
+  },
+  {
+   "name": "Otakumerica",
+   "website": "https://www.otakumerica.com/"
+  },
+  {
+   "name": "Painted Dragon Studios LLC",
+   "website": "https://painteddragonstudios.com/"
+  },
+  {
+   "name": "PB&Jay Kollectibles",
+   "website": "https://www.pbandjaykollectibles.com"
+  },
+  {
+   "name": "Perry's Card",
+   "website": "https://perrys-cards.com/"
+  },
+  {
+   "name": "PescEffects",
+   "website": "http://www.pesceffects.com/"
+  },
+  {
+   "name": "Phat Daddy's Comics"
+  },
+  {
+   "name": "Pixel Gap Studios"
+  },
+  {
+   "name": "PixelsGetStitches",
+   "website": "https://pixelsgetstitches.myshopify.com/"
+  },
+  {
+   "name": "Pop's Comics"
+  },
+  {
+   "name": "Pop Culture Comics&Toys",
+   "website": "http://buypopculture.com"
+  },
+  {
+   "name": "Potter's Alley Gifts"
+  },
+  {
+   "name": "Raines Trading Co"
+  },
+  {
+   "name": "Ranelynn Graphic LLC",
+   "website": "https://ranelynngraphics.wixsite.com/ranelynngraphics"
+  },
+  {
+   "name": "Red Lava Toys"
+  },
+  {
+   "name": "Rigo Creations"
+  },
+  {
+   "name": "RIW Hobbies and Games",
+   "website": "https://riwhobbies.com/"
+  },
+  {
+   "name": "Robin's Nerd Supplies",
+   "website": "https://robinsnerdsupplies.com/"
+  },
+  {
+   "name": "Roxie Riot's Trinket Trove"
+  },
+  {
+   "name": "Roxy Replicas"
+  },
+  {
+   "name": "Ryder Hobbies"
+  },
+  {
+   "name": "Serenity in Chains",
+   "website": "https://www.serenityinchains.com/"
+  },
+  {
+   "name": "Skyhurst Studios LLC",
+   "website": "https://www.skyhurststudios.com/"
+  },
+  {
+   "name": "Spaced Out Acres",
+   "website": "https://spacedoutacres.com/"
+  },
+  {
+   "name": "Spooky Séance/Dubba Low"
+  },
+  {
+   "name": "Starz Puzzles, LLC",
+   "website": "https://www.starzpuzzles.com/"
+  },
+  {
+   "name": "State of Comics",
+   "website": "http://www.stateofcomics.com/"
+  },
+  {
+   "name": "Striker Games"
+  },
+  {
+   "name": "Stylin Online"
+  },
+  {
+   "name": "Supernatural and Hermiones world",
+   "website": "https://www.not-topic.com/"
+  },
+  {
+   "name": "Superstar Designs",
+   "website": "https://superstar-designs.myshopify.com/"
+  },
+  {
+   "name": "Sweet Steam LLC",
+   "website": "https://sweetsteam.com/"
+  },
+  {
+   "name": "Tanuki's Trading Post",
+   "website": "https://www.tanukistradingpost.com/"
+  },
+  {
+   "name": "TeeMinus24.com",
+   "website": "https://teeminus24.com/"
+  },
+  {
+   "name": "The Comic Collective"
+  },
+  {
+   "name": "The Country Witch",
+   "website": "https://www.countrywitch.com/"
+  },
+  {
+   "name": "The Cross Nest Creations LLC"
+  },
+  {
+   "name": "The Crystal Sisters Shop",
+   "website": "https://www.thecrystalsistersshop.com/"
+  },
+  {
+   "name": "The Foxy Hipster",
+   "website": "https://the-foxy-hipster.myshopify.com/"
+  },
+  {
+   "name": "The Geek Boutique",
+   "website": "https://thegeekboutique.co/"
+  },
+  {
+   "name": "The Geek Space",
+   "website": "https://thegeekspaceofficial.com/"
+  },
+  {
+   "name": "The Michigan Rocky Horror Preservation Society",
+   "website": "http://michiganrhps.org/"
+  },
+  {
+   "name": "Timeless Anime",
+   "website": "https://timelessanimestore.com/"
+  },
+  {
+   "name": "TNT Authentics"
+  },
+  {
+   "name": "TotesThirsty.com",
+   "website": "https://www.totesthirsty.com/"
+  },
+  {
+   "name": "ToyDump"
+  },
+  {
+   "name": "ToynkToys",
+   "website": "https://www.toynk.com/"
+  },
+  {
+   "name": "True Honey Teas",
+   "website": "https://www.truehoneyteas.com/"
+  },
+  {
+   "name": "Ultrasabers",
+   "website": "https://ultrasabers.com/"
+  },
+  {
+   "name": "Under The Covers",
+   "website": "https://underthecovers.shop/"
+  },
+  {
+   "name": "Undoubtedly MAD",
+   "website": "https://undoubtedlymad.com/"
+  },
+  {
+   "name": "Utopia Toys and Models",
+   "website": "https://utopiatoysandmodels.com/"
+  }
+ ]
+}

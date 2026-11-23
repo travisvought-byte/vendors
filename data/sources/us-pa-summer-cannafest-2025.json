@@ -1,0 +1,146 @@
+{
+ "source": "us-pa-summer-cannafest-2025",
+ "title": "Summer Cannafest 2025 vendors",
+ "publisher": "lebtown.com",
+ "landing_url": "https://lebtown.com/2025/06/10/rainy-weekend-doesnt-dampen-spirits-for-2025-summer-canna-fest-at-fairgrounds/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "2680f8b90f59810201265b719395d06bfa584cb4ae299a7ae40e969d82d2337c",
+ "counts": {
+  "read": 8,
+  "kept": 8,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Von Dirt",
+   "state": "NJ",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Blazin J's Smoke Shop",
+   "state": "CT",
+   "category_hint": "hand-blown glass pipes",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Daisy's Creations",
+   "city": "Lancaster County",
+   "state": "PA",
+   "category_hint": "kettle corn",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "One Sweet World",
+   "city": "Lancaster County",
+   "state": "PA",
+   "category_hint": "candy, freeze-dried confections",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Snitz Creek Brewery",
+   "city": "Lebanon",
+   "state": "PA",
+   "category_hint": "brewery",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "NORML",
+   "category_hint": "advocacy organization",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Libertarian Party of Pennsylvania",
+   "category_hint": "political party booth",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "New Pennsylvania Project",
+   "category_hint": "advocacy organization",
+   "events": [
+    {
+     "name": "Summer Cannafest",
+     "year": 2025,
+     "city": "Lebanon",
+     "state": "PA",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  }
+ ]
+}
