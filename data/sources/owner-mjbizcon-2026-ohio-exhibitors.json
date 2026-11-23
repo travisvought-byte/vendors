@@ -1,0 +1,237 @@
+{
+ "source": "owner-mjbizcon-2026-ohio-exhibitors",
+ "title": "MJBizCon 2026 exhibitors that list Ohio (cannabis directory research file)",
+ "publisher": "Ohio Cannabis Ecosystem Directory research, from MJBizCon's official exhibitor profiles",
+ "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory/blob/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+ "evidence_level": "event-profile",
+ "kept_rule": "Every exhibitor in the file; headquarters city and state taken from the profile notes.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+ "sha256": "ab9dd512ef3511d88a23f72af1cda29f61af04e13ccfc6e946bbef3638407e84",
+ "counts": {
+  "read": 13,
+  "kept": 13,
+  "dropped": {}
+ },
+ "vendors": [
+  {
+   "name": "Buddy",
+   "city": "Troy",
+   "state": "MI",
+   "website": "https://hellobuddy.app/",
+   "category_hint": "Dispensary e-commerce; Online ordering; CRM; Loyalty",
+   "source_category": "Technology",
+   "served_area": "multistate",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Cure8",
+   "city": "Studio City",
+   "state": "CA",
+   "website": "https://www.cure8.tech",
+   "category_hint": "IT; Security systems; Compliance; Facility technology",
+   "source_category": "Security & Cash Logistics",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Fogco",
+   "city": "Chandler",
+   "state": "AZ",
+   "website": "https://fogco.com/",
+   "category_hint": "Odor control; Humidification; Fog systems; Facility equipment",
+   "source_category": "Real Estate / Build-Out",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Front Row Ag",
+   "city": "Arcata",
+   "state": "CA",
+   "website": "https://www.frontrowag.com/",
+   "category_hint": "Nutrients; Fertilizers; Cultivation inputs",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Glassentrate",
+   "city": "Conifer",
+   "state": "CO",
+   "website": "https://glassentrate.com/",
+   "category_hint": "Dispensary displays; Product replicas; Merchandising",
+   "source_category": "Marketing & Media",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Heritage Software Solutions, LLC",
+   "city": "Leavenworth",
+   "state": "WA",
+   "website": "https://www.heritagesoftwaresolutions.com/",
+   "category_hint": "Payroll; HR software; Timekeeping; Accounting software",
+   "source_category": "Staffing & HR",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Iron Heart Canning",
+   "city": "Manchester",
+   "state": "NH",
+   "website": "https://www.ironheartcanning.com/cannabis-canning/",
+   "category_hint": "Beverage canning; Co-packing; THC beverages",
+   "source_category": "Packaging & Labeling",
+   "served_area": "multistate",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "JWC Environmental",
+   "city": "Santa Ana",
+   "state": "CA",
+   "website": "https://www.jwce.com",
+   "category_hint": "Waste grinders; Product destruction; Facility equipment",
+   "source_category": "Real Estate / Build-Out",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Lamont, Hanley & Assoc. Inc.",
+   "city": "Manchester",
+   "state": "NH",
+   "website": "https://lhainc.com/",
+   "category_hint": "Collections; Accounts receivable",
+   "source_category": "Banking & Financial Services",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Static Grow",
+   "city": "Tampa",
+   "state": "FL",
+   "website": "http://www.staticgrow.com/",
+   "category_hint": "Facility controls; HVAC automation; Cultivation technology",
+   "source_category": "Technology",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Thermal-Loc Insulated Panels and Door",
+   "city": "Perris",
+   "state": "CA",
+   "website": "https://thermal-loc.com",
+   "category_hint": "Insulated panels; Doors; Facility construction",
+   "source_category": "Real Estate / Build-Out",
+   "served_area": "all 50 states",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "PDS Cultivation Intelligence",
+   "city": "Wildomar",
+   "state": "CA",
+   "website": "https://www.pdsgrows.com",
+   "category_hint": "Cultivation data; Sensors; Compliance integrations",
+   "source_category": "Technology",
+   "served_area": "multistate",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  },
+  {
+   "name": "Shenzhen Novel Technology Co.,Ltd",
+   "website": "https://www.novelecig.com",
+   "category_hint": "Vape hardware; OEM/ODM",
+   "source_category": "Packaging & Labeling",
+   "served_area": "multistate",
+   "events": [
+    {
+     "name": "MJBizCon",
+     "year": 2026,
+     "city": "Las Vegas",
+     "state": "NV"
+    }
+   ]
+  }
+ ]
+}

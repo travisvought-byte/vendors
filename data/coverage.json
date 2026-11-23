@@ -1,0 +1,1830 @@
+{
+ "built_on": "2026-11-23",
+ "totals": {
+  "vendors": 603,
+  "personal_name_only_counted_not_listed": 0,
+  "by_scope": {
+   "local": 218,
+   "state": 115,
+   "regional": 14,
+   "national": 256
+  },
+  "by_category": {
+   "Food & Beverage": 0,
+   "Arts & Crafts": 0,
+   "Retail, Gifts & Apparel": 0,
+   "Health, Beauty & Wellness": 0,
+   "Cannabis, Hemp & CBD": 130,
+   "Home, Garden & Building": 43,
+   "Farm & Agriculture": 1,
+   "Professional & Financial Services": 192,
+   "Technology": 46,
+   "Marketing, Media & Printing": 45,
+   "Packaging & Supplies": 48,
+   "Security & Logistics": 38,
+   "Event Services & Rentals": 11,
+   "Entertainment & Activities": 0,
+   "Outdoors, Auto & Recreation": 0,
+   "Nonprofit, Community & Government": 49,
+   "Other": 0
+  }
+ },
+ "states": [
+  {
+   "code": "OH",
+   "name": "Ohio",
+   "vendors": 290,
+   "by_category": {
+    "cannabis-hemp": 105,
+    "event-services": 11,
+    "home-garden": 13,
+    "marketing-media": 17,
+    "nonprofit-community": 20,
+    "packaging-supplies": 18,
+    "professional-services": 58,
+    "security-logistics": 17,
+    "technology": 31
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Farm & Agriculture",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation"
+   ],
+   "sources": {
+    "active": 1
+   },
+   "gaps": [
+    "290 of 500 vendors",
+    "7 categories empty"
+   ],
+   "priority": [
+    0,
+    290
+   ]
+  },
+  {
+   "code": "IN",
+   "name": "Indiana",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    1,
+    0
+   ]
+  },
+  {
+   "code": "KY",
+   "name": "Kentucky",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    1,
+    0
+   ]
+  },
+  {
+   "code": "WV",
+   "name": "West Virginia",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    1,
+    0
+   ]
+  },
+  {
+   "code": "MI",
+   "name": "Michigan",
+   "vendors": 1,
+   "by_category": {
+    "technology": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "1 of 500 vendors",
+    "15 categories empty"
+   ],
+   "priority": [
+    1,
+    1
+   ]
+  },
+  {
+   "code": "PA",
+   "name": "Pennsylvania",
+   "vendors": 84,
+   "by_category": {
+    "cannabis-hemp": 21,
+    "farm-agriculture": 1,
+    "home-garden": 12,
+    "nonprofit-community": 14,
+    "packaging-supplies": 8,
+    "professional-services": 21,
+    "security-logistics": 6,
+    "technology": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Marketing, Media & Printing",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation"
+   ],
+   "sources": {
+    "active": 1
+   },
+   "gaps": [
+    "84 of 500 vendors",
+    "8 categories empty"
+   ],
+   "priority": [
+    1,
+    84
+   ]
+  },
+  {
+   "code": "AL",
+   "name": "Alabama",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "AK",
+   "name": "Alaska",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "AR",
+   "name": "Arkansas",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "CT",
+   "name": "Connecticut",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "DE",
+   "name": "Delaware",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "DC",
+   "name": "District of Columbia",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "GA",
+   "name": "Georgia",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "HI",
+   "name": "Hawaii",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "ID",
+   "name": "Idaho",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "IL",
+   "name": "Illinois",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "IA",
+   "name": "Iowa",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "KS",
+   "name": "Kansas",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "LA",
+   "name": "Louisiana",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "ME",
+   "name": "Maine",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MD",
+   "name": "Maryland",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MA",
+   "name": "Massachusetts",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MN",
+   "name": "Minnesota",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MS",
+   "name": "Mississippi",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MO",
+   "name": "Missouri",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "MT",
+   "name": "Montana",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "NE",
+   "name": "Nebraska",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "NJ",
+   "name": "New Jersey",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "NM",
+   "name": "New Mexico",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "NY",
+   "name": "New York",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "NC",
+   "name": "North Carolina",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "ND",
+   "name": "North Dakota",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "OK",
+   "name": "Oklahoma",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "OR",
+   "name": "Oregon",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "RI",
+   "name": "Rhode Island",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "SC",
+   "name": "South Carolina",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "SD",
+   "name": "South Dakota",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "TN",
+   "name": "Tennessee",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "TX",
+   "name": "Texas",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "UT",
+   "name": "Utah",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "VT",
+   "name": "Vermont",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "VA",
+   "name": "Virginia",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "WI",
+   "name": "Wisconsin",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "WY",
+   "name": "Wyoming",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "PR",
+   "name": "Puerto Rico",
+   "vendors": 0,
+   "by_category": {},
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "0 of 500 vendors",
+    "16 categories empty"
+   ],
+   "priority": [
+    2,
+    0
+   ]
+  },
+  {
+   "code": "AZ",
+   "name": "Arizona",
+   "vendors": 1,
+   "by_category": {
+    "home-garden": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "1 of 500 vendors",
+    "15 categories empty"
+   ],
+   "priority": [
+    2,
+    1
+   ]
+  },
+  {
+   "code": "CO",
+   "name": "Colorado",
+   "vendors": 1,
+   "by_category": {
+    "marketing-media": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Technology",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "1 of 500 vendors",
+    "15 categories empty"
+   ],
+   "priority": [
+    2,
+    1
+   ]
+  },
+  {
+   "code": "FL",
+   "name": "Florida",
+   "vendors": 1,
+   "by_category": {
+    "technology": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "1 of 500 vendors",
+    "15 categories empty"
+   ],
+   "priority": [
+    2,
+    1
+   ]
+  },
+  {
+   "code": "WA",
+   "name": "Washington",
+   "vendors": 1,
+   "by_category": {
+    "professional-services": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "1 of 500 vendors",
+    "15 categories empty"
+   ],
+   "priority": [
+    2,
+    1
+   ]
+  },
+  {
+   "code": "NH",
+   "name": "New Hampshire",
+   "vendors": 2,
+   "by_category": {
+    "packaging-supplies": 1,
+    "professional-services": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Cannabis, Hemp & CBD",
+    "Home, Garden & Building",
+    "Farm & Agriculture",
+    "Technology",
+    "Marketing, Media & Printing",
+    "Security & Logistics",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "2 of 500 vendors",
+    "14 categories empty"
+   ],
+   "priority": [
+    2,
+    2
+   ]
+  },
+  {
+   "code": "CA",
+   "name": "California",
+   "vendors": 5,
+   "by_category": {
+    "cannabis-hemp": 1,
+    "home-garden": 2,
+    "security-logistics": 1,
+    "technology": 1
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Farm & Agriculture",
+    "Professional & Financial Services",
+    "Marketing, Media & Printing",
+    "Packaging & Supplies",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {},
+   "gaps": [
+    "5 of 500 vendors",
+    "12 categories empty"
+   ],
+   "priority": [
+    2,
+    5
+   ]
+  },
+  {
+   "code": "NV",
+   "name": "Nevada",
+   "vendors": 13,
+   "by_category": {
+    "cannabis-hemp": 1,
+    "home-garden": 3,
+    "marketing-media": 1,
+    "packaging-supplies": 2,
+    "professional-services": 2,
+    "security-logistics": 1,
+    "technology": 3
+   },
+   "empty_categories": [
+    "Food & Beverage",
+    "Arts & Crafts",
+    "Retail, Gifts & Apparel",
+    "Health, Beauty & Wellness",
+    "Farm & Agriculture",
+    "Event Services & Rentals",
+    "Entertainment & Activities",
+    "Outdoors, Auto & Recreation",
+    "Nonprofit, Community & Government"
+   ],
+   "sources": {
+    "active": 1
+   },
+   "gaps": [
+    "13 of 500 vendors",
+    "9 categories empty"
+   ],
+   "priority": [
+    2,
+    13
+   ]
+  },
+  {
+   "code": "unknown",
+   "name": "Location not stated",
+   "vendors": 216,
+   "by_category": {
+    "cannabis-hemp": 3,
+    "home-garden": 15,
+    "marketing-media": 27,
+    "nonprofit-community": 15,
+    "packaging-supplies": 20,
+    "professional-services": 111,
+    "security-logistics": 14,
+    "technology": 11
+   },
+   "empty_categories": [],
+   "sources": {},
+   "gaps": [],
+   "priority": [
+    9,
+    0
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "owner-ohio-cannabis-directory",
+   "title": "Ohio Cannabis Ecosystem Directory (organizations)",
+   "jurisdiction": "OH",
+   "status": "active",
+   "method": "csv",
+   "last_read": "2026-11-23",
+   "days_until_due": 30,
+   "kept": 514,
+   "personal_name_only": 0,
+   "last_run": "ok",
+   "note": null
+  },
+  {
+   "id": "owner-pennsylvania-cannabis-companies",
+   "title": "Pennsylvania cannabis companies (from the cannabis directory)",
+   "jurisdiction": "PA",
+   "status": "active",
+   "method": "csv",
+   "last_read": "2026-11-23",
+   "days_until_due": 30,
+   "kept": 100,
+   "personal_name_only": 0,
+   "last_run": "ok",
+   "note": null
+  },
+  {
+   "id": "owner-mjbizcon-2026-ohio-exhibitors",
+   "title": "MJBizCon 2026 exhibitors that list Ohio (cannabis directory research file)",
+   "jurisdiction": "NV",
+   "status": "active",
+   "method": "json",
+   "last_read": "2026-11-23",
+   "days_until_due": 365,
+   "kept": 13,
+   "personal_name_only": 0,
+   "last_run": "ok",
+   "note": null
+  }
+ ],
+ "queue": []
+}

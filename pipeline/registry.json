@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "purpose": "Where Vendor Maps' vendors come from: one entry per public source. Read by pipeline/ (see pipeline/README.md). Rosters are added with python -m pipeline.add_rosters; the owner's directories are pulled from their public GitHub files.",
+ "sources": [
+  {
+   "id": "owner-ohio-cannabis-directory",
+   "jurisdiction": "OH",
+   "title": "Ohio Cannabis Ecosystem Directory (organizations)",
+   "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+   "fetch": {"method": "csv", "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/ohio-cannabis-directory.csv", "local_env": "CANNABIS_DIR", "local_path": "ohio-cannabis-directory.csv"},
+   "importer": "ohio_cannabis_directory",
+   "evidence_level": "directory-verified",
+   "kept_rule": "Every business and nonprofit row except those flagged out of scope, individuals and political parties. OCHBS 2026 exhibitors keep the event; direct OCHBS contacts are marked trade-show-contact. Contact people, emails and phones are not read.",
+   "cadence_days": 30,
+   "status": "active"
+  },
+  {
+   "id": "owner-pennsylvania-cannabis-companies",
+   "jurisdiction": "PA",
+   "title": "Pennsylvania cannabis companies (from the cannabis directory)",
+   "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+   "fetch": {"method": "csv", "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/pennsylvania-companies.csv", "local_env": "CANNABIS_DIR", "local_path": "pennsylvania-companies.csv"},
+   "importer": "pennsylvania_companies",
+   "evidence_level": "directory-verified",
+   "kept_rule": "Every company row; the business-inquiry column (contacts) is never read.",
+   "cadence_days": 30,
+   "status": "active"
+  },
+  {
+   "id": "owner-mjbizcon-2026-ohio-exhibitors",
+   "jurisdiction": "NV",
+   "title": "MJBizCon 2026 exhibitors that list Ohio (cannabis directory research file)",
+   "publisher": "Ohio Cannabis Ecosystem Directory research, from MJBizCon's official exhibitor profiles",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory/blob/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+   "fetch": {"method": "json", "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json", "local_env": "CANNABIS_DIR", "local_path": "data/research/mjbizcon-2026-10-28-ohio-candidates.json"},
+   "importer": "mjbizcon_candidates",
+   "evidence_level": "event-profile",
+   "kept_rule": "Every exhibitor in the file; headquarters city and state taken from the profile notes.",
+   "cadence_days": 365,
+   "status": "active"
+  }
+ ]
+}
