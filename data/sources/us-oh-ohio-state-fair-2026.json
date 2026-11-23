@@ -1,0 +1,109 @@
+{
+ "source": "us-oh-ohio-state-fair-2026",
+ "title": "Ohio State Fair 2026 food-vendors",
+ "publisher": "abc6onyourside.com",
+ "landing_url": "https://abc6onyourside.com/news/local/columbus-ohio-state-fair-adds-new-vendors-25-new-foods-for-2026-run-catfish-on-a-stick-corn-dog-cream-puff-float-pork-belly-cone",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "08714706410323910b0bbfc1a3f5d609b0126584fc3ded68a3957dce7e01f277",
+ "counts": {
+  "read": 6,
+  "kept": 6,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Schmidt's",
+   "category_hint": "root beer cream puff",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Daisy's Fish Shack",
+   "category_hint": "catfish on a stick",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Miller & Company Concessions",
+   "category_hint": "churro Korean corn dog",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Prowant Specialty",
+   "category_hint": "funnel cake",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Mr. Pork Belly",
+   "category_hint": "pork belly in a cone",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ohio Dots",
+   "category_hint": "ice cream float",
+   "events": [
+    {
+     "name": "Ohio State Fair",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "fair"
+  }
+ ]
+}

@@ -1,0 +1,829 @@
+{
+ "source": "owner-pennsylvania-cannabis-companies",
+ "title": "Pennsylvania cannabis companies (from the cannabis directory)",
+ "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+ "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+ "evidence_level": "directory-verified",
+ "kept_rule": "Every company row; the business-inquiry column (contacts) is never read.",
+ "retrieved_on": null,
+ "read_from": "cache",
+ "sha256": "ce741a23b81a6013f7cc482155a2fb11cebf2f8d97d6c9b45339679611a25f8b",
+ "counts": {
+  "read": 100,
+  "kept": 100,
+  "dropped": {}
+ },
+ "vendors": [
+  {
+   "name": "ACT LAB (ACT Laboratories, Inc.)",
+   "city": "Harrisburg",
+   "state": "PA",
+   "source_category": "Testing laboratories",
+   "category_hint": "Testing laboratories",
+   "served_area": "Pennsylvania",
+   "source_record": "org-439251489828"
+  },
+  {
+   "name": "Alpine Packaging, Inc.",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-alpine-packaging"
+  },
+  {
+   "name": "Amwins Program Underwriters",
+   "state": "PA",
+   "source_category": "Insurance",
+   "category_hint": "Insurance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-f1126161a4ac"
+  },
+  {
+   "name": "Applied Separations",
+   "city": "Allentown",
+   "state": "PA",
+   "source_category": "Extraction & processing equipment",
+   "category_hint": "Extraction & processing equipment",
+   "served_area": "Pennsylvania",
+   "source_record": "org-applied-separations"
+  },
+  {
+   "name": "ARCO National Construction",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-547f01a174ca"
+  },
+  {
+   "name": "Ascend Cannabis",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-9878f97747e7"
+  },
+  {
+   "name": "Automated Security Corporation",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-automated-security-corp"
+  },
+  {
+   "name": "Barley Snyder",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-barley-snyder"
+  },
+  {
+   "name": "Beyond Hello",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-c081c812feb2"
+  },
+  {
+   "name": "Boyle Construction",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-boyle-construction"
+  },
+  {
+   "name": "Buglady Consulting",
+   "state": "PA",
+   "source_category": "Pest management / IPM",
+   "category_hint": "Pest management / IPM",
+   "served_area": "Pennsylvania",
+   "source_record": "org-buglady-consulting"
+  },
+  {
+   "name": "Cannabis Law Solutions (Hawke McKeon & Sniscak LLP)",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-hawke-mckeon-sniscak"
+  },
+  {
+   "name": "Cannagas Supply",
+   "state": "PA",
+   "source_category": "Gases & consumables",
+   "category_hint": "Gases & consumables",
+   "served_area": "Pennsylvania",
+   "source_record": "org-cannagas-supply"
+  },
+  {
+   "name": "Cannaspire",
+   "state": "PA",
+   "source_category": "Consulting & other services",
+   "category_hint": "Consulting & other services",
+   "served_area": "Pennsylvania",
+   "source_record": "org-ce7e40ed878d"
+  },
+  {
+   "name": "CanPay",
+   "state": "PA",
+   "source_category": "Banking & payments",
+   "category_hint": "Banking & payments",
+   "served_area": "Pennsylvania",
+   "source_record": "org-def97ffbd151"
+  },
+  {
+   "name": "Central Penn College",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-central-penn-college"
+  },
+  {
+   "name": "Clark Hill",
+   "state": "PA",
+   "source_category": "Consulting & other services",
+   "category_hint": "Consulting & other services",
+   "served_area": "Pennsylvania",
+   "source_record": "org-clark-hill"
+  },
+  {
+   "name": "CLG & Associates",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-clg-associates"
+  },
+  {
+   "name": "Coral Reef Labs",
+   "city": "Jonestown",
+   "state": "PA",
+   "source_category": "Testing laboratories",
+   "category_hint": "Testing laboratories",
+   "served_area": "Pennsylvania",
+   "source_record": "org-coral-reef-labs"
+  },
+  {
+   "name": "Corcoran Printing",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-corcoran-printing"
+  },
+  {
+   "name": "Cozen O’Connor",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-cozen-oconnor"
+  },
+  {
+   "name": "Cresco Labs / Sunnyside",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-667af67557f3"
+  },
+  {
+   "name": "Delaware Valley University",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-delaware-valley-university"
+  },
+  {
+   "name": "Dellinger Horticulture, Inc.",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-dellinger-horticulture"
+  },
+  {
+   "name": "DEM360",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-b378d74b9ade"
+  },
+  {
+   "name": "DON Enterprises",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-don-enterprises"
+  },
+  {
+   "name": "Duane Morris LLP",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-duane-morris"
+  },
+  {
+   "name": "Dura-Pack",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-dura-pack"
+  },
+  {
+   "name": "Dutchie",
+   "state": "PA",
+   "source_category": "Software & technology",
+   "category_hint": "Software & technology",
+   "served_area": "Pennsylvania",
+   "source_record": "org-a06c1362a303"
+  },
+  {
+   "name": "Earp Cohn P.C.",
+   "state": "PA",
+   "source_category": "Consulting & other services",
+   "category_hint": "Consulting & other services",
+   "served_area": "Pennsylvania",
+   "source_record": "org-earp-cohn"
+  },
+  {
+   "name": "Elmark Packaging",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-elmark-packaging"
+  },
+  {
+   "name": "Epstein",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-f73d6f8cdebe"
+  },
+  {
+   "name": "Ethos Cannabis / Meigs County Grown",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-3a4a21b3faf4"
+  },
+  {
+   "name": "Extrity Security Services",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-extrity-services"
+  },
+  {
+   "name": "FarmaceuticalRx",
+   "city": "Farrell",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-90725b1d60a7"
+  },
+  {
+   "name": "First Commonwealth Federal Credit Union",
+   "state": "PA",
+   "source_category": "Banking & payments",
+   "category_hint": "Banking & payments",
+   "served_area": "Pennsylvania",
+   "source_record": "org-first-commonwealth-fcu"
+  },
+  {
+   "name": "Fox Rothschild",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-fox-rothschild"
+  },
+  {
+   "name": "Graves Design Group",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-graves-design-group"
+  },
+  {
+   "name": "Green Thumb Industries (RISE / RYTHM)",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-364a9eed8729"
+  },
+  {
+   "name": "GreenGrowth CPAs",
+   "state": "PA",
+   "source_category": "Accounting & finance",
+   "category_hint": "Accounting & finance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-9ed4875dc1d5"
+  },
+  {
+   "name": "Greenzone Engineering",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-greenzone-engineering"
+  },
+  {
+   "name": "Griffin Greenhouse Supplies",
+   "state": "PA",
+   "source_category": "Cultivation supplies",
+   "category_hint": "Cultivation supplies",
+   "served_area": "Pennsylvania",
+   "source_record": "org-griffin-greenhouse-supplies"
+  },
+  {
+   "name": "HACC, Central Pennsylvania’s Community College",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-hacc"
+  },
+  {
+   "name": "Hanging Gardens",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-hanging-gardens"
+  },
+  {
+   "name": "HBK Cannabis Solutions",
+   "state": "PA",
+   "source_category": "Accounting & finance",
+   "category_hint": "Accounting & finance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-cc96c3d190d4"
+  },
+  {
+   "name": "Hempatrics",
+   "state": "PA",
+   "source_category": "Hemp materials",
+   "category_hint": "Hemp materials",
+   "served_area": "Pennsylvania",
+   "source_record": "org-hempatrics"
+  },
+  {
+   "name": "HiTechTrader",
+   "state": "PA",
+   "source_category": "Extraction & processing equipment",
+   "category_hint": "Extraction & processing equipment",
+   "served_area": "Pennsylvania",
+   "source_record": "org-hitechtrader"
+  },
+  {
+   "name": "Holistic Industries",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-holistic-industries"
+  },
+  {
+   "name": "HTG Supply",
+   "state": "PA",
+   "source_category": "Cultivation supplies",
+   "category_hint": "Cultivation supplies",
+   "served_area": "Pennsylvania",
+   "source_record": "org-htg-supply"
+  },
+  {
+   "name": "Inland Packaging",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-inland-packaging"
+  },
+  {
+   "name": "Innovative Industrial Properties",
+   "state": "PA",
+   "source_category": "Commercial real estate",
+   "category_hint": "Commercial real estate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-innovative-industrial-properties"
+  },
+  {
+   "name": "INSA",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-afa309caf39c"
+  },
+  {
+   "name": "Insureon",
+   "state": "PA",
+   "source_category": "Insurance",
+   "category_hint": "Insurance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-6f378d0b5792"
+  },
+  {
+   "name": "Jonestown Bank & Trust Co.",
+   "state": "PA",
+   "source_category": "Banking & payments",
+   "category_hint": "Banking & payments",
+   "served_area": "Pennsylvania",
+   "source_record": "org-jonestown-bank-trust"
+  },
+  {
+   "name": "JPAK International LLC",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-jpak-international"
+  },
+  {
+   "name": "JR Peters, Inc.",
+   "state": "PA",
+   "source_category": "Cultivation supplies",
+   "category_hint": "Cultivation supplies",
+   "served_area": "Pennsylvania",
+   "source_record": "org-jr-peters"
+  },
+  {
+   "name": "Keystone State Testing LLC",
+   "city": "Swoyersville",
+   "state": "PA",
+   "source_category": "Testing laboratories",
+   "category_hint": "Testing laboratories",
+   "served_area": "Pennsylvania",
+   "source_record": "org-keystone-state-testing"
+  },
+  {
+   "name": "Kinsley Energy Systems",
+   "state": "PA",
+   "source_category": "Energy & backup power",
+   "category_hint": "Energy & backup power",
+   "served_area": "Pennsylvania",
+   "source_record": "org-kinsley-energy-systems"
+  },
+  {
+   "name": "LabelPack Automation",
+   "city": "Bradford",
+   "state": "PA",
+   "source_category": "Packaging & labels",
+   "category_hint": "Packaging & labels",
+   "served_area": "Pennsylvania",
+   "source_record": "org-labelpack-automation"
+  },
+  {
+   "name": "LabRepCo",
+   "state": "PA",
+   "source_category": "Laboratory equipment",
+   "category_hint": "Laboratory equipment",
+   "served_area": "Pennsylvania",
+   "source_record": "org-labrepco"
+  },
+  {
+   "name": "Lackawanna College",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-lackawanna-college"
+  },
+  {
+   "name": "Leech Tishman",
+   "state": "PA",
+   "source_category": "Insurance",
+   "category_hint": "Insurance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-leech-tishman"
+  },
+  {
+   "name": "Maitri Medicinals",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-maitri-medicinals"
+  },
+  {
+   "name": "McKim & Creed",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-mckim-creed"
+  },
+  {
+   "name": "Mil-Spec Safety & Security",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-mil-spec-safety-security"
+  },
+  {
+   "name": "MJ Freeway / MJ Platform",
+   "state": "PA",
+   "source_category": "Software & technology",
+   "category_hint": "Software & technology",
+   "served_area": "Pennsylvania",
+   "source_record": "org-mj-freeway"
+  },
+  {
+   "name": "Organic Remedies",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-organic-remedies"
+  },
+  {
+   "name": "PA Hemp Steering Committee",
+   "state": "PA",
+   "source_category": "Industry organizations",
+   "category_hint": "Industry organizations",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pa-hemp-steering-committee"
+  },
+  {
+   "name": "PA Hydroponics",
+   "city": "York Springs",
+   "state": "PA",
+   "source_category": "Cultivation supplies",
+   "category_hint": "Cultivation supplies",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pa-hydroponics"
+  },
+  {
+   "name": "Palmer Construction",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-palmer-construction"
+  },
+  {
+   "name": "Panacea Group",
+   "state": "PA",
+   "source_category": "Industry organizations",
+   "category_hint": "Industry organizations",
+   "served_area": "Pennsylvania",
+   "source_record": "org-panacea-group"
+  },
+  {
+   "name": "Panacea Payroll",
+   "state": "PA",
+   "source_category": "Payroll & HR",
+   "category_hint": "Payroll & HR",
+   "served_area": "Pennsylvania",
+   "source_record": "org-panacea-payroll"
+  },
+  {
+   "name": "Paragon Engineering Services",
+   "state": "PA",
+   "source_category": "Electrical & MEP engineering",
+   "category_hint": "Electrical & MEP engineering",
+   "served_area": "Pennsylvania",
+   "source_record": "org-paragon-engineering-services"
+  },
+  {
+   "name": "Parke Bank",
+   "state": "PA",
+   "source_category": "Banking & payments",
+   "category_hint": "Banking & payments",
+   "served_area": "Pennsylvania",
+   "source_record": "org-parke-bank"
+  },
+  {
+   "name": "Penn Health Group",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-penn-health-group"
+  },
+  {
+   "name": "Penn State University",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-penn-state-university"
+  },
+  {
+   "name": "Penn Summit Insurance Agency",
+   "state": "PA",
+   "source_category": "Insurance",
+   "category_hint": "Insurance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-penn-summit-insurance"
+  },
+  {
+   "name": "Pennsylvania Cannabis Coalition",
+   "state": "PA",
+   "source_category": "Industry organizations",
+   "category_hint": "Industry organizations",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pennsylvania-cannabis-coalition"
+  },
+  {
+   "name": "Pennsylvania Hemp & Cannabis Guild",
+   "state": "PA",
+   "source_category": "Industry organizations",
+   "category_hint": "Industry organizations",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pennsylvania-hemp-cannabis-guild"
+  },
+  {
+   "name": "Pennsylvania Hemp Industry Council",
+   "state": "PA",
+   "source_category": "Industry organizations",
+   "category_hint": "Industry organizations",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pennsylvania-hemp-industry-council"
+  },
+  {
+   "name": "Pennsylvania Institute of Technology",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-pennsylvania-institute-technology"
+  },
+  {
+   "name": "PharmaCann / Verilife",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-aefe1b952bc0"
+  },
+  {
+   "name": "Prime Wellness of Pennsylvania",
+   "city": "Sinking Spring",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-prime-wellness-pennsylvania"
+  },
+  {
+   "name": "RiP Security Group",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-rip-security-group"
+  },
+  {
+   "name": "Robertson Insurance & Risk Management",
+   "state": "PA",
+   "source_category": "Insurance",
+   "category_hint": "Insurance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-robertson-insurance"
+  },
+  {
+   "name": "Rodale Institute",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-rodale-institute"
+  },
+  {
+   "name": "Saul Ewing",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-saul-ewing"
+  },
+  {
+   "name": "Saxton & Stump",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-saxton-stump"
+  },
+  {
+   "name": "SD Associates, P.C.",
+   "state": "PA",
+   "source_category": "Accounting & finance",
+   "category_hint": "Accounting & finance",
+   "served_area": "Pennsylvania",
+   "source_record": "org-sd-associates"
+  },
+  {
+   "name": "Standard Farms",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-standard-farms"
+  },
+  {
+   "name": "Steep Hill Pennsylvania",
+   "city": "Harrisburg",
+   "state": "PA",
+   "source_category": "Testing laboratories",
+   "category_hint": "Testing laboratories",
+   "served_area": "Pennsylvania",
+   "source_record": "org-steep-hill-pennsylvania"
+  },
+  {
+   "name": "Stevens & Lee",
+   "state": "PA",
+   "source_category": "Legal & licensing",
+   "category_hint": "Legal & licensing",
+   "served_area": "Pennsylvania",
+   "source_record": "org-stevens-lee"
+  },
+  {
+   "name": "Talaria",
+   "state": "PA",
+   "source_category": "Logistics & distribution",
+   "category_hint": "Logistics & distribution",
+   "served_area": "Pennsylvania",
+   "source_record": "org-2b1d7f43aa6e"
+  },
+  {
+   "name": "Thar Process",
+   "city": "Pittsburgh",
+   "state": "PA",
+   "source_category": "Extraction & processing equipment",
+   "category_hint": "Extraction & processing equipment",
+   "served_area": "Pennsylvania",
+   "source_record": "org-thar-process"
+  },
+  {
+   "name": "Thomas Jefferson University",
+   "state": "PA",
+   "source_category": "Education & research",
+   "category_hint": "Education & research",
+   "served_area": "Pennsylvania",
+   "source_record": "org-thomas-jefferson-university"
+  },
+  {
+   "name": "Titanium Security & Surveillance",
+   "state": "PA",
+   "source_category": "Security",
+   "category_hint": "Security",
+   "served_area": "Pennsylvania",
+   "source_record": "org-titanium-security-surveillance"
+  },
+  {
+   "name": "US Cannalytics, LLC",
+   "city": "Bethlehem",
+   "state": "PA",
+   "source_category": "Testing laboratories",
+   "category_hint": "Testing laboratories",
+   "served_area": "Pennsylvania",
+   "source_record": "org-us-cannalytics"
+  },
+  {
+   "name": "Verano / Zen Leaf",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-2412bd73869d"
+  },
+  {
+   "name": "Vytal Options",
+   "state": "PA",
+   "source_category": "Operators & brands",
+   "category_hint": "Operators & brands",
+   "served_area": "Pennsylvania",
+   "source_record": "org-vytal-options"
+  },
+  {
+   "name": "Wooster & Associates",
+   "state": "PA",
+   "source_category": "Facility design & climate",
+   "category_hint": "Facility design & climate",
+   "served_area": "Pennsylvania",
+   "source_record": "org-wooster-associates"
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "event": {
+  "name": "Bark Bash",
+  "year": 2025,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://www.metroparks.net/wp-content/uploads/2025/07/Vendor-List-2025-2.pdf",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 1,
+ "vendors": [
+  {
+   "name": "ValuVet Wellness"
+  },
+  {
+   "name": "PetCakes by Lucky Paws Inc."
+  },
+  {
+   "name": "Delaware Good Dog"
+  },
+  {
+   "name": "Pawsitive Vitality"
+  },
+  {
+   "name": "Mutts & Co."
+  },
+  {
+   "name": "Milo's Wish"
+  },
+  {
+   "name": "Veteran Companion Animal Services"
+  },
+  {
+   "name": "Columbus Humane"
+  },
+  {
+   "name": "4 Paws and a Tail"
+  },
+  {
+   "name": "All Tails R Waggin"
+  },
+  {
+   "name": "Camp Bow Wow"
+  },
+  {
+   "name": "Pet FBI"
+  },
+  {
+   "name": "Pet Butler"
+  },
+  {
+   "name": "Stitches + Sass"
+  },
+  {
+   "name": "Bumble's Backyard"
+  },
+  {
+   "name": "SWACO"
+  },
+  {
+   "name": "PetSuites"
+  },
+  {
+   "name": "Puptown Lounge"
+  },
+  {
+   "name": "Project Warmth"
+  },
+  {
+   "name": "Columbus Department of Public Utilities"
+  },
+  {
+   "name": "Hollywood Feed"
+  },
+  {
+   "name": "One of the Pack"
+  },
+  {
+   "name": "Franklin County Auditor's Office"
+  },
+  {
+   "name": "Hope 4 Dogs"
+  },
+  {
+   "name": "Whispering Pine K9"
+  },
+  {
+   "name": "Carpe Diem PSA Club"
+  },
+  {
+   "name": "The Pink Leash"
+  },
+  {
+   "name": "Paws Worthy Dog Training"
+  },
+  {
+   "name": "COVE (Central Ohio Veterinary Emergency)"
+  },
+  {
+   "name": "Professional K9"
+  },
+  {
+   "name": "Metro Parks Outdoor Adventure"
+  },
+  {
+   "name": "Ohio Fuzzy Pawz Shih Tzu Rescue, Inc."
+  },
+  {
+   "name": "Pet Supplies Plus"
+  },
+  {
+   "name": "First Mate Pet Food"
+  },
+  {
+   "name": "Grateful Acres Pets"
+  },
+  {
+   "name": "K9aid.org"
+  },
+  {
+   "name": "Columbus All Breed"
+  },
+  {
+   "name": "Franklin County 4H"
+  },
+  {
+   "name": "Colony Cats & Dogs"
+  },
+  {
+   "name": "Central Ohio Muttessori School"
+  },
+  {
+   "name": "Faithful Forgotten Best Friends (FFBF)"
+  },
+  {
+   "name": "Hospets, Inc."
+  },
+  {
+   "name": "Paws Veterinary Urgent Care"
+  },
+  {
+   "name": "RESCUEDohio"
+  },
+  {
+   "name": "ARRf K9"
+  },
+  {
+   "name": "SOS - Shelter Outreach Services"
+  },
+  {
+   "name": "Canine Crave"
+  },
+  {
+   "name": "Dogtor Jewelry Studio"
+  },
+  {
+   "name": "DuckleyDoesArt"
+  },
+  {
+   "name": "Park Your Paws"
+  },
+  {
+   "name": "Shaterra"
+  },
+  {
+   "name": "Central Ohio Pit Savers"
+  },
+  {
+   "name": "Newfoundland Club of America Charitable"
+  },
+  {
+   "name": "Humane Society of Madison County"
+  },
+  {
+   "name": "Wags Bakery LLC"
+  },
+  {
+   "name": "Girls Gone Raw"
+  },
+  {
+   "name": "Just Four Pups"
+  },
+  {
+   "name": "WoodChew"
+  },
+  {
+   "name": "Treat Wreaths"
+  },
+  {
+   "name": "ASPCA Cruelty Recovery Center"
+  },
+  {
+   "name": "Everything Golden"
+  },
+  {
+   "name": "Ash and Alder Photography"
+  },
+  {
+   "name": "Spoil Em Rotten"
+  },
+  {
+   "name": "Muschlitz Photography"
+  },
+  {
+   "name": "Boba & Co."
+  },
+  {
+   "name": "Friends of Metro Parks"
+  },
+  {
+   "name": "Rufftimes Pet Accessories"
+  },
+  {
+   "name": "Shake Your Tail Feathers Aviary"
+  },
+  {
+   "name": "SICSA Pet Adoption Center"
+  },
+  {
+   "name": "Suburban Animal Clinic"
+  },
+  {
+   "name": "Metro Parks"
+  },
+  {
+   "name": "Our Two Bostons"
+  },
+  {
+   "name": "Top Rocks Paws"
+  },
+  {
+   "name": "Crafts by Beth"
+  },
+  {
+   "name": "Blue Boy Bandanas"
+  },
+  {
+   "name": "Boujee Dog Bites"
+  },
+  {
+   "name": "Good Dog Goodies"
+  },
+  {
+   "name": "Groovy Girls"
+  },
+  {
+   "name": "Pet Wants Dublin"
+  },
+  {
+   "name": "K9 Resorts Hilliard"
+  },
+  {
+   "name": "Zoom Room New Albany"
+  },
+  {
+   "name": "Marley's Paw Bakery"
+  },
+  {
+   "name": "No Tails About It Corgi Rescue"
+  },
+  {
+   "name": "Ohio Pet Waste Removal"
+  },
+  {
+   "name": "The Columbus Dog Wizard"
+  },
+  {
+   "name": "WHATTAMUTT"
+  },
+  {
+   "name": "Woof Gang Bakery & Grooming Dublin"
+  },
+  {
+   "name": "Ice Castles"
+  },
+  {
+   "name": "The Ohio State University Veterinary Medical Center"
+  },
+  {
+   "name": "Atlas Butler Heating, Cooling, and Pluming"
+  },
+  {
+   "name": "Penninsula Sky Dogs"
+  },
+  {
+   "name": "Stage Performance Dogs"
+  },
+  {
+   "name": "Sheriff K9 Units"
+  }
+ ]
+}

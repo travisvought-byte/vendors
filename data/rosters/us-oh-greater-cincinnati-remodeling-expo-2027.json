@@ -1,0 +1,363 @@
+{
+ "event": {
+  "name": "Greater Cincinnati Remodeling Expo",
+  "year": 2027,
+  "city": "Sharonville",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://homeshowcenter.com/content/cincinnati/1275",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "3 Day Kitchen and Bath",
+   "category_hint": "Remodeling - Kitchens"
+  },
+  {
+   "name": "365 Renovations",
+   "category_hint": "Painting Services"
+  },
+  {
+   "name": "A Better Life Industries",
+   "category_hint": "Roofing & Solar"
+  },
+  {
+   "name": "A1 Concrete Leveling",
+   "category_hint": "Concrete Raising"
+  },
+  {
+   "name": "Agean Bathrooms",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Agean Spas",
+   "category_hint": "Soft-sided spas"
+  },
+  {
+   "name": "Alice Cabinets & Woodworking",
+   "category_hint": "Cabinetry and Trim"
+  },
+  {
+   "name": "All American Gutter Protection",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "Annie Miller Designs",
+   "category_hint": "Kitchen & bath design"
+  },
+  {
+   "name": "Aqua Systems",
+   "category_hint": "Water Treatment"
+  },
+  {
+   "name": "ArborCare LLC",
+   "category_hint": "Tree Service"
+  },
+  {
+   "name": "Art of Drawers",
+   "category_hint": "Shelving and Cabinet"
+  },
+  {
+   "name": "Bath Experts/ Jacuzzi Bath Remodel",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Bath Inspirations of Cincinnati LLC",
+   "category_hint": "Remodeling"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Biehl Brothers Contracting LLC",
+   "category_hint": "Remodeling - kitchens, bath, deck"
+  },
+  {
+   "name": "Bluegrass Trimlight",
+   "category_hint": "Outdoor Lighting"
+  },
+  {
+   "name": "Build It Brothers LLC",
+   "category_hint": "Home Building, Additions & Remodeling"
+  },
+  {
+   "name": "Building Character LLC",
+   "category_hint": "Outdoor Living, Waterfall, Deck"
+  },
+  {
+   "name": "Carter Kitchen and Bath",
+   "category_hint": "Cabinetry, countertops, flooring"
+  },
+  {
+   "name": "Champion Windows & Patio Rooms",
+   "category_hint": "Windows, Doors, Siding, Sunrooms"
+  },
+  {
+   "name": "Cincinnati Kitchens",
+   "category_hint": "Remodeling - Kitchens"
+  },
+  {
+   "name": "Cooper Electric",
+   "category_hint": "Electrical Contractor"
+  },
+  {
+   "name": "Culligan Water",
+   "category_hint": "Water Treatment & Drinking Water"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "category_hint": "Knives"
+  },
+  {
+   "name": "Cutting Edge Flooring & Tile",
+   "category_hint": "Flooring & Tile"
+  },
+  {
+   "name": "Eagle Custom Homes Inc",
+   "category_hint": "Covered gutters"
+  },
+  {
+   "name": "Edison Landscape & Deck Lighting",
+   "category_hint": "Landscape Lighting"
+  },
+  {
+   "name": "Everdry Waterproofing",
+   "category_hint": "Waterproofing"
+  },
+  {
+   "name": "ExperiGreen Lawn Care",
+   "category_hint": "Lawn/Pest Service"
+  },
+  {
+   "name": "Five Star Bath Solutions",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Fortress Floors Midwest Pro",
+   "category_hint": "Polyurea floor coatings"
+  },
+  {
+   "name": "GatorGuard Concrete Coatings",
+   "category_hint": "Coatings"
+  },
+  {
+   "name": "Gilkey Window Company Inc",
+   "category_hint": "Windows, Patio & Entry Doors"
+  },
+  {
+   "name": "Greater Cincinnati Doors & Closets",
+   "category_hint": "Home storage/organization, interior doors"
+  },
+  {
+   "name": "Gutter Solutions Tri-State",
+   "category_hint": "Covered gutters"
+  },
+  {
+   "name": "H. Glasgow Construction",
+   "category_hint": "Remodeling"
+  },
+  {
+   "name": "Handyman Connection/Mason",
+   "category_hint": "Handyman"
+  },
+  {
+   "name": "Home Genius Exteriors",
+   "category_hint": "Windows"
+  },
+  {
+   "name": "Icon Solar LLC",
+   "category_hint": "Solar"
+  },
+  {
+   "name": "ImproveIt! Home Remodeling",
+   "category_hint": "Windows/Bath Liners"
+  },
+  {
+   "name": "Infinity Replacement by Marvin",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Innovative Interiors",
+   "category_hint": "Kitchen Remodeling"
+  },
+  {
+   "name": "KBC Design Build & Remodeling",
+   "category_hint": "Remodeling - Kitchens, Bath, Addition"
+  },
+  {
+   "name": "Kitchen Bath Design - KBD",
+   "category_hint": "Remodeling - Kitchen & Bath"
+  },
+  {
+   "name": "Kitchen Saver",
+   "category_hint": "Kitchen Remodeling"
+  },
+  {
+   "name": "Kitchen Tune-Up Cincinnati East",
+   "category_hint": "Cabinet Refacing"
+  },
+  {
+   "name": "Klaus Roofing Systems of Cincinnati",
+   "category_hint": "Roof Replacement & Repair"
+  },
+  {
+   "name": "Lance Roofing & Siding Inc.",
+   "category_hint": "Roofing, Siding, Gutters"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "LeafGuard of Cincinnati LLC",
+   "category_hint": "Gutters"
+  },
+  {
+   "name": "Legacy Builders Group",
+   "category_hint": "Remodeling"
+  },
+  {
+   "name": "LEI Home Enhancements",
+   "category_hint": "Windows, Roofing, Gutters, Siding, Doors"
+  },
+  {
+   "name": "Mad City Windows and Baths",
+   "category_hint": "Windows, Baths, & Kitchen Cabinets"
+  },
+  {
+   "name": "Midwest Energy Management, LLC",
+   "category_hint": "Insulation"
+  },
+  {
+   "name": "MVP Walk-In Tub And Shower",
+   "category_hint": "Walk-In Tubs, Walk-In Showers"
+  },
+  {
+   "name": "Nature Stone",
+   "category_hint": "Stone and epoxy flooring"
+  },
+  {
+   "name": "Nisbet Brower",
+   "category_hint": "Kitchen Cabinetry, Countertops, Decking Lumber"
+  },
+  {
+   "name": "NRG Home",
+   "category_hint": "Residential energy plans and services"
+  },
+  {
+   "name": "Otterly Bath",
+   "category_hint": "Remodeling - Bathrooms, Walk In Tubs"
+  },
+  {
+   "name": "Patio Enclosures",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures"
+  },
+  {
+   "name": "PDQ Garage Doors",
+   "category_hint": "Garage Doors"
+  },
+  {
+   "name": "Peyton Kitchen & Bath",
+   "category_hint": "Remodeling - Kitchen & Bath"
+  },
+  {
+   "name": "Power Home Remodeling",
+   "category_hint": "Windows, Doors, Attic Insulation"
+  },
+  {
+   "name": "Re-Bath",
+   "category_hint": "Bathroom Remodeling"
+  },
+  {
+   "name": "Remark Construction, LLC",
+   "category_hint": "Remodeling; show sponsor"
+  },
+  {
+   "name": "Renewal by Andersen",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Rieman & Arszman Custom Distributors, Inc.",
+   "category_hint": "Appliances"
+  },
+  {
+   "name": "Ryan's All Glass",
+   "category_hint": "Windows, Glass, Mirrors, Shower Doors"
+  },
+  {
+   "name": "ShelfGenie of Cincinnati",
+   "category_hint": "Custom glide shelving"
+  },
+  {
+   "name": "SIS International Trade",
+   "category_hint": "Skincare"
+  },
+  {
+   "name": "Smart Coat Painting Co.",
+   "category_hint": "Exterior House Painting"
+  },
+  {
+   "name": "Summer Accents",
+   "category_hint": "Patio Umbrellas"
+  },
+  {
+   "name": "Sunspace by PaltekPro",
+   "category_hint": "Sunrooms, Screen Rooms, Porch and Patio Enclosures"
+  },
+  {
+   "name": "Superior Sleep Experience",
+   "category_hint": "Beds"
+  },
+  {
+   "name": "Sustainergy Cooperative",
+   "category_hint": "Solar Panel, Insulation"
+  },
+  {
+   "name": "The Basement Doctor of Cincinnati",
+   "category_hint": "Basement waterproofing, foundation, concrete, crawl space repair"
+  },
+  {
+   "name": "The Dwyer Company",
+   "category_hint": "Waterproofing & Foundation Repair"
+  },
+  {
+   "name": "Three D Kitchen",
+   "category_hint": "Cabinet Replacement"
+  },
+  {
+   "name": "Tri-State Waterworks",
+   "category_hint": "Water Treatment"
+  },
+  {
+   "name": "Universal Windows Direct",
+   "category_hint": "Windows, Doors, Siding"
+  },
+  {
+   "name": "US Custom Creations",
+   "category_hint": "Motorized screens and louvered roofs"
+  },
+  {
+   "name": "Wildcat Massage Chairs",
+   "category_hint": "Massage Chairs"
+  },
+  {
+   "name": "Window Nation",
+   "category_hint": "Windows & Doors"
+  },
+  {
+   "name": "Windows Direct USA",
+   "category_hint": "Windows, Entry Doors, Bath Remodeling"
+  },
+  {
+   "name": "Windows Plus Cincinnati",
+   "category_hint": "Windows, Doors, Roofing, Siding"
+  },
+  {
+   "name": "Zimmer Heating & Cooling",
+   "category_hint": "Heating & Air Conditioning"
+  }
+ ]
+}

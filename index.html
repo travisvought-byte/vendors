@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vendor Maps: find vendors for your event</title>
+<meta name="description" content="A free list of businesses seen on public event exhibitor and vendor lists, sorted by category, place and reach: local, state, regional or national. Business names only. We're not selling your data.">
+<style>
+:root{--bg:#f7f5f0;--panel:#fff;--ink:#1d2430;--muted:#5b6575;--line:#e2ddd2;--accent:#1f6f5c;--accent-ink:#fff;--chip:#eef4f1;--warn:#8a5a00}
+@media (prefers-color-scheme:dark){:root{--bg:#14181d;--panel:#1c2229;--ink:#e8ebef;--muted:#a3adba;--line:#2d3640;--accent:#4fb39a;--accent-ink:#0d1512;--chip:#1f2c29;--warn:#e0b25c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header{padding:40px 0 16px}
+h1{font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.15;margin:0 0 8px}
+.lede{font-size:1.1rem;color:var(--muted);max-width:44em;margin:0}
+.promise{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:24px 0}
+.promise div{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.promise b{display:block;margin-bottom:2px}
+.promise span{color:var(--muted);font-size:.95rem}
+.tools{position:sticky;top:0;z-index:2;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:8px}
+@media (max-width:720px){.tools{grid-template-columns:1fr 1fr}.tools input{grid-column:1/-1}}
+input,select{width:100%;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
+.summary{color:var(--muted);margin:14px 0 8px;font-size:.95rem}
+.list{display:grid;gap:8px;margin-bottom:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 16px}
+.card h3{font-size:1.05rem;margin:0 0 4px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;font-size:.85rem}
+.chip{background:var(--chip);border-radius:99px;padding:2px 10px}
+.scope-national{font-weight:600}
+.seen{color:var(--muted);font-size:.88rem;margin-top:6px}
+button{font:inherit;padding:10px 16px;border-radius:8px;border:0;background:var(--accent);color:var(--accent-ink);cursor:pointer}
+section.how{margin:40px 0;padding-top:8px;border-top:1px solid var(--line)}
+section.how h2{font-size:1.3rem}
+.small{color:var(--muted);font-size:.9rem}
+footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
+</style>
+<script>window.goatcounter={path:function(){return "/vendor-maps"+location.pathname},referrer:function(){try{var u=new URL(document.referrer);return u.origin+u.pathname}catch(e){return ""}}};</script><script data-goatcounter="https://vhg-guide.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Find vendors for your event</h1>
+  <p class="lede">Vendor Maps lists businesses that show up on public exhibitor and vendor lists at fairs, festivals, markets, expos and trade shows, so organizers can see who works events near them.</p>
+  <div class="promise">
+    <div><b>Free for organizers</b><span>No account and no fee to search.</span></div>
+    <div><b>Business names only</b><span>No contact people, emails or phone numbers are published.</span></div>
+    <div><b>Opt-in contact</b><span>Organizers' messages go through Vendor Maps to vendors who want to hear about events.</span></div>
+    <div><b>We're not selling your data</b><span>Not to advertisers, not to list brokers, not to anyone.</span></div>
+  </div>
+</header>
+
+<div class="tools" role="search">
+  <input id="q" type="search" placeholder="Search a business, event or city" aria-label="Search">
+  <select id="state" aria-label="State"><option value="">All states</option></select>
+  <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <select id="scope" aria-label="Reach"><option value="">Any reach</option></select>
+</div>
+<p class="summary" id="summary">Loading the list…</p>
+<div class="list" id="list"></div>
+<p><button id="more" hidden>Show more</button></p>
+
+<section class="how" id="how">
+  <h2>How the list is built</h2>
+  <p>Every business here was named on a public list: an event's own exhibitor, vendor or sponsor page, or one of our source-checked directories. Each listing keeps the events it was seen at and the date it was last checked.</p>
+  <p><b>Reach</b> is worked out from where a business shows up. <b>Local</b> means one city or metro area, <b>state</b> means across one state, <b>regional</b> means two or three states, and <b>national</b> means the business serves the whole country or turns up in four or more states.</p>
+  <p>When an event lists a maker only by their own name, we count them but don't list them.</p>
+  <p class="small" id="stats"></p>
+  <h2>For vendors</h2>
+  <p>If your business is listed and you'd like it changed or taken off, or you'd like to hear about events near you, opt-in messaging is opening soon. Until then this list is a preview.</p>
+</section>
+<footer>Vendor Maps. A free resource. We're not selling your data.</footer>
+</div>
+<script>
+(function(){
+  var PAGE=60, shown=PAGE, data=null, rows=[];
+  var $=function(id){return document.getElementById(id)};
+  var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+  function place(v){
+    if(v.city&&v.state)return v.city+', '+v.state;
+    if(v.region&&v.state)return v.region+', '+v.state;
+    if(v.state)return v.state;
+    return v.scope==='national'?'Nationwide':'';
+  }
+  function opt(sel,val,label){var o=document.createElement('option');o.value=val;o.textContent=label;sel.appendChild(o)}
+  function render(){
+    var q=$('q').value.trim().toLowerCase(), st=$('state').value, cat=$('cat').value, sc=$('scope').value;
+    rows=data.vendors.filter(function(v){
+      if(cat&&v.category!==cat)return false;
+      if(sc&&v.scope!==sc)return false;
+      if(st){var hit=v.state===st||(v.events||[]).some(function(e){return e.state===st});if(!hit&&!(v.scope==='national'&&$('natl').checked))return false}
+      if(q){var hay=(v.name+' '+(v.city||'')+' '+(v.region||'')+' '+(v.events||[]).map(function(e){return e.name+' '+(e.city||'')}).join(' ')).toLowerCase();if(hay.indexOf(q)<0)return false}
+      return true;
+    });
+    var html=rows.slice(0,shown).map(function(v){
+      var seen=(v.events||[]).slice(0,3).map(function(e){return esc(e.name+(e.year?' '+e.year:'')+(e.city?' ('+e.city+(e.state?', '+e.state:'')+')':''))}).join('; ');
+      return '<article class="card"><h3>'+esc(v.name)+'</h3><div class="meta"><span class="chip">'+esc(data.categories[v.category])+'</span>'+
+        '<span class="chip scope-'+v.scope+'" title="'+esc(v.scope_basis)+'">'+esc(v.scope[0].toUpperCase()+v.scope.slice(1))+'</span>'+
+        (place(v)?'<span class="chip">'+esc(place(v))+'</span>':'')+'</div>'+
+        (seen?'<div class="seen">Seen at: '+seen+((v.events||[]).length>3?' and '+(v.events.length-3)+' more':'')+'</div>':'')+'</article>';
+    }).join('');
+    $('list').innerHTML=html||'<p>No vendors match yet. Try another state or category.</p>';
+    $('summary').textContent=rows.length.toLocaleString()+' of '+data.vendors.length.toLocaleString()+' vendors';
+    $('more').hidden=rows.length<=shown;
+  }
+  fetch('data/vendors.json').then(function(r){return r.json()}).then(function(d){
+    data=d;
+    var states={};d.vendors.forEach(function(v){if(v.state)states[v.state]=(states[v.state]||0)+1;(v.events||[]).forEach(function(e){if(e.state&&e.state!==v.state)states[e.state]=(states[e.state]||0)+1})});
+    Object.keys(states).sort().forEach(function(s){opt($('state'),s,s+' ('+states[s]+')')});
+    var cats={};d.vendors.forEach(function(v){cats[v.category]=(cats[v.category]||0)+1});
+    Object.keys(d.categories).filter(function(k){return cats[k]}).forEach(function(k){opt($('cat'),k,d.categories[k]+' ('+cats[k]+')')});
+    ['local','state','regional','national'].forEach(function(k){opt($('scope'),k,k[0].toUpperCase()+k.slice(1))});
+    var lab=document.createElement('label');lab.className='small';lab.style.gridColumn='1/-1';
+    lab.innerHTML='<input type="checkbox" id="natl" style="width:auto"> Include national vendors when a state is picked';
+    document.querySelector('.tools').appendChild(lab);
+    ['q','state','cat','scope','natl'].forEach(function(id){$(id).addEventListener('input',function(){shown=PAGE;render()})});
+    $('more').addEventListener('click',function(){shown+=PAGE;render()});
+    $('stats').textContent='Built '+d.built_on+' from '+d.counts.rows_merged.toLocaleString()+' source rows; '+d.counts.duplicates_merged.toLocaleString()+' duplicates merged.';
+    render();
+  }).catch(function(){$('summary').textContent='The vendor list could not load. Please try again shortly.'});
+})();
+</script>
+</body>
+</html>

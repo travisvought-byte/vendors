@@ -1,0 +1,39 @@
+{
+ "event": {
+  "name": "Ohio State Fair",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "fair"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://abc6onyourside.com/news/local/columbus-ohio-state-fair-adds-new-vendors-25-new-foods-for-2026-run-catfish-on-a-stick-corn-dog-cream-puff-float-pork-belly-cone",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Schmidt's",
+   "category_hint": "root beer cream puff"
+  },
+  {
+   "name": "Daisy's Fish Shack",
+   "category_hint": "catfish on a stick"
+  },
+  {
+   "name": "Miller & Company Concessions",
+   "category_hint": "churro Korean corn dog"
+  },
+  {
+   "name": "Prowant Specialty",
+   "category_hint": "funnel cake"
+  },
+  {
+   "name": "Mr. Pork Belly",
+   "category_hint": "pork belly in a cone"
+  },
+  {
+   "name": "Ohio Dots",
+   "category_hint": "ice cream float"
+  }
+ ]
+}

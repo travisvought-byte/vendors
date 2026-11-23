@@ -1,0 +1,75 @@
+{
+ "event": {
+  "name": "Hemp Fest at Urban Artifact",
+  "year": 2026,
+  "city": "Cincinnati",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://thegnarlygnome.com/?p=64467",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Coastalo",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Fuzzy Bones",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Sunflower",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Estazzi",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Cycling Frog",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Layup",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Nimbus",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Floral",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "AppGirls",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Howdy",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "8th Wonder",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Uncle Skunks",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Crooked Vines",
+   "category_hint": "hemp-derived THC beverage"
+  },
+  {
+   "name": "Succulent Señorita",
+   "category_hint": "food vendor"
+  },
+  {
+   "name": "Urban Artifact",
+   "category_hint": "host brewery"
+  }
+ ]
+}

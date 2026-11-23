@@ -1,0 +1,383 @@
+{
+ "source": "us-mi-metro-times-cannabis-week-2026",
+ "title": "Metro Times Cannabis Week 2026 vendors",
+ "publisher": "www.metrotimes.com",
+ "landing_url": "https://www.metrotimes.com/?p=296126",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "0af22888f25dadfd53825d9252a414d1af8e778e052566c4f31bee4d089dcd69",
+ "counts": {
+  "read": 23,
+  "kept": 23,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Hytek",
+   "category_hint": "cannabis brand",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Local Grove",
+   "category_hint": "cannabis brand",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Tip Top Crop",
+   "category_hint": "cannabis brand",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Utopia Gardens",
+   "category_hint": "cannabis brand/dispensary",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "One Garden",
+   "category_hint": "cannabis cultivation and processing",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Emerald Canning",
+   "category_hint": "cannabis beverages",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Wojo",
+   "city": "Pinconning",
+   "state": "MI",
+   "category_hint": "cannabis brand",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Hive",
+   "city": "Hazel Park",
+   "state": "MI",
+   "category_hint": "dispensary and microbusiness; flower, live rosin",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Premier Cannabis Farms",
+   "city": "Lansing area",
+   "state": "MI",
+   "category_hint": "small-batch flower",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Growing Pains",
+   "city": "Paw Paw",
+   "state": "MI",
+   "category_hint": "flower and live rosin",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "DogHouse Farms",
+   "city": "Detroit",
+   "state": "MI",
+   "category_hint": "flower",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Mojo Chocolate",
+   "category_hint": "THC-infused chocolate",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "KSHN Pouch Co.",
+   "state": "MI",
+   "category_hint": "THC pouches",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Society C",
+   "city": "Orion Township",
+   "state": "MI",
+   "category_hint": "flower, prerolls, live resin, rosin, vapes",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Seed Junky",
+   "category_hint": "flower",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "LegaSea Farms",
+   "category_hint": "flower and prerolls",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Dank & Disorderly",
+   "category_hint": "flower brand (grown by Delta Farms)",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Delta Farms",
+   "city": "Niles",
+   "state": "MI",
+   "category_hint": "cannabis cultivation",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "High Neighbor",
+   "category_hint": "flower, prerolls, concentrates",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Candy Man",
+   "category_hint": "flower",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Levels",
+   "state": "MI",
+   "category_hint": "dispensary retail network",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Puff Cannabis",
+   "state": "MI",
+   "category_hint": "sponsor; dispensary chain",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "BDT Smoke Shop",
+   "city": "Hazel Park",
+   "state": "MI",
+   "category_hint": "sponsor; smoke shop",
+   "events": [
+    {
+     "name": "Metro Times Cannabis Week",
+     "year": 2026,
+     "city": "Detroit metro",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  }
+ ]
+}

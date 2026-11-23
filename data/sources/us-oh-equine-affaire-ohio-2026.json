@@ -1,0 +1,3267 @@
+{
+ "source": "us-oh-equine-affaire-ohio-2026",
+ "title": "Equine Affaire Ohio 2026 exhibitors",
+ "publisher": "equineaffaire.com",
+ "landing_url": "https://equineaffaire.com/events/ohio/ohio-attend/ohio-trade-show/ohio-exhibitors/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "7ba970f98a184fa63119481f821282b06e433b6504ad958fd67f1a139a0812e0",
+ "counts": {
+  "read": 233,
+  "kept": 232,
+  "dropped": {},
+  "personal_name_only": 3
+ },
+ "vendors": [
+  {
+   "name": "100X Equine",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ABI Equine",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Acupulse LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Alfred State College",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Alpaca Creations",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Alpha Mare Art",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "America Cryo Equine",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "American Regent",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Americas Best Windows and Doors",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ArenaClear- Dust Control",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ariana Sakaris Equestrian Development",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Asbury University",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Australian Saddle Company",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Back on Track USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Baths R Us/ Window City Pro",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "BeltBling",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "True West Horsemanship",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bethany College",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Betsy Dale Hats",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Black Forest Treeless Saddles",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Blazing Bella Balsamic & Olive Oil",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Blue Frog Hoof Clay",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bows by Lisa Luann",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bra Lady- Zyia Active",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "B's Metal Shoppe",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Buckeye Nutrition",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "By Field & Flower Hat Co",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "C. Jarvis Insurance Agency",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cashmans Farm & Ranch Supply",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cattle Cartel",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cavallo Horse & Rider",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Certified Horsemanship Association",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cheap & Chic Boutique",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Chocolate Moonshine Co",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cierra Lauren Boutique",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Circle A Saddlery",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Circle L Saddle Company",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Classic Equine Equipment, Inc.",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cleary Building Corp",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Clix Therapy",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cobratec Knives",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cox Veterinary Laboratory, Inc.",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cumberland Valley Analytical Services",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cutting Edge Knife USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "D.C.S. Custom Tack",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "DAC Vitamins & Mineral Supplement",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Deb Little Photography",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "DesignCo",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Diller Equine",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Dimples Horse Treats",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Double B Wild Rags",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Double Dan Horsemanship",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "DP Saddlery-SBB",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "DP Saddlery Dealer- Comfort Fit Saddle Shop",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Equi-Analytical",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Equitack",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ethos Possibility Center/ Centropix",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Expressions Leather",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "F.K. Agronomics",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Fair Hill Saddlery",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Farley Saddlery and Service",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Farrier's Magic",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Finish Line Horse Products",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Finishline Fence",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Flack Farms Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Foozy Fun Socks",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Freelance Design USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gadgetly",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gaia Gems",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "GreenGuard Grazing Muzzle",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gi Gi Enterprises",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gibson Agri & Equine Insurance",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "GGT Footing",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Glitzy Apparel",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Glowing Results",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "GreenTree Bedding LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Guaranteed Horse Products",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "H.O.O.V.E.S",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Harrison Trailers",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Healing Point Animal Services",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Heck Of A Lope",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Hemp for Horses",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Heybox",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Henderson's Western Store",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "HiDow International",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Hock Shield",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Holistic World 888",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "HoofWand",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Horse Radio Network",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Horse Sense Solutions",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "HorseHoodies",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Horseman's Gravity Latch",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "HorseTech, Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "House of Savvy",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Human Touch",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Hunt Fronts",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Hydz",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ID- MyHorse",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "I Speak To Animals",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Indigo Moon",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "InfiniteAloe",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Insulated Gear",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Interscholastic Equestrian Association",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "J&E Grill MFG",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Jacuzzi Bath Remodels- Bath Experts",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Jason & Bronwyn Irwin Horsemanship",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Jug Equine Waterers",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kawell USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kelly Herd Jewelry",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ken Davis & Sons, Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kencove Farm Fence Supplies",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kentucky Getaways",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kerlin Trailers",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "KT Custom Barns",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Lances Trailer Sales",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "La Mundial Boots- LM Boots",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LeafFilter Gutter Protection",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LeafHome Water Solutions",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Leather & Beyond and Toyland",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Legendary Mustang Sanctuary",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Life Data Labs, Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Live for the Ride",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Logan Western Supply",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LRP Matting",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Lumberock Artisan",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mandi Hinders Fine Art",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mane-ly Long Hair",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Marmon Valley Farm",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mark Enterprises, Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Midway University",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Minky Girl",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Montero Native Art LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Muddy Creek Rain Gear",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "My Girlz Clothing Co",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "My Stride Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Native Buffalo Spirit",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Natural Mend",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Naturally Healthy Horse with Young Living",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "NE Indiana Equine Massage",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Neighborly Tack",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Newt's Hat Company",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "No Power No Problem",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "NRS",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio 4-Horse Program",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio Equestrian Directory",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio Horseman's Council",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio State Swientist",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio Travel Pavilion",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Online Equine Supplies",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Orange Slow Feeder",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Outback Survival Gear",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Painted Cowgirl Western Store",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Patio Enclosures",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Pet King Brands",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Poseidon Animal Health",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Practical Animal Wellness",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Pretty Hunter",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Pretty Little Tumblers",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Pro Earth Animal Health",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Purina Animal Nutrition",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Quick Coupler",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Quick Draw Tie Line",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ragtrader Vintage",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Redmond Equine",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Refreshed",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Revival Animal Health",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "RevRan Hats",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rhinestone Lipgloss",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "RideJoy",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Riders of a Certain Age",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ridge Creek Tack",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rock & Rail Western",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rock'n J Farms",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rocket Donkey",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Saratoga Stalls",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Semican",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sassy Sisters",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sentinel by Kent & Blue Seal",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Signum Equestrian USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "SOURCE Micronutrients",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Soldier Solutions LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Spalding Fly Predators",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Spring Tether sls",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Spur Creek Tack and Supply LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "SSN- Sound Science Nutrition LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Stable Riding",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Stoll Steel Buildings LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Stori Enterprises",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Stride Out Ranch N' Rodeo Shop",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Stuck On You- Permanent Jewelry",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sullivan Supply Inc",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Summer Snow",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Summerdean Equine LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tangent Materials- Fencing/Stalls",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TDI Horse Feeds",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tennessee Saddlery",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Teromed",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "That's Invintage",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Hale Horse, LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Healing Cowgirl",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Masterson Method",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Ohio State University ATI",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Tacky Horse",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The United States Pony Clubs",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Wild Horse Sanctuary",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Timmerman Farms LLC",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TNR Group",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Total Horse Method",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Totally Unique Enterprise",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Trail and Pleasure Riding Supplies",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Triple Crown Nutrition",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TruCryo USA",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Trust Think Products",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TW Wholesale",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tyler Shupe Leather",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "University of Findlay",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "US Rider",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Valerie's Gallery",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Vanner and Velvet of Fox Hill",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wagner Insurance Agency & Bluebird Meadow Llama Farm",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wearhouse Sale",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Western Edge",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Western Life Today",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Whisker Biscuits Dog and Horse Treats",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wild Pony Boutique",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Window Nation",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Win-Seek Fallen Pines Equestrian Center",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Wooden Sunflower",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Woods Trading Company",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Zainee Sports",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ZEHO Leather Works",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Zero Proof Horse Treats & Barn Dog Bites",
+   "events": [
+    {
+     "name": "Equine Affaire Ohio",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  }
+ ]
+}

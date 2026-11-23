@@ -1,0 +1,55 @@
+name: Mine vendor sources
+
+# Re-pulls every automatic source in pipeline/registry.json (the owner's directories on GitHub,
+# and any event page set up as html-list), re-normalizes the committed rosters, merges, rebuilds
+# the coverage report, runs the checks and publishes. Started by hand (Actions > Mine vendor
+# sources > Run workflow) or on a schedule once the owner sets one.
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Source ids or prefixes, separated by spaces (blank = every active source)'
+        required: false
+        default: ''
+      publish:
+        description: 'Commit the results to main'
+        type: boolean
+        default: true
+  # schedule:
+  #   - cron: '0 11 * * 1'   # Mondays 6 AM Eastern (11:00 UTC), when the owner turns it on
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mine-vendors
+  cancel-in-progress: false
+
+jobs:
+  mine:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: pip install -r pipeline/requirements.txt
+      - name: Pull, normalize, merge and rank coverage
+        env:
+          ONLY: ${{ inputs.only }}
+        run: python -m pipeline.run ${ONLY:+--only $ONLY}
+      - name: Fetch log
+        run: cat data/sources/_fetch-log.json || true
+      - name: Checks
+        run: python -m unittest discover -s tests -v
+      - name: Publish
+        if: ${{ inputs.publish || github.event_name == 'schedule' }}
+        run: |
+          git config user.name 'Vendor Maps source pipeline'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data docs
+          if git diff --cached --quiet; then echo 'Nothing changed.'; exit 0; fi
+          git commit -m "Source pipeline: refresh vendor sources (${{ inputs.only || 'all active sources' }})"
+          git push origin HEAD:main

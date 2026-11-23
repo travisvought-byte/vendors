@@ -1,0 +1,211 @@
+{
+ "event": {
+  "name": "Cuyahoga County Fair",
+  "year": 2026,
+  "city": "Berea",
+  "state": "OH",
+  "type": "fair"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://grandstandsites.com/wlist.php?i=CCF161286180123473124SGS&f=true&iframe=true",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Amfamco Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Angus Tail",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Boba Tea",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Boltonbacher Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Bretz Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Bubble Gum Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Bubblegum BBQ",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Buckeye Choc",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Bush Concessions 3",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Bush Fairway Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "CM Concesscions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Concessions Mngt Corp Bob's Lemonade",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Creamalot Ice Cream",
+   "category_hint": "ice cream"
+  },
+  {
+   "name": "Daughters of CM Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Dechelis Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "DiRusso's Italian Sausage",
+   "category_hint": "Italian sausage sandwiches"
+  },
+  {
+   "name": "Duncan Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Euclid Beach Custard",
+   "category_hint": "custard"
+  },
+  {
+   "name": "Evans Family Fudge",
+   "category_hint": "fudge, roasted nuts"
+  },
+  {
+   "name": "Farmer Foods Inc",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Funnel Cakes- Pennsylvania Dutch",
+   "category_hint": "funnel cakes, birch beer"
+  },
+  {
+   "name": "Glo Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "J-Bob Shop",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Jasmine Glo Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Jimbo Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Kolar French Fries",
+   "category_hint": "fries, chicken tenders"
+  },
+  {
+   "name": "Kolar Swiss Fried Cheese",
+   "category_hint": "fried Swiss cheese"
+  },
+  {
+   "name": "Kolar's French Waffles",
+   "category_hint": "waffles"
+  },
+  {
+   "name": "Kona Ice",
+   "category_hint": "shaved ice"
+  },
+  {
+   "name": "Link Slingers LLC",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Lisa's Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Morlock Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Nana's Kitchen and Catering LLC",
+   "category_hint": "Cubans, empanadas, skewers, rice bowls"
+  },
+  {
+   "name": "North American Food Service",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Ohio Best Lemonade",
+   "category_hint": "lemonade"
+  },
+  {
+   "name": "Ohm Aesthetic Coffee",
+   "category_hint": "coffee"
+  },
+  {
+   "name": "Otter Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Otterbacher Bros",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Otterbacher Tradions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Otterbacher's Cotton Candy/Candy Apples",
+   "category_hint": "cotton candy, candy apples, popcorn"
+  },
+  {
+   "name": "Pretzel Palace",
+   "category_hint": "pretzels, cinnamon rolls"
+  },
+  {
+   "name": "Redmond Concessions DG",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Rutana Concessions",
+   "category_hint": "apple dumplings, floats, drinks"
+  },
+  {
+   "name": "Saigon Pearl",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Sweet Jo's Concessions",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Theresa Flavorburst",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Wild Bill's Soda",
+   "category_hint": "soda"
+  },
+  {
+   "name": "Yarikground",
+   "category_hint": "food concession"
+  },
+  {
+   "name": "Ye Olde Kettlecorn",
+   "category_hint": "kettle corn"
+  }
+ ]
+}

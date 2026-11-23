@@ -1,0 +1,50 @@
+{
+ "event": {
+  "name": "Columbus Spring Avant-Garde Art & Craft Show",
+  "year": 2026,
+  "city": "Hilliard",
+  "state": "OH",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://columbusavantgardeshows.blogspot.com/2026/03/columbus-spring-handmade-market-meet.html",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 1,
+ "vendors": [
+  {
+   "name": "Hemations",
+   "website": "https://www.Hemations.com",
+   "category_hint": "handmade blankets"
+  },
+  {
+   "name": "Twisted Threads Creations",
+   "website": "https://www.etsy.com/shop/twistedthrdcreations",
+   "category_hint": "jewelry, resin, crochet"
+  },
+  {
+   "name": "Yellow Pony Soapworks",
+   "category_hint": "handmade soap"
+  },
+  {
+   "name": "Bennett's Baubles & Beads",
+   "category_hint": "beaded accessories"
+  },
+  {
+   "name": "Gifts of Nature",
+   "website": "https://www.giftsofnature.org",
+   "category_hint": "photography prints, cards"
+  },
+  {
+   "name": "Whatsoever Is Lovely Candle Company",
+   "category_hint": "hand-poured candles"
+  },
+  {
+   "name": "CaitMcKCreations",
+   "category_hint": "crochet plushies"
+  },
+  {
+   "name": "TC Acrylics",
+   "category_hint": "acrylic pour paintings"
+  }
+ ]
+}

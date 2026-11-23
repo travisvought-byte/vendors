@@ -1,0 +1,152 @@
+{
+ "event": {
+  "name": "Central Ohio Home & Garden Show",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "sponsors",
+ "source_url": "https://www.dispatchshows.com/home-and-garden-show",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Ohio Mulch",
+   "website": "https://ohiomulch.com",
+   "category_hint": "Presenting sponsor"
+  },
+  {
+   "name": "Rosati",
+   "category_hint": "Supporting sponsor"
+  },
+  {
+   "name": "Rite Rug",
+   "category_hint": "Supporting sponsor"
+  },
+  {
+   "name": "Lowe's",
+   "category_hint": "Supporting sponsor"
+  },
+  {
+   "name": "ABLE",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "AgPro",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "America250OH",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "BBB of Central Ohio",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Columbus Landscape Association",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Columbus Garage Floor Coating",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Columbus Hardscapes",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Columbus Trees",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Dave Fox",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Eco Plumbers",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Everdry",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Indoor Temp (Fire and Ice)",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "JDM Structures",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "JSB Home Solutions",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Kitchen Solvers",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Light Up Columbus",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Mid Ohio Generators",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "OH Golf Carts",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "REC Construction",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "RhinoShield",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "OSU Master Gardeners",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Scioto Valley",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Shift Exteriors",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Shelf Genie",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Simple Bath + Kitchen",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Snyders Unlimited",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "Dispatch",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "TEGO",
+   "category_hint": "Contributing sponsor"
+  },
+  {
+   "name": "3G Concrete Coatings",
+   "category_hint": "Contributing sponsor"
+  }
+ ]
+}

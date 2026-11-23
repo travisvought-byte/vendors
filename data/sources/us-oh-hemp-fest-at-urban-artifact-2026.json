@@ -1,0 +1,244 @@
+{
+ "source": "us-oh-hemp-fest-at-urban-artifact-2026",
+ "title": "Hemp Fest at Urban Artifact 2026 vendors",
+ "publisher": "thegnarlygnome.com",
+ "landing_url": "https://thegnarlygnome.com/?p=64467",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "587d975b8ade509f34dd0a96cdeb3d6573128a3069b30482bfcee4019808682a",
+ "counts": {
+  "read": 15,
+  "kept": 15,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Coastalo",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Fuzzy Bones",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Sunflower",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Estazzi",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Cycling Frog",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Layup",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Nimbus",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Floral",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "AppGirls",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Howdy",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "8th Wonder",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Uncle Skunks",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Crooked Vines",
+   "category_hint": "hemp-derived THC beverage",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Succulent Señorita",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Urban Artifact",
+   "category_hint": "host brewery",
+   "events": [
+    {
+     "name": "Hemp Fest at Urban Artifact",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  }
+ ]
+}

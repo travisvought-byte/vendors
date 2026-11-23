@@ -1,0 +1,549 @@
+{
+ "source": "us-ky-shaker-village-of-pleasant-hill-christmas-market-2025",
+ "title": "Shaker Village of Pleasant Hill Christmas Market 2025 vendors",
+ "publisher": "shakervillageky.org",
+ "landing_url": "https://shakervillageky.org/wp-content/uploads/2025/10/2025_ChristmasMarket_VendorList_AR02.pdf",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "10d1b87aacebe549301b21e7962d4adad1709f2277878b66541986c3a6a23dc8",
+ "counts": {
+  "read": 31,
+  "kept": 31,
+  "dropped": {},
+  "personal_name_only": 7
+ },
+ "vendors": [
+  {
+   "name": "Sherwood Acres Farms",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "botanical",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Livingston Wilted Wonders",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "botanical",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pinecones and Peanuts",
+   "category_hint": "2D art",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Fly Girl Candles",
+   "city": "Louisville",
+   "state": "KY",
+   "category_hint": "apothecary",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Forever Rose",
+   "city": "Lancaster",
+   "state": "KY",
+   "website": "https://shopforeverrose.square.site",
+   "category_hint": "apothecary",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Baskets by Derek",
+   "city": "Lexington",
+   "state": "KY",
+   "website": "https://basketsbyderek.com",
+   "category_hint": "baskets",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sakia One Of a Kind",
+   "city": "Lexington",
+   "state": "KY",
+   "category_hint": "ceramics",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Three Lick Pottery",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "website": "https://threelickpottery.com",
+   "category_hint": "ceramics",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Gifts from the Garden",
+   "city": "Lexington",
+   "state": "KY",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Dew Drop Pottery",
+   "city": "Livingston",
+   "state": "KY",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Blackwatch Alpacas",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "website": "https://blackwatchalpacas.com",
+   "category_hint": "fiber",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Luckey Bears",
+   "city": "Indianapolis",
+   "state": "IN",
+   "category_hint": "fiber",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Worker Bee Sewing Company",
+   "city": "Berea",
+   "state": "KY",
+   "category_hint": "fiber",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "A Wiseman's Christmas",
+   "city": "Irvine",
+   "state": "KY",
+   "category_hint": "fiber",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "That Beard Guy Customs",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "fiber",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Green Penguin Hot Sauce",
+   "city": "Midway",
+   "state": "KY",
+   "category_hint": "food",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Boone Creek Creamery",
+   "city": "Lexington",
+   "state": "KY",
+   "category_hint": "food",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Dough Rae Mi",
+   "city": "Versailles",
+   "state": "KY",
+   "category_hint": "food",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "4J's Farm",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "food",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mystic Glass",
+   "city": "Berea",
+   "state": "KY",
+   "category_hint": "jewelry",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Twelfth House Design",
+   "city": "Berea",
+   "state": "KY",
+   "website": "https://12thhousedesigns.com",
+   "category_hint": "jewelry",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pod's Forge",
+   "city": "Wilmore",
+   "state": "KY",
+   "website": "https://podsforge.com",
+   "category_hint": "metal",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mangled & Tangled Knots",
+   "city": "Livingston",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Top Shelf Production",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Gand N Wood & Glass Creations",
+   "city": "Bardstown",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bluegrass Leather Traditions",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Made to Remember",
+   "city": "Midway",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Jamila Works",
+   "city": "Louisville",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wired and Wooly",
+   "city": "Danville",
+   "state": "KY",
+   "category_hint": "mixed media",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Happy Spooning",
+   "city": "Louisville",
+   "state": "KY",
+   "website": "https://happyspooning.com",
+   "category_hint": "wood",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Gobey's Grave Furniture",
+   "city": "Harrodsburg",
+   "state": "KY",
+   "category_hint": "wood",
+   "events": [
+    {
+     "name": "Shaker Village of Pleasant Hill Christmas Market",
+     "year": 2025,
+     "city": "Harrodsburg",
+     "state": "KY",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

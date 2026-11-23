@@ -1,0 +1,2833 @@
+{
+ "source": "us-pa-pennsylvania-farm-show-2026",
+ "title": "Pennsylvania Farm Show 2026 exhibitors",
+ "publisher": "www.pa.gov",
+ "landing_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/farmshow/documents/pafarmshow/documents/2026_pafs_exhibitor%20listings.pdf",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "fc9f149a922af59159d613b265a95693ff4e91f7a0032661d498b6ddd4394d55",
+ "counts": {
+  "read": 201,
+  "kept": 201,
+  "dropped": {},
+  "personal_name_only": 7
+ },
+ "vendors": [
+  {
+   "name": "AA Produce",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "ACR Metal Roofing & Siding Dist.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Adventure World Play Sets",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Altmeyer's Western Wear",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "American Remodeling Enterprises, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Appalachian Trailers",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Aurands Machinery and Automation, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bad Boy Mowers",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Basement Waterproofing Specialists",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bass Pro Shops",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bath Fitter",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bell & Evans",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Biscuit Authority, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Blind Spot Nutbutters",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bluebird Society of Pennsylvania",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "ArtAttack",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Bouncing Goat Soap, Co",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Branded Western Co",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Brewers of Pennsylvania",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Buffalo Valley Spice and Supply Co.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Burnt Cabins Grist Mill LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Butterfly House Experience",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "C & J Catering",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Carlisle Products",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Casalingo Foods",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cellular Sales",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Centre Boot Company",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cherish Creamery, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "ChooChoo Barn",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Clear Toy Candy From The Past",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Clemens Food Group",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cloaked in Freedom, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Concessions, LTD",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Countrybrooms",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Covered Bridge Garlic Company, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Crop Compass",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cutco Cutlery",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Cynful Bliss",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Dairy Farmers of America",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Delaware Valley University",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "DelGrosso Family of Companies",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council of Carpenters",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ebling's Service Plus, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Engelhaupt Embroidery",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "EZ2C Targets",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Face Paint Pittsburgh",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Fellowship of Christian Farmers International",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Fishing with Friends",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Floyd's Wooden Animals",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Folkland Foods",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Forrester Farm Equipment",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Friends of Agriculture",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Friends of the Pennsylvania Farm Show Foundation, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "GaGa's Glass",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Garrety Glass",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "German Roasted Nuts",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Glory Be Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Goat Snuggling",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Godahavom Gourds",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Gourmet Popcorn of Carlisle",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Gray Goat BBQ",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Greentech Manufacturing",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Greenwood Valley Wagyu, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Hatfield Quality Meats, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Hempzels",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Herlocher's Dipping Mustard",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Hillbetty Bliss",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Hillbilly's Jerky",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Hilltop Acres Naturals",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Homeplace Market, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Inside Out Cookie Co.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Insulated Gear",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Keystone Oliver Collectors Club",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kingsley Blasco Insurance Inc",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kiss a Cow",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kitchen Craft International",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Kitchen Saver",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "L. B. Smith Ford Lincoln",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Lancaster Farming, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "LandPro Equipment",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Leaf Filter Gutter Protection",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Legacy Steel Buildings",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Liam's Luck Wood Craft",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "M&E Sales",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Main Line Pretzel Company",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Memory Makers Unlimited",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Miller Diesel, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Miller's Gourmet Foods",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Milton Hershey School",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Misfits Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Miss Lucy's Dog Treats",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Mushroom Farmers of Pennsylvania (MFPA)",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Nan-Jac Emu",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "National Museum of Industrial History",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Norwex",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "NRG/Green Mountain Energy",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "NTO Farm Toys",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Ohiopyle Roots",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Old Farmer Tea Company",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "On Point Adventure Foods",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "One Womans Junk",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Organic Remedies, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Original Strudel Factory",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Outback Survival Gear",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Over Home Alpacas",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Alpaca Owners & Breeders Assoc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA American Water Company",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Beef Council",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Breast Cancer Coalition",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Cable Network & PCN",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Campground Owners Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Chapter of The American Chestnut Foundation",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Cider Guild",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA College of Technology",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Cooperative Potato Growers",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Dairy Princess and Promotion Services Inc",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Dairymen's Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Deer Farmers Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Farm Bureau",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA FFA Foundation",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Hickory Syrup",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA High School Rodeo Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Horse Racing Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Livestock Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Maple Syrup Producers Council",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Motor Truck Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Nut Growers Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Pork Producers Council",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA State Association of County Fairs",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA State Beekeepers' Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA State Grange",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA State Showmen's Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Vegetable Growers Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PA Winery Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Painted Spring Farm Alpacas",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Painterland Sisters",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PaperPie",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Paradise Energy Solutions",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Penn State Extension",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "PennAg Industries Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Pie Bird Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Pine Creek Structures",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Pottery & Country 4 You",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Powerton Generators",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Pretty Little Things Boutique",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Putt Art Studio",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "QnC Construction",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "R. W. Sauder",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Red Deer Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Red Hill Farms, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Renewal by Anderson",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Rodale Institute",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Rohrer Seeds",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Rotating Press",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Rustic Products",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Saint Joseph's University",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Seltzer's Smokehouse Meats",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Setas Mushrooms",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Shades of Fun",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Shetron Manufacturing, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Silver Fox Trading Post",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "State Horticultural Association of Pennsylvania",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Steinmetz Family Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Stockyard Style",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Sullivan Supply, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Superior Sleep Experience",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Sustainable Energy Fund of Central Eastern PA",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Swartz Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Tastie Teas",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Thaddeus Stevens College of Technology",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Bacon Jams",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Epoch Times Association, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Foundation for Enhancing Communities, fiscal sponsor of PA Cheese Guild",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The GIANT Company",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Greenery of Morgantown",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Pennsylvania Forestry Association",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Pennsylvania State University-Penn State Extension Forestry & Wildlife Team",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Pennsylvania State University Pesticide Education Program",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Plant Spot",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Rustic Horse",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "The Spice Man",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Three Arrows Farm",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Thunder River Alpacas & Whiskey Springs Alpacas",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "T-Mobile USA",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "T-Shirts & Sew On",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Twin Bridge Campground",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Uglie Acres",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Uncommon USA, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Under the Sun Pottery",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Unique Jewelry by Fay",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "University of PA School of Veterinary Medicine",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Varner Farms",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Veterans of Foreign Wars Department of Pennsylvania",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Weaknecht Archery & Sporting Goods, Inc.",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Wearhouse Sales",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "WHP CBS 21",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Wild Meats",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Wind and Solar, LLC",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Window Nation",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "Wow Fudge and Belgian Chocolates",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  },
+  {
+   "name": "YMCA Center for Healthy Living & Pennie",
+   "events": [
+    {
+     "name": "Pennsylvania Farm Show",
+     "year": 2026,
+     "city": "Harrisburg",
+     "state": "PA",
+     "type": "fair"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "fair"
+  }
+ ]
+}

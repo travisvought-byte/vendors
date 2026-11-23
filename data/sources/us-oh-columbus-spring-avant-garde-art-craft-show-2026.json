@@ -1,0 +1,142 @@
+{
+ "source": "us-oh-columbus-spring-avant-garde-art-craft-show-2026",
+ "title": "Columbus Spring Avant-Garde Art & Craft Show 2026 vendors",
+ "publisher": "columbusavantgardeshows.blogspot.com",
+ "landing_url": "https://columbusavantgardeshows.blogspot.com/2026/03/columbus-spring-handmade-market-meet.html",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "4d90d057b50e03f71abc2b72093447953b92ff45ea8463c193148ac65b1ec1e1",
+ "counts": {
+  "read": 8,
+  "kept": 8,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "Hemations",
+   "website": "https://www.Hemations.com",
+   "category_hint": "handmade blankets",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Twisted Threads Creations",
+   "website": "https://www.etsy.com/shop/twistedthrdcreations",
+   "category_hint": "jewelry, resin, crochet",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Yellow Pony Soapworks",
+   "category_hint": "handmade soap",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bennett's Baubles & Beads",
+   "category_hint": "beaded accessories",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Gifts of Nature",
+   "website": "https://www.giftsofnature.org",
+   "category_hint": "photography prints, cards",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Whatsoever Is Lovely Candle Company",
+   "category_hint": "hand-poured candles",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "CaitMcKCreations",
+   "category_hint": "crochet plushies",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "TC Acrylics",
+   "category_hint": "acrylic pour paintings",
+   "events": [
+    {
+     "name": "Columbus Spring Avant-Garde Art & Craft Show",
+     "year": 2026,
+     "city": "Hilliard",
+     "state": "OH",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

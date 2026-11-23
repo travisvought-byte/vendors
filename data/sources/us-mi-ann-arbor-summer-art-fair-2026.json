@@ -1,0 +1,34 @@
+{
+ "source": "us-mi-ann-arbor-summer-art-fair-2026",
+ "title": "Ann Arbor Summer Art Fair 2026 artists",
+ "publisher": "www.theguild.org",
+ "landing_url": "https://www.theguild.org/fair/ann-arbor-art-fair/participating-artists/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "596d9a33c9e0b21e0b1d6a9bde99140c056be0be305f488e7fbcbb564a42fe77",
+ "counts": {
+  "read": 1,
+  "kept": 1,
+  "dropped": {},
+  "personal_name_only": 356
+ },
+ "vendors": [
+  {
+   "name": "Michigan Silversmiths",
+   "category_hint": "jewelry",
+   "events": [
+    {
+     "name": "Ann Arbor Summer Art Fair",
+     "year": 2026,
+     "city": "Ann Arbor",
+     "state": "MI",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "artists",
+   "event_type": "festival"
+  }
+ ]
+}

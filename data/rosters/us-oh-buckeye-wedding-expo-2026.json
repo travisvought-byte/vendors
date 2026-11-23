@@ -1,0 +1,194 @@
+{
+ "event": {
+  "name": "Buckeye Wedding Expo",
+  "year": 2026,
+  "city": "Dayton",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://www.eventleaf.com/e/buckeye-wedding-expo-Feb-2026-dayton-arcade",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Dayton Arcade",
+   "category_hint": "venue"
+  },
+  {
+   "name": "Mark's Photo and Video"
+  },
+  {
+   "name": "Elite Catering & Events",
+   "category_hint": "catering"
+  },
+  {
+   "name": "The Lux Lounge",
+   "category_hint": "mobile bar"
+  },
+  {
+   "name": "Ohio's Greatest Music",
+   "category_hint": "DJ/MC and music"
+  },
+  {
+   "name": "Glamorous Weddings"
+  },
+  {
+   "name": "The Campbell Creative",
+   "category_hint": "live painting and portraits"
+  },
+  {
+   "name": "City BBQ"
+  },
+  {
+   "name": "Tap Truck Dayton",
+   "category_hint": "mobile bar"
+  },
+  {
+   "name": "Kayla Bertke Photography",
+   "category_hint": "photography"
+  },
+  {
+   "name": "Lost & Found Rentals"
+  },
+  {
+   "name": "Furst the Florist",
+   "category_hint": "florist"
+  },
+  {
+   "name": "Liftoff Entertainment",
+   "category_hint": "DJ and photo booth"
+  },
+  {
+   "name": "Cartoona Matata",
+   "category_hint": "caricature art"
+  },
+  {
+   "name": "Top of the Market",
+   "category_hint": "wedding/event venue"
+  },
+  {
+   "name": "Black Tie DJ",
+   "category_hint": "DJ/MC"
+  },
+  {
+   "name": "Mission BBQ",
+   "category_hint": "BBQ food"
+  },
+  {
+   "name": "Sarah Babcock Studio",
+   "category_hint": "wedding photography"
+  },
+  {
+   "name": "LMR Catering",
+   "category_hint": "catering"
+  },
+  {
+   "name": "The Grande Hall",
+   "category_hint": "event venue"
+  },
+  {
+   "name": "Unlimited Events",
+   "category_hint": "event decor"
+  },
+  {
+   "name": "Bernstein's Fine Catering",
+   "category_hint": "catering"
+  },
+  {
+   "name": "The Brightside"
+  },
+  {
+   "name": "The Flowerman",
+   "category_hint": "florist"
+  },
+  {
+   "name": "Childers Photography",
+   "category_hint": "photography"
+  },
+  {
+   "name": "Men's Warehouse"
+  },
+  {
+   "name": "Jos A Bank",
+   "category_hint": "menswear/tuxedos"
+  },
+  {
+   "name": "NCR Country Club"
+  },
+  {
+   "name": "Ruth and Rose"
+  },
+  {
+   "name": "Simply Decadent"
+  },
+  {
+   "name": "Greg Seevers Photography",
+   "category_hint": "photography"
+  },
+  {
+   "name": "Angela's Premier Events"
+  },
+  {
+   "name": "Gest Carts"
+  },
+  {
+   "name": "Cassidy Alane Photography",
+   "category_hint": "photography"
+  },
+  {
+   "name": "The Photo Booth Cincinnati",
+   "category_hint": "photo booth rentals"
+  },
+  {
+   "name": "Glass and Grace Events"
+  },
+  {
+   "name": "Kohler Catering",
+   "category_hint": "catering"
+  },
+  {
+   "name": "Hollon Flowers",
+   "category_hint": "florist"
+  },
+  {
+   "name": "Amplified Digital Entertainment",
+   "category_hint": "DJ"
+  },
+  {
+   "name": "Cakes By Mindy"
+  },
+  {
+   "name": "The Air Luxe",
+   "category_hint": "balloon installations"
+  },
+  {
+   "name": "Pottinger Photography",
+   "category_hint": "wedding photography"
+  },
+  {
+   "name": "Bahar & Reza",
+   "category_hint": "bridal boutique"
+  },
+  {
+   "name": "Kim Kelly Orchestra",
+   "category_hint": "music/entertainment"
+  },
+  {
+   "name": "Legacy Event Group",
+   "category_hint": "event services"
+  },
+  {
+   "name": "Prime Time Party and Event Rental",
+   "category_hint": "event rentals"
+  },
+  {
+   "name": "Blush and Bloom",
+   "category_hint": "wedding planning"
+  },
+  {
+   "name": "Tipsy Times",
+   "category_hint": "bartending"
+  }
+ ]
+}

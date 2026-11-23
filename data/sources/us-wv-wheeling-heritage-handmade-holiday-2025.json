@@ -1,0 +1,733 @@
+{
+ "source": "us-wv-wheeling-heritage-handmade-holiday-2025",
+ "title": "Wheeling Heritage Handmade Holiday 2025 vendors",
+ "publisher": "wheelingheritage.org",
+ "landing_url": "https://wheelingheritage.org/meet-the-makers-at-wheeling-heritage-handmade-holiday/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "324232c66bb26718efffac02d82608a362f666bc1d555e8ce872d965c84ef5c5",
+ "counts": {
+  "read": 51,
+  "kept": 51,
+  "dropped": {},
+  "personal_name_only": 7
+ },
+ "vendors": [
+  {
+   "name": "16th Street Clay Company",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Appalachian Herbal Co.",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "B. Woven",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bejeweled Trees",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bellaroses Inner Sanctuary",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Braid Away",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Burn.",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Bubbles, Bones & Biscuits LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Card Art by Jes",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Charmed Creations",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "CK Jewelry",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Crowded Cat Studio",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Deylight Photography - Flower Photo Shop",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Edgington Studio",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Echo Valley Pottery",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Er + Ryal",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Foxfire & Co.",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Goat and Soy LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Jericho Road Collective",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "JKB Pottery",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Kybee Creates",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Ladybug Greeting Cards",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Lone Stone Designs",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "LZG Beaded Designs",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Maddy J Handmades LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mel's Alternative Images",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Mountain State Craftsman",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "North Fork Jewelry Design LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Old Soul Candle Company",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Pamspots",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Papa Faith",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Peaceniks Creations",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Primal Pickles",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "RetrouveZ Studio",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "RōDōWV Art",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Runway Farm",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sea Salt & Cedar",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Spore Print Press",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Standard Whimsy",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sugar and Spice Cookie Co. LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Sweet Abe's Bakeshop",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Tacet Coffee Cart",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Beard and The Bun Pottery",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Cookie Culprit",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Feral Farmlet",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Local Beadery LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Queen of Arts~Curiosities",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "The Weeping Willow Farm",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "To Crafting and Beyond",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Wild Fringe Leatherworks",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  },
+  {
+   "name": "Yardscape LLC",
+   "events": [
+    {
+     "name": "Wheeling Heritage Handmade Holiday",
+     "year": 2025,
+     "city": "Wheeling",
+     "state": "WV",
+     "type": "market"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "market"
+  }
+ ]
+}

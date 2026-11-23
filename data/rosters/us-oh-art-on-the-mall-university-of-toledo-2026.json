@@ -1,0 +1,19 @@
+{
+ "event": {
+  "name": "Art on the Mall (University of Toledo)",
+  "year": 2026,
+  "city": "Toledo",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "artists",
+ "source_url": "https://news.utoledo.edu/index.php/07_28_2026/sunshine-and-crowds-fuel-33rd-art-on-the-mall",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 5,
+ "vendors": [
+  {
+   "name": "DJP Turning",
+   "category_hint": "exhibitor (woodturning)"
+  }
+ ]
+}

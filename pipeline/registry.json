@@ -1,0 +1,1723 @@
+{
+ "schema_version": 1,
+ "purpose": "Where Vendor Maps' vendors come from: one entry per public source. Read by pipeline/ (see pipeline/README.md). Rosters are added with python -m pipeline.add_rosters; the owner's directories are pulled from their public GitHub files.",
+ "sources": [
+  {
+   "id": "owner-ohio-cannabis-directory",
+   "jurisdiction": "OH",
+   "title": "Ohio Cannabis Ecosystem Directory (organizations)",
+   "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+   "fetch": {
+    "method": "csv",
+    "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/ohio-cannabis-directory.csv",
+    "local_env": "CANNABIS_DIR",
+    "local_path": "ohio-cannabis-directory.csv"
+   },
+   "importer": "ohio_cannabis_directory",
+   "evidence_level": "directory-verified",
+   "kept_rule": "Every business and nonprofit row except those flagged out of scope, individuals and political parties. OCHBS 2026 exhibitors keep the event; direct OCHBS contacts are marked trade-show-contact. Contact people, emails and phones are not read.",
+   "cadence_days": 30,
+   "status": "active"
+  },
+  {
+   "id": "owner-pennsylvania-cannabis-companies",
+   "jurisdiction": "PA",
+   "title": "Pennsylvania cannabis companies (from the cannabis directory)",
+   "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+   "fetch": {
+    "method": "csv",
+    "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/pennsylvania-companies.csv",
+    "local_env": "CANNABIS_DIR",
+    "local_path": "pennsylvania-companies.csv"
+   },
+   "importer": "pennsylvania_companies",
+   "evidence_level": "directory-verified",
+   "kept_rule": "Every company row; the business-inquiry column (contacts) is never read.",
+   "cadence_days": 30,
+   "status": "active"
+  },
+  {
+   "id": "owner-mjbizcon-2026-ohio-exhibitors",
+   "jurisdiction": "NV",
+   "title": "MJBizCon 2026 exhibitors that list Ohio (cannabis directory research file)",
+   "publisher": "Ohio Cannabis Ecosystem Directory research, from MJBizCon's official exhibitor profiles",
+   "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory/blob/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+   "fetch": {
+    "method": "json",
+    "url": "https://raw.githubusercontent.com/travisvought-byte/ohio-cannabis-directory/main/data/research/mjbizcon-2026-10-28-ohio-candidates.json",
+    "local_env": "CANNABIS_DIR",
+    "local_path": "data/research/mjbizcon-2026-10-28-ohio-candidates.json"
+   },
+   "importer": "mjbizcon_candidates",
+   "evidence_level": "event-profile",
+   "kept_rule": "Every exhibitor in the file; headquarters city and state taken from the profile notes.",
+   "cadence_days": 365,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-ohio-cannabis-health-business-summit-ochbs-2026",
+   "jurisdiction": "OH",
+   "title": "Ohio Cannabis Health & Business Summit (OCHBS) 2026 exhibitors",
+   "publisher": "ochbs.com",
+   "landing_url": "https://ochbs.com/vendor-directory/",
+   "event": {
+    "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "cannabis-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://ochbs.com/vendor-directory/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 120,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-ohio-cannabis-health-business-summit-ochbs-2026-b",
+   "jurisdiction": "OH",
+   "title": "Ohio Cannabis Health & Business Summit (OCHBS) 2026 sponsors",
+   "publisher": "ochbs.com",
+   "landing_url": "https://ochbs.com/sponsors-overview/",
+   "event": {
+    "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "cannabis-expo"
+   },
+   "roster_kind": "sponsors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://ochbs.com/sponsors-overview/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 120,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-central-ohio-home-garden-show-2026",
+   "jurisdiction": "OH",
+   "title": "Central Ohio Home & Garden Show 2026 sponsors",
+   "publisher": "www.dispatchshows.com",
+   "landing_url": "https://www.dispatchshows.com/home-and-garden-show",
+   "event": {
+    "name": "Central Ohio Home & Garden Show",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "sponsors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.dispatchshows.com/home-and-garden-show"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-buckeye-wedding-expo-2026",
+   "jurisdiction": "OH",
+   "title": "Buckeye Wedding Expo 2026 exhibitors",
+   "publisher": "www.eventleaf.com",
+   "landing_url": "https://www.eventleaf.com/e/buckeye-wedding-expo-Feb-2026-dayton-arcade",
+   "event": {
+    "name": "Buckeye Wedding Expo",
+    "year": 2026,
+    "city": "Dayton",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventleaf.com/e/buckeye-wedding-expo-Feb-2026-dayton-arcade"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-hemp-fest-at-urban-artifact-2026",
+   "jurisdiction": "OH",
+   "title": "Hemp Fest at Urban Artifact 2026 vendors",
+   "publisher": "thegnarlygnome.com",
+   "landing_url": "https://thegnarlygnome.com/?p=64467",
+   "event": {
+    "name": "Hemp Fest at Urban Artifact",
+    "year": 2026,
+    "city": "Cincinnati",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://thegnarlygnome.com/?p=64467"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-hemp-fest-at-urban-artifact-2026-b",
+   "jurisdiction": "OH",
+   "title": "Hemp Fest at Urban Artifact 2026 vendors",
+   "publisher": "www.cincinnatimagazine.com",
+   "landing_url": "https://www.cincinnatimagazine.com/article/hemp-fest-26/",
+   "event": {
+    "name": "Hemp Fest at Urban Artifact",
+    "year": 2026,
+    "city": "Cincinnati",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.cincinnatimagazine.com/article/hemp-fest-26/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-equine-affaire-ohio-2026",
+   "jurisdiction": "OH",
+   "title": "Equine Affaire Ohio 2026 exhibitors",
+   "publisher": "equineaffaire.com",
+   "landing_url": "https://equineaffaire.com/events/ohio/ohio-attend/ohio-trade-show/ohio-exhibitors/",
+   "event": {
+    "name": "Equine Affaire Ohio",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://equineaffaire.com/events/ohio/ohio-attend/ohio-trade-show/ohio-exhibitors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-bark-bash-2025",
+   "jurisdiction": "OH",
+   "title": "Bark Bash 2025 vendors",
+   "publisher": "www.metroparks.net",
+   "landing_url": "https://www.metroparks.net/wp-content/uploads/2025/07/Vendor-List-2025-2.pdf",
+   "event": {
+    "name": "Bark Bash",
+    "year": 2025,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.metroparks.net/wp-content/uploads/2025/07/Vendor-List-2025-2.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-columbus-building-renovation-expo-2027",
+   "jurisdiction": "OH",
+   "title": "Columbus Building & Renovation Expo 2027 exhibitors",
+   "publisher": "homeshowcenter.com",
+   "landing_url": "https://homeshowcenter.com/content/columbus/1277",
+   "event": {
+    "name": "Columbus Building & Renovation Expo",
+    "year": 2027,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://homeshowcenter.com/content/columbus/1277"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-columbus-home-improvement-show-2027",
+   "jurisdiction": "OH",
+   "title": "Columbus Home Improvement Show 2027 exhibitors",
+   "publisher": "homeshowcenter.com",
+   "landing_url": "https://homeshowcenter.com/content/columbushome2/1278",
+   "event": {
+    "name": "Columbus Home Improvement Show",
+    "year": 2027,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://homeshowcenter.com/content/columbushome2/1278"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-greater-cincinnati-remodeling-expo-2027",
+   "jurisdiction": "OH",
+   "title": "Greater Cincinnati Remodeling Expo 2027 exhibitors",
+   "publisher": "homeshowcenter.com",
+   "landing_url": "https://homeshowcenter.com/content/cincinnati/1275",
+   "event": {
+    "name": "Greater Cincinnati Remodeling Expo",
+    "year": 2027,
+    "city": "Sharonville",
+    "state": "OH",
+    "type": "consumer-expo"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://homeshowcenter.com/content/cincinnati/1275"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "lead-mobile-eventhub-floorplan-net",
+   "jurisdiction": null,
+   "title": "mobile.eventhub-floorplan.net",
+   "publisher": "mobile.eventhub-floorplan.net",
+   "landing_url": "https://mobile.eventhub-floorplan.net/?Show_ID=18200",
+   "fetch": {
+    "method": "roster",
+    "url": "https://mobile.eventhub-floorplan.net/?Show_ID=18200"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Central Ohio Home & Garden Show 2027 floor plan app renders exhibitors with script; fetch showed 0 exhibitors"
+  },
+  {
+   "id": "lead-www-ohiorealtors-org",
+   "jurisdiction": null,
+   "title": "www.ohiorealtors.org",
+   "publisher": "www.ohiorealtors.org",
+   "landing_url": "https://www.ohiorealtors.org/convention/exhibitors/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.ohiorealtors.org/convention/exhibitors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "404 page, no exhibitor list"
+  },
+  {
+   "id": "lead-issuu-com",
+   "jurisdiction": null,
+   "title": "issuu.com",
+   "publisher": "issuu.com",
+   "landing_url": "https://issuu.com/akronlifemag/docs/2026_hba_home_garden_show_program",
+   "fetch": {
+    "method": "roster",
+    "url": "https://issuu.com/akronlifemag/docs/2026_hba_home_garden_show_program"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Issuu viewer; program text (exhibitors) not readable by fetch"
+  },
+  {
+   "id": "lead-central-ohio-home-design-show-aug-28-30-2026",
+   "jurisdiction": null,
+   "title": "Central Ohio Home & Design Show (Aug 28-30, 2026)",
+   "publisher": "dispatch-shows.squarespace.com",
+   "landing_url": "https://dispatch-shows.squarespace.com/home-and-design-show",
+   "fetch": {
+    "method": "roster",
+    "url": "https://dispatch-shows.squarespace.com/home-and-design-show"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "'Exhibitor list' button has no readable URL"
+  },
+  {
+   "id": "lead-arnold-sports-festival-expo-2026-columbus",
+   "jurisdiction": null,
+   "title": "Arnold Sports Festival Expo 2026, Columbus",
+   "publisher": "www.arnoldsports.com",
+   "landing_url": "https://www.arnoldsports.com/arnold-expo/expo-information",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.arnoldsports.com/arnold-expo/expo-information"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Page mentions a 2026 floor plan & exhibitor list but exposes no link"
+  },
+  {
+   "id": "lead-greater-cincinnati-home-expo-mar-2027-and-house",
+   "jurisdiction": null,
+   "title": "Greater Cincinnati Home Expo (Mar 2027) and House & Outdoor Living Show (Aug 2027)",
+   "publisher": "homeshowcenter.com",
+   "landing_url": "https://homeshowcenter.com/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://homeshowcenter.com/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Same organizer as rosters read; not fetched to keep within budget; overview links homeshowcenter.com/overview/cincinnati2 and /cincinnati3"
+  },
+  {
+   "id": "lead-farm-science-review-2026-london-oh",
+   "jurisdiction": null,
+   "title": "Farm Science Review 2026, London OH",
+   "publisher": "fsr.osu.edu",
+   "landing_url": "https://fsr.osu.edu/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://fsr.osu.edu/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Exhibitor directory is in a mobile app/digital directory; no list in page text"
+  },
+  {
+   "id": "lead-osba-capital-conference-trade-show-2026-columbus",
+   "jurisdiction": null,
+   "title": "OSBA Capital Conference & Trade Show 2026, Columbus",
+   "publisher": "conference.ohioschoolboards.org",
+   "landing_url": "https://conference.ohioschoolboards.org/2026/exhibit-capital-conference",
+   "fetch": {
+    "method": "roster",
+    "url": "https://conference.ohioschoolboards.org/2026/exhibit-capital-conference"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "'2026 exhibitors' heading with no names; list appears to be behind exhibitor portal login"
+  },
+  {
+   "id": "lead-oha-annual-meeting-2026-columbus",
+   "jurisdiction": null,
+   "title": "OHA Annual Meeting 2026, Columbus",
+   "publisher": "www.ohiohospitals.org",
+   "landing_url": "https://www.ohiohospitals.org/member-opportunities/annual-meeting/exhibitor-details",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.ohiohospitals.org/member-opportunities/annual-meeting/exhibitor-details"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Points to a Corporate Partner Directory not shown on the page"
+  },
+  {
+   "id": "lead-ohio-cannfest-2026-thompson-oh",
+   "jurisdiction": null,
+   "title": "Ohio CannFest 2026, Thompson OH",
+   "publisher": "www.cann-fest.com",
+   "landing_url": "https://www.cann-fest.com/blogs/zick-press-blog/ohio-cannfest-roars-into-thompson",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.cann-fest.com/blogs/zick-press-blog/ohio-cannfest-roars-into-thompson"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "No vendor names published on pages read; vendor applications page only"
+  },
+  {
+   "id": "lead-today-s-bride-cleveland-wedding-show-2026",
+   "jurisdiction": null,
+   "title": "Today's Bride Cleveland Wedding Show 2026",
+   "publisher": "issuu.com",
+   "landing_url": "https://issuu.com/todaysbride/docs/2026_today_s_bride_magazine",
+   "fetch": {
+    "method": "roster",
+    "url": "https://issuu.com/todaysbride/docs/2026_today_s_bride_magazine"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Issuu document; text not readable by fetch"
+  },
+  {
+   "id": "lead-ohio-rv-supershow-2026-2027-cleveland",
+   "jurisdiction": null,
+   "title": "Ohio RV Supershow 2026/2027, Cleveland",
+   "publisher": "ohiorvshow.com",
+   "landing_url": "https://ohiorvshow.com",
+   "fetch": {
+    "method": "roster",
+    "url": "https://ohiorvshow.com"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Site names no dealers/exhibitors"
+  },
+  {
+   "id": "lead-multi-chamber-business-expo-hilliard-worthington",
+   "jurisdiction": null,
+   "title": "Multi-Chamber Business Expo (Hilliard/Worthington/Dublin/Westerville), Feb 2026",
+   "publisher": "business.hilliardchamber.org",
+   "landing_url": "https://business.hilliardchamber.org/calendar/details/multi-chamber-business-expo-1575262",
+   "fetch": {
+    "method": "roster",
+    "url": "https://business.hilliardchamber.org/calendar/details/multi-chamber-business-expo-1575262"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "~100 vendors but no names published"
+  },
+  {
+   "id": "lead-springboro-hometown-expo-2026",
+   "jurisdiction": null,
+   "title": "Springboro Hometown Expo 2026",
+   "publisher": "business.springboroohio.org",
+   "landing_url": "https://business.springboroohio.org/events/Details/2026-hometown-expo-co-presented-by-performance-wraps-and-mr-comfort-heating-cooling-1546539",
+   "fetch": {
+    "method": "roster",
+    "url": "https://business.springboroohio.org/events/Details/2026-hometown-expo-co-presented-by-performance-wraps-and-mr-comfort-heating-cooling-1546539"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Only sponsors named (Performance Wraps, Mr. Comfort Heating & Cooling, Custom Connections); no exhibitor list"
+  },
+  {
+   "id": "us-oh-cliftonfest-2026",
+   "jurisdiction": "OH",
+   "title": "CliftonFest 2026 artists",
+   "publisher": "cliftonculturalarts.org",
+   "landing_url": "https://cliftonculturalarts.org/cliftonfest/cliftonfest-vendors-2/",
+   "event": {
+    "name": "CliftonFest",
+    "year": 2026,
+    "city": "Cincinnati",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "artists",
+   "fetch": {
+    "method": "roster",
+    "url": "https://cliftonculturalarts.org/cliftonfest/cliftonfest-vendors-2/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-haymaker-farmers-market-2026",
+   "jurisdiction": "OH",
+   "title": "Haymaker Farmers' Market 2026 vendors",
+   "publisher": "haymakermarket.com",
+   "landing_url": "https://haymakermarket.com/vendors",
+   "event": {
+    "name": "Haymaker Farmers' Market",
+    "year": 2026,
+    "city": "Kent",
+    "state": "OH",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://haymakermarket.com/vendors"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-ohayocon-2027",
+   "jurisdiction": "OH",
+   "title": "Ohayocon 2027 vendors",
+   "publisher": "ohayocon.online",
+   "landing_url": "https://ohayocon.online/exhibitors",
+   "event": {
+    "name": "Ohayocon",
+    "year": 2027,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "convention"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://ohayocon.online/exhibitors"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-taste-of-cincinnati-2026",
+   "jurisdiction": "OH",
+   "title": "Taste of Cincinnati 2026 food-vendors",
+   "publisher": "www.fox19.com",
+   "landing_url": "https://www.fox19.com/2026/05/21/everything-you-need-know-about-taste-cincinnati-2026/",
+   "event": {
+    "name": "Taste of Cincinnati",
+    "year": 2026,
+    "city": "Cincinnati",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.fox19.com/2026/05/21/everything-you-need-know-about-taste-cincinnati-2026/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-columbus-spring-avant-garde-art-craft-show-2026",
+   "jurisdiction": "OH",
+   "title": "Columbus Spring Avant-Garde Art & Craft Show 2026 vendors",
+   "publisher": "columbusavantgardeshows.blogspot.com",
+   "landing_url": "https://columbusavantgardeshows.blogspot.com/2026/03/columbus-spring-handmade-market-meet.html",
+   "event": {
+    "name": "Columbus Spring Avant-Garde Art & Craft Show",
+    "year": 2026,
+    "city": "Hilliard",
+    "state": "OH",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://columbusavantgardeshows.blogspot.com/2026/03/columbus-spring-handmade-market-meet.html"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-great-dayton-food-truck-rally-2025",
+   "jurisdiction": "OH",
+   "title": "Great Dayton Food Truck Rally 2025 food-vendors",
+   "publisher": "www.daytondailynews.com",
+   "landing_url": "https://www.daytondailynews.com/local/more-than-50-vendors-will-be-at-2-day-great-dayton-food-truck-rally/NN6JNSAA25AQJPWGFTKFZENV6E",
+   "event": {
+    "name": "Great Dayton Food Truck Rally",
+    "year": 2025,
+    "city": "Dayton",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.daytondailynews.com/local/more-than-50-vendors-will-be-at-2-day-great-dayton-food-truck-rally/NN6JNSAA25AQJPWGFTKFZENV6E"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-columbus-winterfair-2026",
+   "jurisdiction": "OH",
+   "title": "Columbus Winterfair 2026 exhibitors",
+   "publisher": "winterfair.org",
+   "landing_url": "https://winterfair.org/columbus-winterfair-artist-and-gourmet-marketplace-directory-2026/",
+   "event": {
+    "name": "Columbus Winterfair",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "market"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://winterfair.org/columbus-winterfair-artist-and-gourmet-marketplace-directory-2026/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-columbus-food-truck-festival-2025",
+   "jurisdiction": "OH",
+   "title": "Columbus Food Truck Festival 2025 food-vendors",
+   "publisher": "www.experiencecolumbus.com",
+   "landing_url": "https://www.experiencecolumbus.com/blog/post/columbus-food-truck-festival-2025/",
+   "event": {
+    "name": "Columbus Food Truck Festival",
+    "year": 2025,
+    "city": "Hilliard",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.experiencecolumbus.com/blog/post/columbus-food-truck-festival-2025/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-clintonville-farmers-market-2026",
+   "jurisdiction": "OH",
+   "title": "Clintonville Farmers Market 2026 vendors",
+   "publisher": "marketspread.com",
+   "landing_url": "https://marketspread.com/market/24612/clintonville-farmers-market/events/78844/",
+   "event": {
+    "name": "Clintonville Farmers Market",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://marketspread.com/market/24612/clintonville-farmers-market/events/78844/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-space-small-press-and-alternative-comics-expo-2026",
+   "jurisdiction": "OH",
+   "title": "SPACE (Small Press and Alternative Comics Expo) 2026 exhibitors",
+   "publisher": "spaceguy1313.blogspot.com",
+   "landing_url": "https://spaceguy1313.blogspot.com/2026/02/space-2026-exhibitor-bios-part-1.html",
+   "event": {
+    "name": "SPACE (Small Press and Alternative Comics Expo)",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "convention"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://spaceguy1313.blogspot.com/2026/02/space-2026-exhibitor-bios-part-1.html"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-cuyahoga-county-fair-2026",
+   "jurisdiction": "OH",
+   "title": "Cuyahoga County Fair 2026 vendors",
+   "publisher": "grandstandsites.com",
+   "landing_url": "https://grandstandsites.com/wlist.php?i=CCF8697172361872934124GS&f=true&iframe=true",
+   "event": {
+    "name": "Cuyahoga County Fair",
+    "year": 2026,
+    "city": "Berea",
+    "state": "OH",
+    "type": "fair"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://grandstandsites.com/wlist.php?i=CCF8697172361872934124GS&f=true&iframe=true"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-cuyahoga-county-fair-2026-b",
+   "jurisdiction": "OH",
+   "title": "Cuyahoga County Fair 2026 food-vendors",
+   "publisher": "grandstandsites.com",
+   "landing_url": "https://grandstandsites.com/wlist.php?i=CCF161286180123473124SGS&f=true&iframe=true",
+   "event": {
+    "name": "Cuyahoga County Fair",
+    "year": 2026,
+    "city": "Berea",
+    "state": "OH",
+    "type": "fair"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://grandstandsites.com/wlist.php?i=CCF161286180123473124SGS&f=true&iframe=true"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-ohio-state-fair-2026",
+   "jurisdiction": "OH",
+   "title": "Ohio State Fair 2026 food-vendors",
+   "publisher": "abc6onyourside.com",
+   "landing_url": "https://abc6onyourside.com/news/local/columbus-ohio-state-fair-adds-new-vendors-25-new-foods-for-2026-run-catfish-on-a-stick-corn-dog-cream-puff-float-pork-belly-cone",
+   "event": {
+    "name": "Ohio State Fair",
+    "year": 2026,
+    "city": "Columbus",
+    "state": "OH",
+    "type": "fair"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://abc6onyourside.com/news/local/columbus-ohio-state-fair-adds-new-vendors-25-new-foods-for-2026-run-catfish-on-a-stick-corn-dog-cream-puff-float-pork-belly-cone"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-oh-art-on-the-mall-university-of-toledo-2026",
+   "jurisdiction": "OH",
+   "title": "Art on the Mall (University of Toledo) 2026 artists",
+   "publisher": "news.utoledo.edu",
+   "landing_url": "https://news.utoledo.edu/index.php/07_28_2026/sunshine-and-crowds-fuel-33rd-art-on-the-mall",
+   "event": {
+    "name": "Art on the Mall (University of Toledo)",
+    "year": 2026,
+    "city": "Toledo",
+    "state": "OH",
+    "type": "festival"
+   },
+   "roster_kind": "artists",
+   "fetch": {
+    "method": "roster",
+    "url": "https://news.utoledo.edu/index.php/07_28_2026/sunshine-and-crowds-fuel-33rd-art-on-the-mall"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "lead-taste-of-cincinnati-2026-official-vendor-page",
+   "jurisdiction": null,
+   "title": "Taste of Cincinnati 2026 (official vendor page)",
+   "publisher": "tasteofcincinnati.com",
+   "landing_url": "https://tasteofcincinnati.com/vendors/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://tasteofcincinnati.com/vendors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Named by WCPO as the full vendor list; the FOX19 article roster was used instead. Read to add retail vendors and confirm."
+  },
+  {
+   "id": "lead-columbus-winterfair-2026-art-studio-clearance-sa",
+   "jurisdiction": null,
+   "title": "Columbus Winterfair 2026 Art Studio Clearance Sale directory",
+   "publisher": "winterfair.org",
+   "landing_url": "https://winterfair.org/art-studio-clearance-sale-2026/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://winterfair.org/art-studio-clearance-sale-2026/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Linked from the Winterfair artist page; not read for time; likely mostly personal-name artists."
+  },
+  {
+   "id": "lead-ohayocon-27-artist-alley",
+   "jurisdiction": null,
+   "title": "OHAYOCON 27 Artist Alley",
+   "publisher": "ohayocon.online",
+   "landing_url": "https://ohayocon.online",
+   "fetch": {
+    "method": "roster",
+    "url": "https://ohayocon.online"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Artist Alley is a separate page from the Vendor Hall list; not read."
+  },
+  {
+   "id": "lead-north-union-farmers-market-cleveland",
+   "jurisdiction": null,
+   "title": "North Union Farmers Market (Cleveland)",
+   "publisher": "bobcat-flugelhorn-dzm9.squarespace.com",
+   "landing_url": "https://bobcat-flugelhorn-dzm9.squarespace.com/vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://bobcat-flugelhorn-dzm9.squarespace.com/vendors"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Vendor directory did not render in the fetched page (loads by script); no names visible."
+  },
+  {
+   "id": "lead-stonewall-columbus-pride-festival-2026",
+   "jurisdiction": null,
+   "title": "Stonewall Columbus Pride Festival 2026",
+   "publisher": "stonewallcolumbus.org",
+   "landing_url": "https://stonewallcolumbus.org/prideguide/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://stonewallcolumbus.org/prideguide/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Festival and guide pages name no vendors (says 200+); no public list found."
+  },
+  {
+   "id": "lead-ohio-renaissance-festival-2026",
+   "jurisdiction": null,
+   "title": "Ohio Renaissance Festival 2026",
+   "publisher": "renfestival.com",
+   "landing_url": "https://renfestival.com/vendors/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://renfestival.com/vendors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Page is a vendor recruitment page with no merchant directory. Older 'Artisans' PDFs exist on renfestival.com (2018, 2019) but are outside the date window."
+  },
+  {
+   "id": "lead-toledo-pride-2025",
+   "jurisdiction": null,
+   "title": "Toledo Pride 2025",
+   "publisher": "toledopride.com",
+   "landing_url": "https://toledopride.com/community-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://toledopride.com/community-vendors"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Page says community vendor spots are full but names no vendors."
+  },
+  {
+   "id": "lead-dayton-pride-2026",
+   "jurisdiction": null,
+   "title": "Dayton Pride 2026",
+   "publisher": "www.eventeny.com",
+   "landing_url": "https://www.eventeny.com/events/dayton-pride-2026-25501/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventeny.com/events/dayton-pride-2026-25501/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Eventeny page says vendors sold out but lists none publicly (sponsors only)."
+  },
+  {
+   "id": "lead-cincinnati-pride-2026",
+   "jurisdiction": null,
+   "title": "Cincinnati Pride 2026",
+   "publisher": "www.eventeny.com",
+   "landing_url": "https://www.eventeny.com/events/2025cincinnatipridefestival-20128/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventeny.com/events/2025cincinnatipridefestival-20128/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Eventeny page lists sponsors and performers only, no vendors."
+  },
+  {
+   "id": "lead-canfield-fair-2026",
+   "jurisdiction": null,
+   "title": "Canfield Fair 2026",
+   "publisher": "www.eventeny.com",
+   "landing_url": "https://www.eventeny.com/events/2026canfieldfair-25792/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventeny.com/events/2026canfieldfair-25792/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Eventeny page shows zone map and sponsors only, no vendor names."
+  },
+  {
+   "id": "lead-servatii-cincinnati-christkindlmarkt-4th-year",
+   "jurisdiction": null,
+   "title": "Servatii Cincinnati Christkindlmarkt (4th year)",
+   "publisher": "www.aol.com",
+   "landing_url": "https://www.aol.com/articles/cincinnatis-small-businesses-bring-german-125700681.html",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.aol.com/articles/cincinnatis-small-businesses-bring-german-125700681.html"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read: names 7 vendors (e.g., Moerlein Lager House, Glier's, Avril-Bleh Meat Market, Brü Brothers Coffee, Hardman's Steampunk Donuts) but states no calendar year, so not recorded as a roster."
+  },
+  {
+   "id": "lead-akron-pickle-fest-2026",
+   "jurisdiction": null,
+   "title": "Akron Pickle Fest 2026",
+   "publisher": "www.cleveland19.com",
+   "landing_url": "https://www.cleveland19.com/2026/08/06/akron-pickle-fest-makes-its-return-downtown-akron/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.cleveland19.com/2026/08/06/akron-pickle-fest-makes-its-return-downtown-akron/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Article points to the fest's own site for the vendor and food truck list; no URL given."
+  },
+  {
+   "id": "lead-ohio-state-fair-full-food-vendor-map",
+   "jurisdiction": null,
+   "title": "Ohio State Fair (full food vendor map)",
+   "publisher": "www.ohiostatefair.com",
+   "landing_url": "https://www.ohiostatefair.com/p/visit/food",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.ohiostatefair.com/p/visit/food"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Food page has no vendor list; complete food map is only in the fair's mobile app."
+  },
+  {
+   "id": "lead-cleveland-flea",
+   "jurisdiction": null,
+   "title": "Cleveland Flea",
+   "publisher": "stephanie-sheldon-m931.squarespace.com",
+   "landing_url": "https://stephanie-sheldon-m931.squarespace.com/stories/guide-to-the-flea-october",
+   "fetch": {
+    "method": "roster",
+    "url": "https://stephanie-sheldon-m931.squarespace.com/stories/guide-to-the-flea-october"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Only 2016-2017 vendor guides found; outside the date window. Flea reportedly on hiatus."
+  },
+  {
+   "id": "lead-cincinnati-magazine-holiday-market-2025",
+   "jurisdiction": null,
+   "title": "Cincinnati Magazine Holiday Market 2025",
+   "publisher": "issuu.com",
+   "landing_url": "https://issuu.com/cincinnatimagazine/docs/holiday_market_2025",
+   "fetch": {
+    "method": "roster",
+    "url": "https://issuu.com/cincinnatimagazine/docs/holiday_market_2025"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Issuu flipbook; not read."
+  },
+  {
+   "id": "us-pa-pennsylvania-farm-show-2026",
+   "jurisdiction": "PA",
+   "title": "Pennsylvania Farm Show 2026 exhibitors",
+   "publisher": "www.pa.gov",
+   "landing_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/farmshow/documents/pafarmshow/documents/2026_pafs_exhibitor%20listings.pdf",
+   "event": {
+    "name": "Pennsylvania Farm Show",
+    "year": 2026,
+    "city": "Harrisburg",
+    "state": "PA",
+    "type": "fair"
+   },
+   "roster_kind": "exhibitors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/farmshow/documents/pafarmshow/documents/2026_pafs_exhibitor%20listings.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-pa-summer-cannafest-2025",
+   "jurisdiction": "PA",
+   "title": "Summer Cannafest 2025 vendors",
+   "publisher": "lebtown.com",
+   "landing_url": "https://lebtown.com/2025/06/10/rainy-weekend-doesnt-dampen-spirits-for-2025-summer-canna-fest-at-fairgrounds/",
+   "event": {
+    "name": "Summer Cannafest",
+    "year": 2025,
+    "city": "Lebanon",
+    "state": "PA",
+    "type": "festival"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://lebtown.com/2025/06/10/rainy-weekend-doesnt-dampen-spirits-for-2025-summer-canna-fest-at-fairgrounds/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-mi-making-it-in-michigan-trade-show-2025",
+   "jurisdiction": "MI",
+   "title": "Making It in Michigan Trade Show 2025 vendors",
+   "publisher": "www.canr.msu.edu",
+   "landing_url": "https://www.canr.msu.edu/miim/Trade-Show/2025-vendor-list",
+   "event": {
+    "name": "Making It in Michigan Trade Show",
+    "year": 2025,
+    "state": "MI",
+    "type": "trade-show"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.canr.msu.edu/miim/Trade-Show/2025-vendor-list"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-mi-motor-city-comic-con-2026",
+   "jurisdiction": "MI",
+   "title": "Motor City Comic Con 2026 vendors",
+   "publisher": "motorcitycomiccon.com",
+   "landing_url": "https://motorcitycomiccon.com/exhibitors/2024-vendors/",
+   "event": {
+    "name": "Motor City Comic Con",
+    "year": 2026,
+    "city": "Novi",
+    "state": "MI",
+    "type": "convention"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://motorcitycomiccon.com/exhibitors/2024-vendors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-mi-motor-city-comic-con-2026-b",
+   "jurisdiction": "MI",
+   "title": "Motor City Comic Con 2026 artists",
+   "publisher": "motorcitycomiccon.com",
+   "landing_url": "https://motorcitycomiccon.com/exhibitors/our-crafters/",
+   "event": {
+    "name": "Motor City Comic Con",
+    "year": 2026,
+    "city": "Novi",
+    "state": "MI",
+    "type": "convention"
+   },
+   "roster_kind": "artists",
+   "fetch": {
+    "method": "roster",
+    "url": "https://motorcitycomiccon.com/exhibitors/our-crafters/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-mi-metro-times-cannabis-week-2026",
+   "jurisdiction": "MI",
+   "title": "Metro Times Cannabis Week 2026 vendors",
+   "publisher": "www.metrotimes.com",
+   "landing_url": "https://www.metrotimes.com/?p=296126",
+   "event": {
+    "name": "Metro Times Cannabis Week",
+    "year": 2026,
+    "city": "Detroit metro",
+    "state": "MI",
+    "type": "festival"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.metrotimes.com/?p=296126"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-mi-ann-arbor-summer-art-fair-2026",
+   "jurisdiction": "MI",
+   "title": "Ann Arbor Summer Art Fair 2026 artists",
+   "publisher": "www.theguild.org",
+   "landing_url": "https://www.theguild.org/fair/ann-arbor-art-fair/participating-artists/",
+   "event": {
+    "name": "Ann Arbor Summer Art Fair",
+    "year": 2026,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "type": "festival"
+   },
+   "roster_kind": "artists",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.theguild.org/fair/ann-arbor-art-fair/participating-artists/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-in-indiana-state-fair-taste-of-the-fair-2026",
+   "jurisdiction": "IN",
+   "title": "Indiana State Fair - Taste of the Fair 2026 food-vendors",
+   "publisher": "www.indianastatefair.com",
+   "landing_url": "https://www.indianastatefair.com/p/food--shopping1/taste-of-the-fair",
+   "event": {
+    "name": "Indiana State Fair - Taste of the Fair",
+    "year": 2026,
+    "city": "Indianapolis",
+    "state": "IN",
+    "type": "fair"
+   },
+   "roster_kind": "food-vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.indianastatefair.com/p/food--shopping1/taste-of-the-fair"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 180,
+   "status": "active"
+  },
+  {
+   "id": "us-in-statehouse-market-holiday-market-2026",
+   "jurisdiction": "IN",
+   "title": "Statehouse Market - Holiday Market 2026 vendors",
+   "publisher": "www.in.gov",
+   "landing_url": "https://www.in.gov/statehousemarket/weekly-lineup",
+   "event": {
+    "name": "Statehouse Market - Holiday Market",
+    "year": 2026,
+    "city": "Indianapolis",
+    "state": "IN",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.in.gov/statehousemarket/weekly-lineup"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-ky-shaker-village-of-pleasant-hill-christmas-market-2025",
+   "jurisdiction": "KY",
+   "title": "Shaker Village of Pleasant Hill Christmas Market 2025 vendors",
+   "publisher": "shakervillageky.org",
+   "landing_url": "https://shakervillageky.org/wp-content/uploads/2025/10/2025_ChristmasMarket_VendorList_AR02.pdf",
+   "event": {
+    "name": "Shaker Village of Pleasant Hill Christmas Market",
+    "year": 2025,
+    "city": "Harrodsburg",
+    "state": "KY",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://shakervillageky.org/wp-content/uploads/2025/10/2025_ChristmasMarket_VendorList_AR02.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-ky-united-we-shop-2026",
+   "jurisdiction": "KY",
+   "title": "United We Shop 2026 vendors",
+   "publisher": "uknow.uky.edu",
+   "landing_url": "https://uknow.uky.edu/node/262176",
+   "event": {
+    "name": "United We Shop",
+    "year": 2026,
+    "city": "Georgetown",
+    "state": "KY",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://uknow.uky.edu/node/262176"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-wv-wheeling-heritage-handmade-holiday-2025",
+   "jurisdiction": "WV",
+   "title": "Wheeling Heritage Handmade Holiday 2025 vendors",
+   "publisher": "wheelingheritage.org",
+   "landing_url": "https://wheelingheritage.org/meet-the-makers-at-wheeling-heritage-handmade-holiday/",
+   "event": {
+    "name": "Wheeling Heritage Handmade Holiday",
+    "year": 2025,
+    "city": "Wheeling",
+    "state": "WV",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://wheelingheritage.org/meet-the-makers-at-wheeling-heritage-handmade-holiday/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "us-wv-wheeling-handmade-holiday-spring-market-2025",
+   "jurisdiction": "WV",
+   "title": "Wheeling Handmade Holiday Spring Market 2025 vendors",
+   "publisher": "wheelingheritage.org",
+   "landing_url": "https://wheelingheritage.org/handmade-holiday-spring-market-meet-the-vendors/",
+   "event": {
+    "name": "Wheeling Handmade Holiday Spring Market",
+    "year": 2025,
+    "city": "Wheeling",
+    "state": "WV",
+    "type": "market"
+   },
+   "roster_kind": "vendors",
+   "fetch": {
+    "method": "roster",
+    "url": "https://wheelingheritage.org/handmade-holiday-spring-market-meet-the-vendors/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+   "cadence_days": 90,
+   "status": "active"
+  },
+  {
+   "id": "lead-artscouncil-ky-gov",
+   "jurisdiction": null,
+   "title": "artscouncil.ky.gov",
+   "publisher": "artscouncil.ky.gov",
+   "landing_url": "https://artscouncil.ky.gov/wp-content/uploads/2026/02/KYCraftedProgram2026-1.pdf",
+   "fetch": {
+    "method": "roster",
+    "url": "https://artscouncil.ky.gov/wp-content/uploads/2026/02/KYCraftedProgram2026-1.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Fetch failed at the site (client error); Kentucky Crafted Market 2026 program with 120+ exhibitors"
+  },
+  {
+   "id": "lead-artscouncil-ky-gov-b",
+   "jurisdiction": null,
+   "title": "artscouncil.ky.gov",
+   "publisher": "artscouncil.ky.gov",
+   "landing_url": "https://artscouncil.ky.gov/wp-content/uploads/2025/02/KY-Crafted-Market-Program-2025.pdf",
+   "fetch": {
+    "method": "roster",
+    "url": "https://artscouncil.ky.gov/wp-content/uploads/2025/02/KY-Crafted-Market-Program-2025.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Fetch failed at the site (client error); 2025 program"
+  },
+  {
+   "id": "lead-cannacon-org",
+   "jurisdiction": null,
+   "title": "cannacon.org",
+   "publisher": "cannacon.org",
+   "landing_url": "https://cannacon.org/midwest/cannacon-lansing/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://cannacon.org/midwest/cannacon-lansing/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Fetch failed at the site (client error); CannaCon Midwest Lansing July 18-19, 2025"
+  },
+  {
+   "id": "lead-www-wdrb-com",
+   "jurisdiction": null,
+   "title": "www.wdrb.com",
+   "publisher": "www.wdrb.com",
+   "landing_url": "https://www.wdrb.com/community/5th-annual-international-food-truck-festival-offers-global-cuisine-in-louisville/article_c1c66337-4455-4cdf-a595-1ba24ea0b040.html",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.wdrb.com/community/5th-annual-international-food-truck-festival-offers-global-cuisine-in-louisville/article_c1c66337-4455-4cdf-a595-1ba24ea0b040.html"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "blocked",
+   "note": "Redirected to a different host (wdrbwave.com); not followed"
+  },
+  {
+   "id": "lead-st-james-court-art-show-2026-louisville-ky",
+   "jurisdiction": null,
+   "title": "St. James Court Art Show 2026 (Louisville, KY)",
+   "publisher": "www.stjamescourtartshow.com",
+   "landing_url": "https://www.stjamescourtartshow.com/2026artists/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.stjamescourtartshow.com/2026artists/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Artist directory loads by script; page text shows only section buttons. Mostly individual artists anyway."
+  },
+  {
+   "id": "lead-three-rivers-arts-festival-2026-artist-market-pi",
+   "jurisdiction": null,
+   "title": "Three Rivers Arts Festival 2026 artist market (Pittsburgh, PA)",
+   "publisher": "traf.trustarts.org",
+   "landing_url": "https://traf.trustarts.org/markets",
+   "fetch": {
+    "method": "roster",
+    "url": "https://traf.trustarts.org/markets"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Vendor listings load dynamically; none in page text. Individual vendor pages exist at traf.trustarts.org/markets/<id>."
+  },
+  {
+   "id": "lead-motor-city-comic-con-fall-2026-artist-alley-novi",
+   "jurisdiction": null,
+   "title": "Motor City Comic Con Fall 2026 Artist Alley (Novi, MI)",
+   "publisher": "motorcitycomiccon.com",
+   "landing_url": "https://motorcitycomiccon.com/exhibitors/2023-artist-alley/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://motorcitycomiccon.com/exhibitors/2023-artist-alley/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Not read for time; likely mostly individual artist names."
+  },
+  {
+   "id": "lead-indiana-state-fair-2026-shopping-hoosier-lottery",
+   "jurisdiction": null,
+   "title": "Indiana State Fair 2026 shopping (Hoosier Lottery Expo Hall, 175+ vendors)",
+   "publisher": "www.indianastatefair.com",
+   "landing_url": "https://www.indianastatefair.com/p/food--shopping1/shopping",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.indianastatefair.com/p/food--shopping1/shopping"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Page names only 7 fair-run shops; commercial vendors not itemized."
+  },
+  {
+   "id": "lead-kentucky-state-fair-food-guide",
+   "jurisdiction": null,
+   "title": "Kentucky State Fair food guide",
+   "publisher": "www.aol.com",
+   "landing_url": "https://www.aol.com/kentucky-state-fair-food-guide-090133578.html",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.aol.com/kentucky-state-fair-food-guide-090133578.html"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read, but it covers the 2024 fair (out of the 2025-2026 range); about 35 food vendors named."
+  },
+  {
+   "id": "lead-kentucky-crafted-market-2026-lexington-ky",
+   "jurisdiction": null,
+   "title": "Kentucky Crafted Market 2026 (Lexington, KY)",
+   "publisher": "nkytribune.com",
+   "landing_url": "https://nkytribune.com/?p=487519",
+   "fetch": {
+    "method": "roster",
+    "url": "https://nkytribune.com/?p=487519"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Article confirms 120+ exhibitors but names none; program PDF blocked."
+  },
+  {
+   "id": "lead-kentucky-cannabis-wellness-expo-sept-19-2026-lex",
+   "jurisdiction": null,
+   "title": "Kentucky Cannabis & Wellness Expo, Sept 19, 2026 (Lexington, KY)",
+   "publisher": "www.centralbankcenter.com",
+   "landing_url": "https://www.centralbankcenter.com/news/detail/kentucky-cannabis-industry-alliance-announces-free-cannabis-wellness-expo-at-central-bank-center-on-september-19-2026",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.centralbankcenter.com/news/detail/kentucky-cannabis-industry-alliance-announces-free-cannabis-wellness-expo-at-central-bank-center-on-september-19-2026"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; names no exhibitors (host KCIA, partner Kentucky Marijuana Card only)."
+  },
+  {
+   "id": "lead-pocono-canna-world-fair-2025-gilbert-pa",
+   "jurisdiction": null,
+   "title": "Pocono Canna World Fair 2025 (Gilbert, PA)",
+   "publisher": "thevalleyledger.com",
+   "landing_url": "https://thevalleyledger.com/?p=143204",
+   "fetch": {
+    "method": "roster",
+    "url": "https://thevalleyledger.com/?p=143204"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; 300+ vendors claimed but none named. 2026 edition July 25-26 on Eventbrite."
+  },
+  {
+   "id": "lead-pennsylvania-cannfest-2025-kutztown-pa",
+   "jurisdiction": null,
+   "title": "Pennsylvania CannFest 2025 (Kutztown, PA)",
+   "publisher": "www.cann-fest.com",
+   "landing_url": "https://www.cann-fest.com/blogs/zick-press-blog/governor-shapiro-marc-fogel-explore-cannfest",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.cann-fest.com/blogs/zick-press-blog/governor-shapiro-marc-fogel-explore-cannfest"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; 200+ vendors claimed but none named. Organizer also runs an Ohio Cannabis Festival (Thompson, OH, Sept 2026)."
+  },
+  {
+   "id": "lead-pennsylvania-cannabis-convention-necann-pittsbur",
+   "jurisdiction": null,
+   "title": "Pennsylvania Cannabis Convention (NECANN), Pittsburgh",
+   "publisher": "necann.com",
+   "landing_url": "https://necann.com/?p=54045",
+   "fetch": {
+    "method": "roster",
+    "url": "https://necann.com/?p=54045"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "No exhibitor list on page; next show Aug 6-7, 2027; exhibitor lists may later appear on map-dynamics floor plans."
+  },
+  {
+   "id": "lead-handmade-arcade-2026-holiday-market-pittsburgh-p",
+   "jurisdiction": null,
+   "title": "Handmade Arcade 2026 Holiday Market (Pittsburgh, PA, Dec 4-6)",
+   "publisher": "www.eventeny.com",
+   "landing_url": "https://www.eventeny.com/events/2026-holiday-market-30121/",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventeny.com/events/2026-holiday-market-30121/"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; 300+ makers but none named on the page."
+  },
+  {
+   "id": "lead-winter-blues-farmers-market-2026-charleston-wv-1",
+   "jurisdiction": null,
+   "title": "Winter Blues Farmers Market 2026 (Charleston, WV, 134 vendors)",
+   "publisher": "agriculture.wv.gov",
+   "landing_url": "https://agriculture.wv.gov/?p=17170",
+   "fetch": {
+    "method": "roster",
+    "url": "https://agriculture.wv.gov/?p=17170"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; vendor names not listed."
+  },
+  {
+   "id": "lead-wvu-medicine-farmers-market-vendor-list-7-30-25",
+   "jurisdiction": null,
+   "title": "WVU Medicine farmers market vendor list 7/30/25 (Morgantown, WV)",
+   "publisher": "wvumedicine.org",
+   "landing_url": "https://wvumedicine.org/wellness/wp-content/uploads/sites/17/2025/07/Farmers-Market-Vendors-List-7.30.pdf",
+   "fetch": {
+    "method": "roster",
+    "url": "https://wvumedicine.org/wellness/wp-content/uploads/sites/17/2025/07/Farmers-Market-Vendors-List-7.30.pdf"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read (11 small vendors) but the page does not name the market or location, so not recorded as a roster."
+  },
+  {
+   "id": "lead-lexington-comic-toy-convention-2026",
+   "jurisdiction": null,
+   "title": "Lexington Comic & Toy Convention 2026",
+   "publisher": "www.eventeny.com",
+   "landing_url": "https://www.eventeny.com/events/lexington-comic-toy-convention-2026-19833",
+   "fetch": {
+    "method": "roster",
+    "url": "https://www.eventeny.com/events/lexington-comic-toy-convention-2026-19833"
+   },
+   "importer": "roster",
+   "evidence_level": "event-roster",
+   "cadence_days": 180,
+   "status": "queued",
+   "note": "Read; lists celebrity guests only, no vendors."
+  }
+ ]
+}

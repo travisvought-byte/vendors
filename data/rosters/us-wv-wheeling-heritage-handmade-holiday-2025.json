@@ -1,0 +1,168 @@
+{
+ "event": {
+  "name": "Wheeling Heritage Handmade Holiday",
+  "year": 2025,
+  "city": "Wheeling",
+  "state": "WV",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://wheelingheritage.org/meet-the-makers-at-wheeling-heritage-handmade-holiday/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 7,
+ "vendors": [
+  {
+   "name": "16th Street Clay Company"
+  },
+  {
+   "name": "Appalachian Herbal Co."
+  },
+  {
+   "name": "B. Woven"
+  },
+  {
+   "name": "Bejeweled Trees"
+  },
+  {
+   "name": "Bellaroses Inner Sanctuary"
+  },
+  {
+   "name": "Braid Away"
+  },
+  {
+   "name": "Burn."
+  },
+  {
+   "name": "Bubbles, Bones & Biscuits LLC"
+  },
+  {
+   "name": "Card Art by Jes"
+  },
+  {
+   "name": "Charmed Creations"
+  },
+  {
+   "name": "CK Jewelry"
+  },
+  {
+   "name": "Crowded Cat Studio"
+  },
+  {
+   "name": "Deylight Photography - Flower Photo Shop"
+  },
+  {
+   "name": "Edgington Studio"
+  },
+  {
+   "name": "Echo Valley Pottery"
+  },
+  {
+   "name": "Er + Ryal"
+  },
+  {
+   "name": "Foxfire & Co."
+  },
+  {
+   "name": "Goat and Soy LLC"
+  },
+  {
+   "name": "Jericho Road Collective"
+  },
+  {
+   "name": "JKB Pottery"
+  },
+  {
+   "name": "Kybee Creates"
+  },
+  {
+   "name": "Ladybug Greeting Cards"
+  },
+  {
+   "name": "Lone Stone Designs"
+  },
+  {
+   "name": "LZG Beaded Designs"
+  },
+  {
+   "name": "Maddy J Handmades LLC"
+  },
+  {
+   "name": "Mel's Alternative Images"
+  },
+  {
+   "name": "Mountain State Craftsman"
+  },
+  {
+   "name": "North Fork Jewelry Design LLC"
+  },
+  {
+   "name": "Old Soul Candle Company"
+  },
+  {
+   "name": "Pamspots"
+  },
+  {
+   "name": "Papa Faith"
+  },
+  {
+   "name": "Peaceniks Creations"
+  },
+  {
+   "name": "Primal Pickles"
+  },
+  {
+   "name": "RetrouveZ Studio"
+  },
+  {
+   "name": "RōDōWV Art"
+  },
+  {
+   "name": "Runway Farm"
+  },
+  {
+   "name": "Sea Salt & Cedar"
+  },
+  {
+   "name": "Spore Print Press"
+  },
+  {
+   "name": "Standard Whimsy"
+  },
+  {
+   "name": "Sugar and Spice Cookie Co. LLC"
+  },
+  {
+   "name": "Sweet Abe's Bakeshop"
+  },
+  {
+   "name": "Tacet Coffee Cart"
+  },
+  {
+   "name": "The Beard and The Bun Pottery"
+  },
+  {
+   "name": "The Cookie Culprit"
+  },
+  {
+   "name": "The Feral Farmlet"
+  },
+  {
+   "name": "The Local Beadery LLC"
+  },
+  {
+   "name": "The Queen of Arts~Curiosities"
+  },
+  {
+   "name": "The Weeping Willow Farm"
+  },
+  {
+   "name": "To Crafting and Beyond"
+  },
+  {
+   "name": "Wild Fringe Leatherworks"
+  },
+  {
+   "name": "Yardscape LLC"
+  }
+ ]
+}

@@ -1,0 +1,2166 @@
+{
+ "source": "us-mi-motor-city-comic-con-2026",
+ "title": "Motor City Comic Con 2026 vendors",
+ "publisher": "motorcitycomiccon.com",
+ "landing_url": "https://motorcitycomiccon.com/exhibitors/2024-vendors/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "df70e1b59a4418fac85f0c1f649d75ff7d081ec4e443351577e38a7ac1112b3b",
+ "counts": {
+  "read": 148,
+  "kept": 147,
+  "dropped": {},
+  "personal_name_only": 8
+ },
+ "vendors": [
+  {
+   "name": "Ableideaz with Comics, Beer & Sci-Fi",
+   "website": "http://ableideaz.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Adam's Action Figures & Comics",
+   "website": "https://www.adamsactionfiguresandcomics.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Aeonian Dawn",
+   "website": "https://www.aeoniandawn.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Animation Art Guy",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Anime Haus",
+   "website": "https://toykoi.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Anime Palace",
+   "website": "https://www.theanimepalace.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Another Time Around",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Armory Quest",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Art-Toons",
+   "website": "https://www.ebay.com/str/arttoons",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Atomic Trading Post",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Auburn and Main LLC",
+   "website": "https://www.auburnandmain.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Awesome Minis",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Bandai Hobby Pop-Up Shop",
+   "website": "https://galactictoys.com",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Besom Boutique",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Beyond Epic Shop",
+   "website": "https://beyondepicshop.square.site/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Bill's Books & More",
+   "website": "http://www.billsbooksandmore.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Black Bazaar",
+   "website": "https://black-bazaar.square.site/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Bookoff",
+   "website": "https://www.bookoffusa.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Brad's Comics & Collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "BrianBrain Studio",
+   "website": "https://www.brianbrainstudio.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "C4 COLLECTIBLES LLC",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cadaver Printing Co.",
+   "website": "https://www.cadaverco.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Captive Fancy",
+   "website": "https://captive-fancy.square.site/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Club Rug",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Collectible Empire, LLC",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Comfort Kingdom",
+   "website": "https://comfort-kingdom.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Comic Pop Collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Comic Relief",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "COMICADE!",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Comics Plus Inc.",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cool Stuff From Egypt",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cosmic Comics and Toys",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Coy's Comics & Books",
+   "website": "http://www.coyscomics.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Creative Imaginations",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cross Country Collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cultures Swines",
+   "website": "http://cultured-swines.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Cutiehats",
+   "website": "https://www.cutiehats.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Daggetts Comics",
+   "website": "https://www.ebay.com/str/daggettscomics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Dan's Toys",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Dark Moon Japan",
+   "website": "https://www.darkmoonjapan.com",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "DC Sports",
+   "website": "https://www.detroitcitysports.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Detroit Colors, LLC",
+   "website": "https://detroitcolors.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Dragonwycks",
+   "website": "https://www.dragonwycks.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Druids Garden Tea Company",
+   "website": "https://www.druidsgardenteacompany.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "DX Games & More",
+   "website": "https://dxgamesllc.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Emagine Theatres",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Enamel Empire",
+   "website": "https://www.enamelempire.net/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "ESE Supplies",
+   "website": "http://www.esesupplies.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Expressions of Self",
+   "website": "https://www.expressionsofself.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Fat Baby Hot Sauce",
+   "website": "https://fatbabyhotsauce.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "FireChilde Glass Studio",
+   "website": "http://www.fcgstudio.org",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "First Form Collectibles",
+   "website": "https://firstformcollectibles.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Flannel Panels",
+   "website": "https://flannelpanels.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "FunkyTown Toys",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Fuzzbutt Boutique",
+   "website": "https://fuzzbuttboutique.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Gameplayers",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Geeky Experience",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Gem City Books",
+   "website": "https://gemcitybooks.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Gindo's Spice of Life, LLC",
+   "website": "https://gindos.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Glowing Vista Gifts",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Goozee Pins",
+   "website": "https://goozeepins.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Gulping Games",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Hatchback Comics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "hihi",
+   "website": "https://hellohihi.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Honey Beads",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "I Love You Stones, Crystal Shoppe",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Idea Farm",
+   "website": "https://www.ideafarm.store/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Inspired Artistry",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Internally Comatose",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Jamon Red, LLC",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Jellykoe",
+   "website": "https://www.jellykoe.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Karl & Frank's comics & collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "KIF'S",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Lange's Sports",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Lantern Comics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "LES Polinko Studio",
+   "website": "https://www.lespolinko.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Literary Alteration",
+   "website": "https://www.ebay.com/str/fandomemporium",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Little Bad Wren",
+   "website": "https://www.littlebadwren.com",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Lydia's Vintage",
+   "website": "https://lydiasvintage.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mao Mao",
+   "website": "https://www.maomaonails.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mario's Comics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Merlin's Munchies Coffee Company",
+   "website": "https://merlinsmunchiescoffee.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mid Michigan Comics",
+   "website": "https://midmichigancomics.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Milky Tomato LLC",
+   "website": "https://www.milkytomato.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "miniworld enternainment",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mirkywood Emporium",
+   "website": "https://www.mirkywood.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "MNM Collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Mochi & Co.",
+   "website": "https://www.mochiandco.shop/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Morse's Comic Book Stash",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Motion Picture Institute",
+   "website": "https://www.motionpicture.edu/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Multimedia Makeup Academy of Michigan",
+   "website": "https://mma-makeupacademy.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Musetap Studios",
+   "website": "https://www.musetapstudios.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "My retro Pop",
+   "website": "https://www.ebay.com/str/comicgamestoyscollectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Neon Culture",
+   "website": "https://www.shopneonculture.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "New World Collectables",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "OSOK Collectibles",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Otakumerica",
+   "website": "https://www.otakumerica.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Painted Dragon Studios LLC",
+   "website": "https://painteddragonstudios.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "PB&Jay Kollectibles",
+   "website": "https://www.pbandjaykollectibles.com",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Perry's Card",
+   "website": "https://perrys-cards.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "PescEffects",
+   "website": "http://www.pesceffects.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Phat Daddy's Comics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Pixel Gap Studios",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "PixelsGetStitches",
+   "website": "https://pixelsgetstitches.myshopify.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Pop's Comics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Pop Culture Comics&Toys",
+   "website": "http://buypopculture.com",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Potter's Alley Gifts",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Raines Trading Co",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Ranelynn Graphic LLC",
+   "website": "https://ranelynngraphics.wixsite.com/ranelynngraphics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Red Lava Toys",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Rigo Creations",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "RIW Hobbies and Games",
+   "website": "https://riwhobbies.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Robin's Nerd Supplies",
+   "website": "https://robinsnerdsupplies.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Roxie Riot's Trinket Trove",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Roxy Replicas",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Ryder Hobbies",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Serenity in Chains",
+   "website": "https://www.serenityinchains.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Skyhurst Studios LLC",
+   "website": "https://www.skyhurststudios.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Spaced Out Acres",
+   "website": "https://spacedoutacres.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Spooky Séance/Dubba Low",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Starz Puzzles, LLC",
+   "website": "https://www.starzpuzzles.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "State of Comics",
+   "website": "http://www.stateofcomics.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Striker Games",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Stylin Online",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Supernatural and Hermiones world",
+   "website": "https://www.not-topic.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Superstar Designs",
+   "website": "https://superstar-designs.myshopify.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Sweet Steam LLC",
+   "website": "https://sweetsteam.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Tanuki's Trading Post",
+   "website": "https://www.tanukistradingpost.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "TeeMinus24.com",
+   "website": "https://teeminus24.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Comic Collective",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Country Witch",
+   "website": "https://www.countrywitch.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Cross Nest Creations LLC",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Crystal Sisters Shop",
+   "website": "https://www.thecrystalsistersshop.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Foxy Hipster",
+   "website": "https://the-foxy-hipster.myshopify.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Geek Boutique",
+   "website": "https://thegeekboutique.co/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Geek Space",
+   "website": "https://thegeekspaceofficial.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "The Michigan Rocky Horror Preservation Society",
+   "website": "http://michiganrhps.org/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Timeless Anime",
+   "website": "https://timelessanimestore.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "TNT Authentics",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "TotesThirsty.com",
+   "website": "https://www.totesthirsty.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "ToyDump",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "ToynkToys",
+   "website": "https://www.toynk.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "True Honey Teas",
+   "website": "https://www.truehoneyteas.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Ultrasabers",
+   "website": "https://ultrasabers.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Under The Covers",
+   "website": "https://underthecovers.shop/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Undoubtedly MAD",
+   "website": "https://undoubtedlymad.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  },
+  {
+   "name": "Utopia Toys and Models",
+   "website": "https://utopiatoysandmodels.com/",
+   "events": [
+    {
+     "name": "Motor City Comic Con",
+     "year": 2026,
+     "city": "Novi",
+     "state": "MI",
+     "type": "convention"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "convention"
+  }
+ ]
+}

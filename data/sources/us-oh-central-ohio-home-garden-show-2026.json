@@ -1,0 +1,515 @@
+{
+ "source": "us-oh-central-ohio-home-garden-show-2026",
+ "title": "Central Ohio Home & Garden Show 2026 sponsors",
+ "publisher": "www.dispatchshows.com",
+ "landing_url": "https://www.dispatchshows.com/home-and-garden-show",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "60202f683a20a4bbc6d8f386e368b98702ae834dc596194cd2100c12c3b3426b",
+ "counts": {
+  "read": 34,
+  "kept": 33,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "Ohio Mulch",
+   "website": "https://ohiomulch.com",
+   "category_hint": "Presenting sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rosati",
+   "category_hint": "Supporting sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Rite Rug",
+   "category_hint": "Supporting sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Lowe's",
+   "category_hint": "Supporting sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "ABLE",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "AgPro",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "America250OH",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "BBB of Central Ohio",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Baths R Us",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Columbus Landscape Association",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Columbus Garage Floor Coating",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Columbus Hardscapes",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Columbus Trees",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Eco Plumbers",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Everdry",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Indoor Temp (Fire and Ice)",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "JDM Structures",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "JSB Home Solutions",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kitchen Solvers",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Light Up Columbus",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mid Ohio Generators",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "OH Golf Carts",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "REC Construction",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "RhinoShield",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "OSU Master Gardeners",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Scioto Valley",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Shift Exteriors",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Shelf Genie",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Simple Bath + Kitchen",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Snyders Unlimited",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Dispatch",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "TEGO",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "3G Concrete Coatings",
+   "category_hint": "Contributing sponsor",
+   "events": [
+    {
+     "name": "Central Ohio Home & Garden Show",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "sponsors",
+   "event_type": "consumer-expo"
+  }
+ ]
+}

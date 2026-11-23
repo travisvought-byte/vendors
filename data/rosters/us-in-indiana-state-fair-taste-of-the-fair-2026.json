@@ -1,0 +1,143 @@
+{
+ "event": {
+  "name": "Indiana State Fair - Taste of the Fair",
+  "year": 2026,
+  "city": "Indianapolis",
+  "state": "IN",
+  "type": "fair"
+ },
+ "roster_kind": "food-vendors",
+ "source_url": "https://www.indianastatefair.com/p/food--shopping1/taste-of-the-fair",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 1,
+ "vendors": [
+  {
+   "name": "Nitro Hog BBQ",
+   "category_hint": "BBQ"
+  },
+  {
+   "name": "McWaters Concessions",
+   "category_hint": "burgers, shake-ups"
+  },
+  {
+   "name": "Hook's Drugstore Museum",
+   "category_hint": "soda fountain"
+  },
+  {
+   "name": "American Dairy Association of Indiana Inc.",
+   "category_hint": "milkshakes"
+  },
+  {
+   "name": "GC Foods",
+   "category_hint": "desserts"
+  },
+  {
+   "name": "DG Concessions",
+   "category_hint": "pizza"
+  },
+  {
+   "name": "Urick Concessions",
+   "category_hint": "ice cream, fair food"
+  },
+  {
+   "name": "Smokehouse Saloon",
+   "category_hint": "smoked meats"
+  },
+  {
+   "name": "Charlie's Fair Foods",
+   "category_hint": "pizza"
+  },
+  {
+   "name": "R&W Concessions",
+   "category_hint": "funnel cakes, drinks, fries"
+  },
+  {
+   "name": "Indiana Pork Producers",
+   "category_hint": "pork"
+  },
+  {
+   "name": "Sun King Brewery",
+   "category_hint": "beer"
+  },
+  {
+   "name": "Fairlivin Concessions",
+   "category_hint": "fair food"
+  },
+  {
+   "name": "Orme Deep Fried Treats",
+   "category_hint": "deep-fried desserts"
+  },
+  {
+   "name": "Georgia's Kitchen",
+   "category_hint": "fair food"
+  },
+  {
+   "name": "The Cookie Jar",
+   "category_hint": "fried desserts"
+  },
+  {
+   "name": "The Cavity Factory",
+   "category_hint": "cinnamon rolls"
+  },
+  {
+   "name": "McGrotha Foods",
+   "category_hint": "desserts"
+  },
+  {
+   "name": "Cantina Louie",
+   "category_hint": "drinks"
+  },
+  {
+   "name": "Dr. Vegetable Inc.",
+   "category_hint": "fried pickles, shake-ups"
+  },
+  {
+   "name": "Stubborn Methods",
+   "category_hint": "drinks"
+  },
+  {
+   "name": "Swains Concessions",
+   "category_hint": "pizza"
+  },
+  {
+   "name": "Shake Up Cocktails",
+   "category_hint": "cocktails"
+  },
+  {
+   "name": "Colp's Concessions",
+   "category_hint": "slushies, snacks"
+  },
+  {
+   "name": "J&J A Taste of Home Catering",
+   "category_hint": "egg rolls"
+  },
+  {
+   "name": "Twisted Drinks and Food",
+   "category_hint": "drinks"
+  },
+  {
+   "name": "Gobble Gobble Food Truck",
+   "category_hint": "food truck"
+  },
+  {
+   "name": "Red Frazier Bison",
+   "category_hint": "bison"
+  },
+  {
+   "name": "RES Food and Drink",
+   "category_hint": "shakes"
+  },
+  {
+   "name": "Indiana Ribeye",
+   "category_hint": "drinks, food"
+  },
+  {
+   "name": "Black Leaf Vegan LLC",
+   "category_hint": "vegan food"
+  },
+  {
+   "name": "Freund Family Foods",
+   "category_hint": "fries"
+  }
+ ]
+}

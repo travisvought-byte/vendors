@@ -1,0 +1,62 @@
+{
+ "event": {
+  "name": "United We Shop",
+  "year": 2026,
+  "city": "Georgetown",
+  "state": "KY",
+  "type": "market"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://uknow.uky.edu/node/262176",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 2,
+ "vendors": [
+  {
+   "name": "Bora Bora Beauty",
+   "city": "Georgetown",
+   "state": "KY"
+  },
+  {
+   "name": "Cuff to Collar",
+   "city": "Richmond",
+   "state": "KY"
+  },
+  {
+   "name": "Fryers Fractal's Charcuterie Boards",
+   "city": "Georgetown",
+   "state": "KY",
+   "category_hint": "charcuterie boards"
+  },
+  {
+   "name": "Two Six Maysville Handmade Market",
+   "city": "Mount Sterling",
+   "state": "KY",
+   "category_hint": "handmade goods"
+  },
+  {
+   "name": "Kara Grace Designs",
+   "city": "Lexington",
+   "state": "KY"
+  },
+  {
+   "name": "Geek Treats",
+   "city": "Lexington",
+   "state": "KY"
+  },
+  {
+   "name": "Sew & Sew",
+   "city": "Georgetown",
+   "state": "KY"
+  },
+  {
+   "name": "Sparkle 4 Good",
+   "city": "Lexington",
+   "state": "KY"
+  },
+  {
+   "name": "Mossy Frog Oddities",
+   "city": "Georgetown",
+   "state": "KY"
+  }
+ ]
+}

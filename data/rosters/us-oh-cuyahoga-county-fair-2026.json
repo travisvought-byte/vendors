@@ -1,0 +1,99 @@
+{
+ "event": {
+  "name": "Cuyahoga County Fair",
+  "year": 2026,
+  "city": "Berea",
+  "state": "OH",
+  "type": "fair"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://grandstandsites.com/wlist.php?i=CCF8697172361872934124GS&f=true&iframe=true",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 1,
+ "vendors": [
+  {
+   "name": "Alta Equipment Company",
+   "category_hint": "DEVELON equipment dealer"
+  },
+  {
+   "name": "Colleens Candles and Gifts",
+   "category_hint": "candles, gifts, tumblers"
+  },
+  {
+   "name": "Grace Church",
+   "category_hint": "church outreach"
+  },
+  {
+   "name": "Momentum Refresh",
+   "category_hint": "accessible restroom provider"
+  },
+  {
+   "name": "Noteable Treasures",
+   "category_hint": "jewelry, motorcycle gear, hats, flags"
+  },
+  {
+   "name": "Now Pet Products",
+   "category_hint": "discount pet supplies"
+  },
+  {
+   "name": "WMM Custom Woodwork",
+   "category_hint": "wooden flags, signs, plaques"
+  },
+  {
+   "name": "3rd Generation Home Improvements",
+   "category_hint": "roofing, siding, windows"
+  },
+  {
+   "name": "Beth and Jeanne's Face Painting",
+   "category_hint": "face painting, crafts, jewelry"
+  },
+  {
+   "name": "Buffalo Bills Jerky and Saltwater Taffy",
+   "category_hint": "jerky, taffy"
+  },
+  {
+   "name": "CASA of Cuyahoga County",
+   "category_hint": "nonprofit, foster child advocates"
+  },
+  {
+   "name": "Clear Choice Flooring",
+   "category_hint": "flooring"
+  },
+  {
+   "name": "Complete Crazy",
+   "category_hint": "art prints, t-shirts, toys"
+  },
+  {
+   "name": "Cuyahoga County Democratic Party",
+   "category_hint": "political party information"
+  },
+  {
+   "name": "Different Branches LLC",
+   "category_hint": "jewelry, crystals, soaps"
+  },
+  {
+   "name": "Five Star Pickles and Sausages",
+   "category_hint": "pickles, cured meats, cheeses"
+  },
+  {
+   "name": "Joyce: Windows, Sunrooms & Baths",
+   "category_hint": "windows, sunrooms, baths"
+  },
+  {
+   "name": "Punk Princess Experience",
+   "category_hint": "hair styling experience"
+  },
+  {
+   "name": "St. Paul Street Evangelization",
+   "category_hint": "religious outreach"
+  },
+  {
+   "name": "Suburban West Right to Life",
+   "category_hint": "advocacy group"
+  },
+  {
+   "name": "The Restoration Guys",
+   "category_hint": "roofing, siding, windows"
+  }
+ ]
+}

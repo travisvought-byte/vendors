@@ -1,0 +1,714 @@
+{
+ "event": {
+  "name": "Equine Affaire Ohio",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "consumer-expo"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://equineaffaire.com/events/ohio/ohio-attend/ohio-trade-show/ohio-exhibitors/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 2,
+ "vendors": [
+  {
+   "name": "100X Equine"
+  },
+  {
+   "name": "ABI Equine"
+  },
+  {
+   "name": "Acupulse LLC"
+  },
+  {
+   "name": "Alfred State College"
+  },
+  {
+   "name": "Alpaca Creations"
+  },
+  {
+   "name": "Alpha Mare Art"
+  },
+  {
+   "name": "America Cryo Equine"
+  },
+  {
+   "name": "American Regent"
+  },
+  {
+   "name": "Americas Best Windows and Doors"
+  },
+  {
+   "name": "ArenaClear- Dust Control"
+  },
+  {
+   "name": "Ariana Sakaris Equestrian Development"
+  },
+  {
+   "name": "Asbury University"
+  },
+  {
+   "name": "Australian Saddle Company"
+  },
+  {
+   "name": "Back on Track USA"
+  },
+  {
+   "name": "Baths R Us/ Window City Pro"
+  },
+  {
+   "name": "BeltBling"
+  },
+  {
+   "name": "True West Horsemanship"
+  },
+  {
+   "name": "Bethany College"
+  },
+  {
+   "name": "Betsy Dale Hats"
+  },
+  {
+   "name": "Black Forest Treeless Saddles"
+  },
+  {
+   "name": "Blazing Bella Balsamic & Olive Oil"
+  },
+  {
+   "name": "Blue Frog Hoof Clay"
+  },
+  {
+   "name": "Bows by Lisa Luann"
+  },
+  {
+   "name": "Bra Lady- Zyia Active"
+  },
+  {
+   "name": "B's Metal Shoppe"
+  },
+  {
+   "name": "Buckeye Nutrition"
+  },
+  {
+   "name": "By Field & Flower Hat Co"
+  },
+  {
+   "name": "C. Jarvis Insurance Agency"
+  },
+  {
+   "name": "Cashmans Farm & Ranch Supply"
+  },
+  {
+   "name": "Cattle Cartel"
+  },
+  {
+   "name": "Cavallo Horse & Rider"
+  },
+  {
+   "name": "Certified Horsemanship Association"
+  },
+  {
+   "name": "Cheap & Chic Boutique"
+  },
+  {
+   "name": "Chocolate Moonshine Co"
+  },
+  {
+   "name": "Cierra Lauren Boutique"
+  },
+  {
+   "name": "Circle A Saddlery"
+  },
+  {
+   "name": "Circle L Saddle Company"
+  },
+  {
+   "name": "Classic Equine Equipment, Inc."
+  },
+  {
+   "name": "Cleary Building Corp"
+  },
+  {
+   "name": "Clix Therapy"
+  },
+  {
+   "name": "Cobratec Knives"
+  },
+  {
+   "name": "Cox Veterinary Laboratory, Inc."
+  },
+  {
+   "name": "Cumberland Valley Analytical Services"
+  },
+  {
+   "name": "Cutting Edge Knife USA"
+  },
+  {
+   "name": "D.C.S. Custom Tack"
+  },
+  {
+   "name": "DAC Vitamins & Mineral Supplement"
+  },
+  {
+   "name": "Deb Little Photography"
+  },
+  {
+   "name": "DesignCo"
+  },
+  {
+   "name": "Diller Equine"
+  },
+  {
+   "name": "Dimples Horse Treats"
+  },
+  {
+   "name": "Double B Wild Rags"
+  },
+  {
+   "name": "Double Dan Horsemanship"
+  },
+  {
+   "name": "DP Saddlery-SBB"
+  },
+  {
+   "name": "DP Saddlery Dealer- Comfort Fit Saddle Shop"
+  },
+  {
+   "name": "Equi-Analytical"
+  },
+  {
+   "name": "Equitack"
+  },
+  {
+   "name": "Ethos Possibility Center/ Centropix"
+  },
+  {
+   "name": "Expressions Leather"
+  },
+  {
+   "name": "F.K. Agronomics"
+  },
+  {
+   "name": "Fair Hill Saddlery"
+  },
+  {
+   "name": "Farley Saddlery and Service"
+  },
+  {
+   "name": "Farrier's Magic"
+  },
+  {
+   "name": "Finish Line Horse Products"
+  },
+  {
+   "name": "Finishline Fence"
+  },
+  {
+   "name": "Flack Farms Inc"
+  },
+  {
+   "name": "Foozy Fun Socks"
+  },
+  {
+   "name": "Freelance Design USA"
+  },
+  {
+   "name": "Gadgetly"
+  },
+  {
+   "name": "Gaia Gems"
+  },
+  {
+   "name": "GreenGuard Grazing Muzzle"
+  },
+  {
+   "name": "Gi Gi Enterprises"
+  },
+  {
+   "name": "Gibson Agri & Equine Insurance"
+  },
+  {
+   "name": "GGT Footing"
+  },
+  {
+   "name": "Glitzy Apparel"
+  },
+  {
+   "name": "Glowing Results"
+  },
+  {
+   "name": "GreenTree Bedding LLC"
+  },
+  {
+   "name": "Guaranteed Horse Products"
+  },
+  {
+   "name": "H.O.O.V.E.S"
+  },
+  {
+   "name": "Harrison Trailers"
+  },
+  {
+   "name": "Healing Point Animal Services"
+  },
+  {
+   "name": "Heck Of A Lope"
+  },
+  {
+   "name": "Hemp for Horses"
+  },
+  {
+   "name": "Heybox"
+  },
+  {
+   "name": "Henderson's Western Store"
+  },
+  {
+   "name": "HiDow International"
+  },
+  {
+   "name": "Hock Shield"
+  },
+  {
+   "name": "Holistic World 888"
+  },
+  {
+   "name": "HoofWand"
+  },
+  {
+   "name": "Horse Radio Network"
+  },
+  {
+   "name": "Horse Sense Solutions"
+  },
+  {
+   "name": "HorseHoodies"
+  },
+  {
+   "name": "Horseman's Gravity Latch"
+  },
+  {
+   "name": "HorseTech, Inc"
+  },
+  {
+   "name": "House of Savvy"
+  },
+  {
+   "name": "Human Touch"
+  },
+  {
+   "name": "Hunt Fronts"
+  },
+  {
+   "name": "Hydz"
+  },
+  {
+   "name": "ID- MyHorse"
+  },
+  {
+   "name": "I Speak To Animals"
+  },
+  {
+   "name": "Indigo Moon"
+  },
+  {
+   "name": "InfiniteAloe"
+  },
+  {
+   "name": "Insulated Gear"
+  },
+  {
+   "name": "Interscholastic Equestrian Association"
+  },
+  {
+   "name": "J&E Grill MFG"
+  },
+  {
+   "name": "Jacuzzi Bath Remodels- Bath Experts"
+  },
+  {
+   "name": "Jason & Bronwyn Irwin Horsemanship"
+  },
+  {
+   "name": "Jose Madrid Salsa"
+  },
+  {
+   "name": "Jug Equine Waterers"
+  },
+  {
+   "name": "Kawell USA"
+  },
+  {
+   "name": "Kelly Herd Jewelry"
+  },
+  {
+   "name": "Ken Davis & Sons, Inc"
+  },
+  {
+   "name": "Kencove Farm Fence Supplies"
+  },
+  {
+   "name": "Kentucky Getaways"
+  },
+  {
+   "name": "Kerlin Trailers"
+  },
+  {
+   "name": "KT Custom Barns"
+  },
+  {
+   "name": "Lances Trailer Sales"
+  },
+  {
+   "name": "La Mundial Boots- LM Boots"
+  },
+  {
+   "name": "LeafFilter Gutter Protection"
+  },
+  {
+   "name": "LeafHome Water Solutions"
+  },
+  {
+   "name": "Leather & Beyond and Toyland"
+  },
+  {
+   "name": "Legendary Mustang Sanctuary"
+  },
+  {
+   "name": "Life Data Labs, Inc"
+  },
+  {
+   "name": "Live for the Ride"
+  },
+  {
+   "name": "Logan Western Supply"
+  },
+  {
+   "name": "LRP Matting"
+  },
+  {
+   "name": "Lumberock Artisan"
+  },
+  {
+   "name": "Mandi Hinders Fine Art"
+  },
+  {
+   "name": "Mane-ly Long Hair"
+  },
+  {
+   "name": "Marmon Valley Farm"
+  },
+  {
+   "name": "Mark Enterprises, Inc"
+  },
+  {
+   "name": "Midway University"
+  },
+  {
+   "name": "Minky Girl"
+  },
+  {
+   "name": "Montero Native Art LLC"
+  },
+  {
+   "name": "Muddy Creek Rain Gear"
+  },
+  {
+   "name": "My Girlz Clothing Co"
+  },
+  {
+   "name": "My Stride Inc"
+  },
+  {
+   "name": "Native Buffalo Spirit"
+  },
+  {
+   "name": "Natural Mend"
+  },
+  {
+   "name": "Naturally Healthy Horse with Young Living"
+  },
+  {
+   "name": "NE Indiana Equine Massage"
+  },
+  {
+   "name": "Neighborly Tack"
+  },
+  {
+   "name": "Newt's Hat Company"
+  },
+  {
+   "name": "No Power No Problem"
+  },
+  {
+   "name": "NRS"
+  },
+  {
+   "name": "Ohio 4-Horse Program"
+  },
+  {
+   "name": "Ohio Equestrian Directory"
+  },
+  {
+   "name": "Ohio Horseman's Council"
+  },
+  {
+   "name": "Ohio State Swientist"
+  },
+  {
+   "name": "Ohio Travel Pavilion"
+  },
+  {
+   "name": "Online Equine Supplies"
+  },
+  {
+   "name": "Orange Slow Feeder"
+  },
+  {
+   "name": "Outback Survival Gear"
+  },
+  {
+   "name": "Painted Cowgirl Western Store"
+  },
+  {
+   "name": "Patio Enclosures"
+  },
+  {
+   "name": "Pet King Brands"
+  },
+  {
+   "name": "Poseidon Animal Health"
+  },
+  {
+   "name": "Practical Animal Wellness"
+  },
+  {
+   "name": "Pretty Hunter"
+  },
+  {
+   "name": "Pretty Little Tumblers"
+  },
+  {
+   "name": "Pro Earth Animal Health"
+  },
+  {
+   "name": "Purina Animal Nutrition"
+  },
+  {
+   "name": "Quick Coupler"
+  },
+  {
+   "name": "Quick Draw Tie Line"
+  },
+  {
+   "name": "Ragtrader Vintage"
+  },
+  {
+   "name": "Redmond Equine"
+  },
+  {
+   "name": "Refreshed"
+  },
+  {
+   "name": "Revival Animal Health"
+  },
+  {
+   "name": "RevRan Hats"
+  },
+  {
+   "name": "Rhinestone Lipgloss"
+  },
+  {
+   "name": "RideJoy"
+  },
+  {
+   "name": "Riders of a Certain Age"
+  },
+  {
+   "name": "Ridge Creek Tack"
+  },
+  {
+   "name": "Rock & Rail Western"
+  },
+  {
+   "name": "Rock'n J Farms"
+  },
+  {
+   "name": "Rocket Donkey"
+  },
+  {
+   "name": "Saratoga Stalls"
+  },
+  {
+   "name": "Semican"
+  },
+  {
+   "name": "Sassy Sisters"
+  },
+  {
+   "name": "Sentinel by Kent & Blue Seal"
+  },
+  {
+   "name": "Signum Equestrian USA"
+  },
+  {
+   "name": "SOURCE Micronutrients"
+  },
+  {
+   "name": "Soldier Solutions LLC"
+  },
+  {
+   "name": "Spalding Fly Predators"
+  },
+  {
+   "name": "Spring Tether sls"
+  },
+  {
+   "name": "Spur Creek Tack and Supply LLC"
+  },
+  {
+   "name": "SSN- Sound Science Nutrition LLC"
+  },
+  {
+   "name": "Stable Riding"
+  },
+  {
+   "name": "Stoll Steel Buildings LLC"
+  },
+  {
+   "name": "Stori Enterprises"
+  },
+  {
+   "name": "Stride Out Ranch N' Rodeo Shop"
+  },
+  {
+   "name": "Stuck On You- Permanent Jewelry"
+  },
+  {
+   "name": "Sullivan Supply Inc"
+  },
+  {
+   "name": "Summer Snow"
+  },
+  {
+   "name": "Summerdean Equine LLC"
+  },
+  {
+   "name": "Tangent Materials- Fencing/Stalls"
+  },
+  {
+   "name": "TDI Horse Feeds"
+  },
+  {
+   "name": "Tennessee Saddlery"
+  },
+  {
+   "name": "Teromed"
+  },
+  {
+   "name": "That's Invintage"
+  },
+  {
+   "name": "The Hale Horse, LLC"
+  },
+  {
+   "name": "The Healing Cowgirl"
+  },
+  {
+   "name": "The Masterson Method"
+  },
+  {
+   "name": "The Ohio State University ATI"
+  },
+  {
+   "name": "The Tacky Horse"
+  },
+  {
+   "name": "The United States Pony Clubs"
+  },
+  {
+   "name": "The Wild Horse Sanctuary"
+  },
+  {
+   "name": "Timmerman Farms LLC"
+  },
+  {
+   "name": "TNR Group"
+  },
+  {
+   "name": "Total Horse Method"
+  },
+  {
+   "name": "Totally Unique Enterprise"
+  },
+  {
+   "name": "Trail and Pleasure Riding Supplies"
+  },
+  {
+   "name": "Triple Crown Nutrition"
+  },
+  {
+   "name": "TruCryo USA"
+  },
+  {
+   "name": "Trust Think Products"
+  },
+  {
+   "name": "TW Wholesale"
+  },
+  {
+   "name": "Tyler Shupe Leather"
+  },
+  {
+   "name": "University of Findlay"
+  },
+  {
+   "name": "US Rider"
+  },
+  {
+   "name": "Valerie's Gallery"
+  },
+  {
+   "name": "Vanner and Velvet of Fox Hill"
+  },
+  {
+   "name": "Wagner Insurance Agency & Bluebird Meadow Llama Farm"
+  },
+  {
+   "name": "Wearhouse Sale"
+  },
+  {
+   "name": "Western Edge"
+  },
+  {
+   "name": "Western Life Today"
+  },
+  {
+   "name": "Whisker Biscuits Dog and Horse Treats"
+  },
+  {
+   "name": "Wild Pony Boutique"
+  },
+  {
+   "name": "Window Nation"
+  },
+  {
+   "name": "Win-Seek Fallen Pines Equestrian Center"
+  },
+  {
+   "name": "Wooden Sunflower"
+  },
+  {
+   "name": "Woods Trading Company"
+  },
+  {
+   "name": "Zainee Sports"
+  },
+  {
+   "name": "ZEHO Leather Works"
+  },
+  {
+   "name": "Zero Proof Horse Treats & Barn Dog Bites"
+  }
+ ]
+}

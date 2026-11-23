@@ -1,0 +1,5319 @@
+{
+ "source": "owner-ohio-cannabis-directory",
+ "title": "Ohio Cannabis Ecosystem Directory (organizations)",
+ "publisher": "Ohio Cannabis Ecosystem Directory (travisvought-byte/ohio-cannabis-directory)",
+ "landing_url": "https://github.com/travisvought-byte/ohio-cannabis-directory",
+ "evidence_level": "directory-verified",
+ "kept_rule": "Every business and nonprofit row except those flagged out of scope, individuals and political parties. OCHBS 2026 exhibitors keep the event; direct OCHBS contacts are marked trade-show-contact. Contact people, emails and phones are not read.",
+ "retrieved_on": null,
+ "read_from": "cache",
+ "sha256": "17c5e991949cc8e80825eb08a9a53f009ebca3bc4bc9ed89fd53f26b675e6360",
+ "counts": {
+  "read": 564,
+  "kept": 514,
+  "dropped": {
+   "out_of_scope": 48,
+   "not_a_business": 2
+  }
+ },
+ "vendors": [
+  {
+   "name": "Aprio",
+   "served_area": "Nationwide",
+   "website": "https://www.aprio.com/cannabis-accounting/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-6f5375e74696"
+  },
+  {
+   "name": "Armanino",
+   "served_area": "Multistate",
+   "website": "https://www.armanino.com/contact/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-8bc2e46472e9"
+  },
+  {
+   "name": "Baker Tilly",
+   "state": "OH",
+   "region": "Ohio offices in the Cleveland area and Columbus; U.S. cannabis practice",
+   "served_area": "Ohio offices in the Cleveland area and Columbus; U.S. cannabis practice, Ohio",
+   "website": "https://www.bakertilly.com/industries/cannabis",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-73962806aa32"
+  },
+  {
+   "name": "BeachFleischman — Cannabis Practice (formerly Indiva Advisors)",
+   "served_area": "Multistate",
+   "website": "https://www.indivaadvisors.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-d36b365de9d2"
+  },
+  {
+   "name": "BudsGroup",
+   "served_area": "Multistate",
+   "website": "https://budsgrp.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-ab696a79f76f"
+  },
+  {
+   "name": "Calyx CPA",
+   "served_area": "Multistate",
+   "website": "https://calyxcpa.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-5650468e3bca"
+  },
+  {
+   "name": "Canna Drust",
+   "served_area": "Nationwide",
+   "website": "https://www.cannadrust.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-ccd462913cc9"
+  },
+  {
+   "name": "Cannabis Accounting & Consulting Group d/b/a The Blunt Accountant™",
+   "served_area": "Multistate",
+   "website": "https://cacgroupllc.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-a0f16e94f344"
+  },
+  {
+   "name": "Cannabis CPA Tax",
+   "served_area": "Multistate",
+   "website": "https://cannabiscpa.tax/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-18739a0f8994"
+  },
+  {
+   "name": "CBIZ",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.cbiz.com/locations/cleveland-downtown-ohio",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-1d42dd421c92"
+  },
+  {
+   "name": "Citrin Cooperman",
+   "served_area": "Nationwide",
+   "website": "https://www.citrincooperman.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-ea825d478df5"
+  },
+  {
+   "name": "CohnReznick",
+   "served_area": "Multistate",
+   "website": "https://www.cohnreznick.com/people/michael-harlow",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-68285b679e46"
+  },
+  {
+   "name": "Crowe",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.crowe.com/industries/cannabis",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-efa4a8df2421"
+  },
+  {
+   "name": "GAC Advisory",
+   "served_area": "Nationwide",
+   "website": "https://www.gacadvisoryllc.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-c030dbdd0981"
+  },
+  {
+   "name": "GreenGrowth CPAs",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://greengrowthcpas.com/industries/cannabis/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-9ed4875dc1d5"
+  },
+  {
+   "name": "Growise CPAs",
+   "served_area": "Nationwide",
+   "website": "https://www.growisecpas.com/cannabis-tax-accounting-state-guide",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-da2a80d7f09d"
+  },
+  {
+   "name": "HBK Cannabis Solutions",
+   "state": "OH",
+   "region": "Ohio and multistate",
+   "served_area": "Ohio and multistate, Ohio",
+   "website": "https://hbkcpa.com/industries/cannabis/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-cc96c3d190d4"
+  },
+  {
+   "name": "InTrack CFO",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://intrackcfo.com",
+   "category_hint": "Accounting; Tax and CFO Advisory",
+   "source_category": "Accounting & Tax",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-337f14b85abe"
+  },
+  {
+   "name": "Leafy Accounting Group",
+   "served_area": "Nationwide",
+   "website": "https://leafyag.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-7086d1fee932"
+  },
+  {
+   "name": "LOUD CPA",
+   "served_area": "Multistate",
+   "website": "https://www.loudcpa.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-ce8459b144c7"
+  },
+  {
+   "name": "MGO",
+   "served_area": "Multistate",
+   "website": "https://www.mgocpa.com/people/sarah-mcguire/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-a750e32a1a1f"
+  },
+  {
+   "name": "MindfulCPAs",
+   "served_area": "Nationwide",
+   "website": "https://mindfulcpas.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-6c0ad9215737"
+  },
+  {
+   "name": "Mindtrix",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.mindtrixaccounting.com",
+   "category_hint": "Accounting; Tax and CFO Advisory",
+   "source_category": "Accounting & Tax",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-5e9b5a2704a6"
+  },
+  {
+   "name": "MY DOPE CPA",
+   "state": "OH",
+   "region": "Canton, Ohio; cannabis accounting",
+   "served_area": "Canton, Ohio; cannabis accounting, Ohio",
+   "website": "https://mydopecpa.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-16a604f63be9"
+  },
+  {
+   "name": "Pease Bell CPAs",
+   "served_area": "Nationwide",
+   "website": "https://www.peasebell.com/industry/cannabis",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-d8451edd6fb3"
+  },
+  {
+   "name": "Pipe Dream Financials",
+   "served_area": "Nationwide",
+   "website": "https://pipe-dream-financials.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-e8660c8fdabb"
+  },
+  {
+   "name": "The Canna CPAs",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://thecannacpas.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-4a9f91858514"
+  },
+  {
+   "name": "Verdant Strategies (formerly 420CPA)",
+   "served_area": "Nationwide",
+   "website": "https://verdantstrategies.com/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-ac4919b61068"
+  },
+  {
+   "name": "Withum",
+   "served_area": "Nationwide",
+   "website": "https://www.withum.com/our-people/steven-monacelli/",
+   "category_hint": "Accounting; Tax",
+   "source_category": "Accounting & Tax",
+   "source_record": "org-3a06b64e031f"
+  },
+  {
+   "name": "Advanced Flower Capital",
+   "served_area": "Nationwide",
+   "website": "https://www.afcbdc.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-c50b4831f060"
+  },
+  {
+   "name": "Aeropay",
+   "served_area": "Nationwide",
+   "website": "https://www.goaeropay.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-dc2a86e5ef89"
+  },
+  {
+   "name": "Alta Real Estate Fund",
+   "served_area": "Nationwide",
+   "website": "https://www.alta-fund.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-c13fe6d752cb"
+  },
+  {
+   "name": "Argent Institutional Trust Company",
+   "state": "OH",
+   "region": "4343 Easton Commons, Suite 120, Columbus, OH 43219",
+   "served_area": "4343 Easton Commons, Suite 120, Columbus, OH 43219, Ohio",
+   "website": "https://aitc.argentfinancial.com",
+   "category_hint": "Institutional Trust; Custody and Financial Services",
+   "source_category": "Banking & Financial Services",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-8652a50fb7c6"
+  },
+  {
+   "name": "Atomic Credit Union",
+   "state": "OH",
+   "region": "711 Beaver Creek Rd., Piketon, OH 45661 (address only; service coverage unconfirmed)",
+   "served_area": "711 Beaver Creek Rd., Piketon, OH 45661 (address only; service coverage unconfirmed), Ohio",
+   "website": "https://www.atomiccu.com",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-60c467ab6634"
+  },
+  {
+   "name": "Bankcard International Group",
+   "served_area": "Multistate",
+   "website": "https://bankcardinternationalgroup.com/industries-served/cannabis-payment-processing/",
+   "category_hint": "Banking & Financial Services; Payments / Merchant Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-6ad7a467953f"
+  },
+  {
+   "name": "CANNA-ATM",
+   "served_area": "Nationwide",
+   "website": "https://canna-atm.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-82830b7eeca7"
+  },
+  {
+   "name": "CanPay",
+   "served_area": "Nationwide",
+   "website": "https://www.canpaydebit.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-def97ffbd151"
+  },
+  {
+   "name": "Chicago Atlantic",
+   "served_area": "Multistate",
+   "website": "https://www.refi.reit/about-us/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-766e9c078cff"
+  },
+  {
+   "name": "Community Choice Credit Union",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.communitychoicecu.com/ohio-cannabis-business-services/",
+   "category_hint": "Banking & Financial Services; Credit Union",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-664350edc53d"
+  },
+  {
+   "name": "Dama Financial (LeafLink Financial Services)",
+   "served_area": "Multistate",
+   "website": "https://www.leaflink.com/banking",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-59b372097b38"
+  },
+  {
+   "name": "Dispo ATM",
+   "served_area": "Nationwide",
+   "website": "https://www.dispoatm.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-7eeb5665decf"
+  },
+  {
+   "name": "Element Federal Credit Union",
+   "state": "OH",
+   "region": "Ohio | West Virginia | Maryland | District of Columbia and additional markets",
+   "served_area": "Ohio | West Virginia | Maryland | District of Columbia and additional markets, Ohio",
+   "website": "https://www.elementfcu.org/almostcannawv/",
+   "category_hint": "Banking & Financial Services; Credit Union",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-24d0e2bda395"
+  },
+  {
+   "name": "Fincann",
+   "served_area": "Nationwide",
+   "website": "https://fincann.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-786e79f39a46"
+  },
+  {
+   "name": "Fort Yuma ATM",
+   "served_area": "Nationwide",
+   "website": "https://fortyumaatm.com/dispensary-atm/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-42e1996cbd8f"
+  },
+  {
+   "name": "FundCanna",
+   "served_area": "Nationwide",
+   "website": "https://fundcanna.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-e53c053a5970"
+  },
+  {
+   "name": "FundNow Capital",
+   "served_area": "Multistate",
+   "website": "https://www.fundnowcap.com/funding/cannabis",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-9e3d7601ef7a"
+  },
+  {
+   "name": "HSLC Banking & Financial Services",
+   "state": "OH",
+   "region": "116 East Franklin Street, Kenton, OH 43326 (address only; service coverage unconfirmed)",
+   "served_area": "116 East Franklin Street, Kenton, OH 43326 (address only; service coverage unconfirmed), Ohio",
+   "website": "https://www.hslc.bank",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-8ef8dba29f38"
+  },
+  {
+   "name": "Lazear Capital Partners",
+   "served_area": "Nationwide",
+   "website": "https://www.lazearcapital.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-20924604b09b"
+  },
+  {
+   "name": "Needham Bank",
+   "served_area": "Nationwide",
+   "website": "https://www.needhambank.com/business/cannabis-banking",
+   "category_hint": "Banking & Financial Services; Bank",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-ed0c0107656d"
+  },
+  {
+   "name": "Paybotic Financial",
+   "served_area": "Nationwide",
+   "website": "https://payboticfinancial.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-a9589fb802ab"
+  },
+  {
+   "name": "ReeFi Capital",
+   "served_area": "Nationwide",
+   "website": "https://www.reefi.com/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-e3c3a5e8a05d"
+  },
+  {
+   "name": "Safe Harbor Financial",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://shfinancial.org/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-b1c9597ee969"
+  },
+  {
+   "name": "SALT",
+   "served_area": "Nationwide",
+   "website": "https://www.saltmoney.com/",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-dcad275fd858"
+  },
+  {
+   "name": "Shield Compliance",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.shieldbanking.com/company-news/shield-compliance-named-preferred-partner-by-the-community-bankers-association-of-ohio",
+   "category_hint": "Banking & Financial Services; Regulatory Compliance",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-0f09d67b057c"
+  },
+  {
+   "name": "Solvent",
+   "served_area": "Nationwide",
+   "website": "https://www.solvent.io/cannabis-banking/ohio",
+   "category_hint": "Banking & Financial Services; Payments / Merchant Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-b1fa2893922c"
+  },
+  {
+   "name": "Spendr",
+   "served_area": "Nationwide",
+   "website": "https://www.spendr.com/faq",
+   "category_hint": "Banking & Financial Services",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-6fa17f19ae5f"
+  },
+  {
+   "name": "Upwise Capital",
+   "served_area": "Nationwide",
+   "website": "https://upwisecapital.com/cannabis-loans/ohio-cannabis-loan/",
+   "category_hint": "Banking & Financial Services; Lending / Financing",
+   "source_category": "Banking & Financial Services",
+   "source_record": "org-65199f65fc19"
+  },
+  {
+   "name": "Wright-Patt Credit Union",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.wpcu.coop/business/mrb-banking",
+   "category_hint": "Banking & Financial Services; Credit Union",
+   "source_category": "Banking & Financial Services",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-a5f1518ea942"
+  },
+  {
+   "name": "AirMD",
+   "served_area": "Nationwide",
+   "website": "https://airmd.com/areas-served/ohio/",
+   "category_hint": "Indoor Air Quality; Mold / Microbial Assessment; Industrial Hygiene; Environmental Monitoring",
+   "source_category": "Consulting",
+   "source_record": "org-2ee67e89bfc3"
+  },
+  {
+   "name": "Allay Consulting",
+   "served_area": "Nationwide",
+   "website": "https://allayconsulting.com/contact/",
+   "category_hint": "Consulting; Regulatory Compliance; EHS / OSHA / EPA",
+   "source_category": "Consulting",
+   "source_record": "org-0f2a3316e1ca"
+  },
+  {
+   "name": "Ananda Strategy",
+   "state": "OH",
+   "region": "Ohio and multi-market",
+   "served_area": "Ohio and multi-market, Ohio",
+   "website": "https://www.anandastrategy.com/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-4e0a234d5a17"
+  },
+  {
+   "name": "Arcview Consulting",
+   "served_area": "Multistate",
+   "website": "https://arcviewconsulting.com/",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-fb4281f33792"
+  },
+  {
+   "name": "BioServ",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.bioservusa.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Waste Disposal; Hazardous Waste",
+   "source_category": "Consulting",
+   "source_record": "org-3ca802b13f07"
+  },
+  {
+   "name": "Budding Operations",
+   "served_area": "Multistate",
+   "website": "https://www.buddingoperations.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-26e2764e69db"
+  },
+  {
+   "name": "Cann Strategy",
+   "served_area": "Nationwide",
+   "website": "https://www.cannstrategy.com/contact-cannabis-consultants",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-aa319ba23b37"
+  },
+  {
+   "name": "Canna Advisors",
+   "served_area": "Nationwide",
+   "website": "https://thinkcanna.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Staffing / Recruiting",
+   "source_category": "Consulting",
+   "source_record": "org-8dc6b52f8303"
+  },
+  {
+   "name": "Canna Business Services",
+   "served_area": "Nationwide",
+   "website": "https://cannabusinessservices.com/contact-us/",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-5889059a5b21"
+  },
+  {
+   "name": "Canna Consultants",
+   "served_area": "Nationwide",
+   "website": "https://cannaconsultants.com/contact-us/",
+   "category_hint": "Consulting; Regulatory Compliance; Permitting; Staffing / Recruiting; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-f92f65234640"
+  },
+  {
+   "name": "Cannabis Cash Consultants",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://cannabiscashconsultants.com/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-ce2294a18546"
+  },
+  {
+   "name": "Cannabis Global Consultants",
+   "served_area": "Multistate",
+   "website": "https://www.cannabisglobalconsultants.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Staffing / Recruiting; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-7279edf8e5a9"
+  },
+  {
+   "name": "CannaPath Consulting",
+   "served_area": "Multistate",
+   "website": "https://cannapathconsulting.com/",
+   "category_hint": "Consulting; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-84931b1ed90c"
+  },
+  {
+   "name": "CannDelta",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://canndelta.com/us/ohio/",
+   "category_hint": "Consulting; Regulatory Compliance; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-17c50e57cc1b"
+  },
+  {
+   "name": "Certified Environmental, Inc.",
+   "state": "OH",
+   "region": "Mansfield, Ohio",
+   "served_area": "Mansfield, Ohio, Ohio",
+   "website": "https://certifiedenvironmental.net/",
+   "category_hint": "Indoor Air Quality; Mold / Microbial Assessment; Industrial Hygiene; EHS / OSHA / EPA; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-51b563354dfe"
+  },
+  {
+   "name": "Collateral Base",
+   "served_area": "Nationwide",
+   "website": "https://collateralbase.com/",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-0f7867fc9599"
+  },
+  {
+   "name": "DMD Environmental Consultants",
+   "state": "OH",
+   "region": "Toledo, Ohio and Northwest Ohio",
+   "served_area": "Toledo, Ohio and Northwest Ohio, Ohio",
+   "website": "https://www.dmdenv.com/industrial_hygiene",
+   "category_hint": "Indoor Air Quality; Mold / Microbial Assessment; Industrial Hygiene; Environmental Monitoring",
+   "source_category": "Consulting",
+   "source_record": "org-e8d5c45ceb00"
+  },
+  {
+   "name": "Forte Ops",
+   "served_area": "Multistate",
+   "website": "https://forteops.com/",
+   "category_hint": "Consulting; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-f2f67bcff4d0"
+  },
+  {
+   "name": "Galleon Consulting Group",
+   "served_area": "Nationwide",
+   "website": "https://www.galleonconsultinggroup.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Construction / Build-Out",
+   "source_category": "Consulting",
+   "source_record": "org-b0cff79c9c3c"
+  },
+  {
+   "name": "Green Leaf Business Solutions",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://greenleafbizsolutions.com/contact/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "source_record": "org-33dfdc741930"
+  },
+  {
+   "name": "Hazardous Waste Experts",
+   "served_area": "Nationwide",
+   "website": "https://www.hazardouswasteexperts.com/",
+   "category_hint": "Consulting; Waste Disposal; Hazardous Waste; Recycling",
+   "source_category": "Consulting",
+   "source_record": "org-15471c25990f"
+  },
+  {
+   "name": "Higher Yields Cannabis Consulting",
+   "served_area": "Multistate",
+   "website": "https://higheryieldsconsulting.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Construction / Build-Out; Real Estate; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-206d8dacd4ff"
+  },
+  {
+   "name": "Kiwa ASI",
+   "served_area": "Nationwide",
+   "website": "https://www.asifood.com/",
+   "category_hint": "Consulting; Regulatory Compliance; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-d3b216df4713"
+  },
+  {
+   "name": "Kush Design Studio",
+   "served_area": "Multistate",
+   "website": "https://www.kushdesignstudio.com/contact",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-db4eb290f5aa"
+  },
+  {
+   "name": "LKP Impact Consulting",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://lkpimpact.com/contact-us/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-12a85c92b445"
+  },
+  {
+   "name": "Our Community Harvest",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "category_hint": "Cannabis education; consulting",
+   "source_category": "Consulting",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7db1a956303e"
+  },
+  {
+   "name": "Pisgah Peaks Ventures",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://pisgahpeaksventures.com/contact/",
+   "category_hint": "Advisory; Cannabis Marketing; Website and Messaging; Outbound and Lead Generation; CRM and Sales Systems; Content and Campaigns; Fractional Marketing Execution",
+   "source_category": "Consulting",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-cde7d825c692"
+  },
+  {
+   "name": "Point Seven Group (Point7)",
+   "served_area": "Nationwide",
+   "website": "https://pointsevengroup.com/cannabis-operators/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "source_record": "org-57054a89bfa5"
+  },
+  {
+   "name": "PsyCann Advisors",
+   "served_area": "Nationwide",
+   "website": "https://psycannadvisors.com/contact/",
+   "category_hint": "Consulting; Regulatory Compliance; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-40ef03775c60"
+  },
+  {
+   "name": "Quantum 9",
+   "served_area": "Nationwide",
+   "website": "https://quantum9.net/contact/",
+   "category_hint": "Consulting",
+   "source_category": "Consulting",
+   "source_record": "org-65e1ff906dc7"
+  },
+  {
+   "name": "Safex, Inc.",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.safex.us/our-services/indoor-air-quality/",
+   "category_hint": "Indoor Air Quality; Mold / Microbial Assessment; Industrial Hygiene; EHS / OSHA / EPA; Environmental Monitoring; Employee Training",
+   "source_category": "Consulting",
+   "source_record": "org-3a0ae70ab2e0"
+  },
+  {
+   "name": "The Cannabis Business Advisors",
+   "served_area": "Nationwide",
+   "website": "https://thecannabisbusinessadvisors.com/ohio-cannabis-policy-update/",
+   "category_hint": "Consulting; Regulatory Compliance",
+   "source_category": "Consulting",
+   "source_record": "org-fff80f344301"
+  },
+  {
+   "name": "Triumvirate Environmental",
+   "served_area": "Nationwide",
+   "website": "https://www.triumvirate.com/",
+   "category_hint": "Consulting; Permitting; Waste Disposal; Hazardous Waste; EHS / OSHA / EPA; Respiratory Safety; Recycling; Employee Training; Environmental Monitoring",
+   "source_category": "Consulting",
+   "source_record": "org-ac54496dd570"
+  },
+  {
+   "name": "WeCann",
+   "served_area": "Nationwide",
+   "website": "https://www.wecannca.com/services/general-consulting/",
+   "category_hint": "Consulting; Regulatory Compliance; Real Estate; Staffing / Recruiting",
+   "source_category": "Consulting",
+   "source_record": "org-6d479bcfb2d1"
+  },
+  {
+   "name": "A Dose of Hope",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://adoseofhopebrand.com/where-to-buy/",
+   "category_hint": "Cannabis Operator; Processing; Edibles / Infused Products",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-51ddc559a90e"
+  },
+  {
+   "name": "ACA Dispensary",
+   "state": "OH",
+   "region": "Hubbard, Ohio",
+   "served_area": "Hubbard, Ohio, Ohio",
+   "website": "https://acadispensary.com/ohio/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-9e14a3bfda99"
+  },
+  {
+   "name": "Amplify",
+   "state": "OH",
+   "region": "Central Ohio",
+   "served_area": "Central Ohio, Ohio",
+   "website": "https://amplifydispensary.com/contact-us/",
+   "category_hint": "Cannabis Operator; Processing; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-68ca5164ba06"
+  },
+  {
+   "name": "Ancient Roots",
+   "state": "OH",
+   "region": "Southwest Ohio / Cincinnati",
+   "served_area": "Southwest Ohio / Cincinnati, Ohio",
+   "website": "https://www.ancientrootsohio.com/contact/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-cadae1a17de3"
+  },
+  {
+   "name": "Ascend Cannabis",
+   "state": "OH",
+   "region": "Six Ohio dispensaries: Carroll, Cincinnati, Coshocton, Englewood, Piqua and Sandusky",
+   "served_area": "Six Ohio dispensaries: Carroll, Cincinnati, Coshocton, Englewood, Piqua and Sandusky, Ohio",
+   "website": "https://letsascend.com/locations/ohio/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-9878f97747e7"
+  },
+  {
+   "name": "Ascension BioMedical LLC",
+   "state": "OH",
+   "region": "Oberlin, Ohio",
+   "served_area": "Oberlin, Ohio, Ohio",
+   "website": "https://ascensioncann.com/",
+   "category_hint": "Cannabis Operator; Cultivation",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-31d30a079044"
+  },
+  {
+   "name": "Ayr Wellness Ohio",
+   "state": "OH",
+   "region": "8 Ohio dispensaries: Akron, Dayton, Goshen, Lewis Center, Niles, Parma Heights, Streetsboro, Woodmere",
+   "served_area": "8 Ohio dispensaries: Akron, Dayton, Goshen, Lewis Center, Niles, Parma Heights, Streetsboro, Woodmere, Ohio",
+   "website": "https://ayrwellness.com/retail",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-7b1ec7846617"
+  },
+  {
+   "name": "Backroad Wellness",
+   "state": "OH",
+   "region": "New Boston, Cambridge and Lima, Ohio (Southern and Eastern Ohio)",
+   "served_area": "New Boston, Cambridge and Lima, Ohio (Southern and Eastern Ohio), Ohio",
+   "website": "https://www.backroadwellness.com/FAQs/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-cd73b383c43b"
+  },
+  {
+   "name": "Beneleaves",
+   "state": "OH",
+   "region": "Central Ohio",
+   "served_area": "Central Ohio, Ohio",
+   "website": "https://www.beneleaves.com/ourteam",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-7831babce707"
+  },
+  {
+   "name": "Beyond Hello",
+   "state": "OH",
+   "region": "7 Ohio dispensaries: Cincinnati (x2), Mansfield, Parma, Oxford, Toledo and Warren",
+   "served_area": "7 Ohio dispensaries: Cincinnati (x2), Mansfield, Parma, Oxford, Toledo and Warren, Ohio",
+   "website": "https://jushico.com/retail/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-c081c812feb2"
+  },
+  {
+   "name": "Black Buddha Cannabis",
+   "served_area": "Multistate",
+   "website": "https://blackbuddhacannabis.co/contact",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-405c00e28938"
+  },
+  {
+   "name": "Bliss Ohio",
+   "state": "OH",
+   "region": "Kent, Ohio",
+   "served_area": "Kent, Ohio, Ohio",
+   "website": "https://blissohio.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-f84af119e259"
+  },
+  {
+   "name": "Bloom Cannabis (formerly Bloom Medicinals)",
+   "state": "OH",
+   "region": "8 Ohio dispensaries (7 active, 1 provisional): Akron, Athens, Columbus (x2), Massillon, Painesville, Seven Mile",
+   "served_area": "8 Ohio dispensaries (7 active, 1 provisional): Akron, Athens, Columbus (x2), Massillon, Painesville, Seven Mile, Ohio",
+   "website": "https://bloommarijuana.com/oh/contact",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-922caf289dc8"
+  },
+  {
+   "name": "Buckeye Relief",
+   "state": "OH",
+   "region": "Northeast Ohio / Cleveland-Akron",
+   "served_area": "Northeast Ohio / Cleveland-Akron, Ohio",
+   "website": "https://buckeyerelief.com/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-24ac5cb3557c"
+  },
+  {
+   "name": "CannAscend Ohio Processing",
+   "state": "OH",
+   "region": "Ohio — active dual-use processor; 100 Davids Drive, Wilmington (CCP000060-00)",
+   "served_area": "Ohio — active dual-use processor; 100 Davids Drive, Wilmington (CCP000060-00), Ohio",
+   "website": "https://www.cannabistcompany.com/contact-us",
+   "category_hint": "Cannabis Operator; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-0f796f94c7f1"
+  },
+  {
+   "name": "Canopy Growth / Acreage",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.acreageholdings.com/contact-us/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-64ee2d0eff77"
+  },
+  {
+   "name": "Certified Cultivators",
+   "state": "OH",
+   "region": "Central Ohio; Dayton / Miami Valley",
+   "served_area": "Central Ohio; Dayton / Miami Valley, Ohio",
+   "website": "https://www.certifiedcultivators.com/contact",
+   "category_hint": "Cannabis Operator; Cultivation",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-1d44aa49bf35"
+  },
+  {
+   "name": "Cielo Jardin / Treehaus / CJ's (Heylo)",
+   "state": "OH",
+   "region": "Euclid, Ohio cultivation; Parma, Ohio CJ's dispensary pre-opening; Heylo/Treehaus roots in Washington",
+   "served_area": "Euclid, Ohio cultivation; Parma, Ohio CJ's dispensary pre-opening; Heylo/Treehaus roots in Washington, Ohio",
+   "website": "https://www.heylocannabis.com/contact",
+   "category_hint": "Cannabis Operator; Cultivation; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-471d2f40325e"
+  },
+  {
+   "name": "Consume Cannabis (PTS Grows)",
+   "state": "OH",
+   "region": "Alliance, Ashtabula, Cincinnati and Oxford, Ohio; also Illinois and Arizona",
+   "served_area": "Alliance, Ashtabula, Cincinnati and Oxford, Ohio; also Illinois and Arizona, Ohio",
+   "website": "https://consumecannabis.com/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-2adb331ca783"
+  },
+  {
+   "name": "Cresco Labs / Sunnyside",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://investors.crescolabs.com/news/news-details/2026/Cresco-Labs-Reports-First-Quarter-2026-Financial-Results-Advances-Multiple-Growth-Initiatives/default.aspx",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-667af67557f3"
+  },
+  {
+   "name": "Culture Cannabis Club",
+   "state": "OH",
+   "region": "Akron, Ohio — current first-party Culture storefront",
+   "served_area": "Akron, Ohio — current first-party Culture storefront, Ohio",
+   "website": "https://culturecannabisclub.com/location/akron-oh/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-550cc193e4d0"
+  },
+  {
+   "name": "Curaleaf Ohio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://oh.curaleaf.com/dispensary/ohio/curaleaf-newark",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-6bb8b2a3ca4e"
+  },
+  {
+   "name": "Dialed In Gummies",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://dialedingummies.com/contact/",
+   "category_hint": "Cannabis Operator; Edibles / Infused Products",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-0dba2c8a737d"
+  },
+  {
+   "name": "Elevated Growth",
+   "state": "OH",
+   "region": "Columbus, Ohio",
+   "served_area": "Columbus, Ohio, Ohio",
+   "website": "https://www.elevated-growth.com/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-27e668beecb1"
+  },
+  {
+   "name": "Ethos Cannabis / Meigs County Grown",
+   "state": "OH",
+   "region": "Lebanon and New Lexington retail; Langsville cultivation, Ohio",
+   "served_area": "Lebanon and New Lexington retail; Langsville cultivation, Ohio, Ohio",
+   "website": "https://ethoscannabis.com/contact/",
+   "category_hint": "Cannabis Operator; Cultivation; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-3a4a21b3faf4"
+  },
+  {
+   "name": "Farkas Farms",
+   "state": "OH",
+   "region": "Grafton / Lorain County, Northeast Ohio",
+   "served_area": "Grafton / Lorain County, Northeast Ohio, Ohio",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-9ee4b284a472"
+  },
+  {
+   "name": "FarmaceuticalRx",
+   "state": "OH",
+   "region": "East Liverpool, Cuyahoga Falls and Elyria, Ohio, plus additional announced locations",
+   "served_area": "East Liverpool, Cuyahoga Falls and Elyria, Ohio, plus additional announced locations, Ohio",
+   "website": "https://farmaceuticalrx.com/contact/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-90725b1d60a7"
+  },
+  {
+   "name": "Feel State",
+   "state": "OH",
+   "region": "Urbana and Lewis Center, Ohio; also operates in Missouri",
+   "served_area": "Urbana and Lewis Center, Ohio; also operates in Missouri, Ohio",
+   "website": "https://feelstate.com/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-02393016e488"
+  },
+  {
+   "name": "Firelands Scientific",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.firelandsscientific.com/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-403a8f6287f1"
+  },
+  {
+   "name": "Galenas LLC",
+   "state": "OH",
+   "region": "Akron, Ohio",
+   "served_area": "Akron, Ohio, Ohio",
+   "website": "https://galenas.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-bd430c7e91b0"
+  },
+  {
+   "name": "Green Leaf Therapy",
+   "state": "OH",
+   "region": "Struthers/Youngstown-area, Ohio (93 S. Bridge St.)",
+   "served_area": "Struthers/Youngstown-area, Ohio (93 S. Bridge St.), Ohio",
+   "website": "https://greenleaftherapy.org/pages/store-information",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-783986a56f1d"
+  },
+  {
+   "name": "Green Releaf Dispensary",
+   "state": "OH",
+   "region": "Dayton and Cincinnati, Ohio",
+   "served_area": "Dayton and Cincinnati, Ohio, Ohio",
+   "website": "https://greenreleafdispensary.com/contact-us/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-0fe664576c8d"
+  },
+  {
+   "name": "Green Thumb Industries (RISE / RYTHM)",
+   "state": "OH",
+   "region": "Ohio: six current first-party RISE storefronts (Cleveland x2, Lakewood, Lorain, Toledo and Whitehall), plus active Middletown legal license; Toledo cultivation and processing",
+   "served_area": "Ohio: six current first-party RISE storefronts (Cleveland x2, Lakewood, Lorain, Toledo and Whitehall), plus active Middletown legal license; Toledo cultivation and processing, Ohio",
+   "website": "https://risecannabis.com/dispensaries/ohio/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-364a9eed8729"
+  },
+  {
+   "name": "Greenlight Dispensary",
+   "state": "OH",
+   "region": "Columbus, Ironton, Marengo, Marietta, South Point and Wintersville, Ohio",
+   "served_area": "Columbus, Ironton, Marengo, Marietta, South Point and Wintersville, Ohio, Ohio",
+   "website": "https://ohio.greenlightdispensary.com/locations/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-40726ffc20a0"
+  },
+  {
+   "name": "Grow Ohio / Butterfly Effect",
+   "state": "OH",
+   "region": "Southeast Ohio",
+   "served_area": "Southeast Ohio, Ohio",
+   "website": "https://growoh.com/",
+   "category_hint": "Cannabis Operator; Cultivation",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-cfc630983d08"
+  },
+  {
+   "name": "Guaranteed Dispensary",
+   "state": "OH",
+   "region": "Dayton / Miami Valley",
+   "served_area": "Dayton / Miami Valley, Ohio",
+   "website": "https://guaranteeddispensary.com/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-73fe6ae295b7"
+  },
+  {
+   "name": "Hundred Percent Labs",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.hundredpercentlabs.com/contact-us/",
+   "category_hint": "Cannabis Operator; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-86d0f1c54920"
+  },
+  {
+   "name": "INSA",
+   "state": "OH",
+   "region": "Willoughby Hills operating; Dayton provisional license",
+   "served_area": "Willoughby Hills operating; Dayton provisional license, Ohio",
+   "website": "https://insa.com/oh/contact-insa/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-afa309caf39c"
+  },
+  {
+   "name": "Italian Herbs",
+   "state": "OH",
+   "region": "Ashtabula and Geneva-on-the-Lake, Ohio",
+   "served_area": "Ashtabula and Geneva-on-the-Lake, Ohio, Ohio",
+   "website": "https://italianherbsdispensary.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-55ddf9f58f12"
+  },
+  {
+   "name": "King City Gardens",
+   "state": "OH",
+   "region": "Cincinnati, Ohio (cultivation, processing and 3 dispensaries)",
+   "served_area": "Cincinnati, Ohio (cultivation, processing and 3 dispensaries), Ohio",
+   "website": "https://kingcitygardens.com/",
+   "category_hint": "Cannabis Operator; Cultivation; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-34013988f2ee"
+  },
+  {
+   "name": "Klutch Cannabis",
+   "state": "OH",
+   "region": "Columbus, Canton and Lorain, Ohio, plus Akron-area roots; Grandview / 1305 Holly Ave, Columbus — opened September 11, 2026",
+   "served_area": "Columbus, Canton and Lorain, Ohio, plus Akron-area roots; Grandview / 1305 Holly Ave, Columbus — opened September 11, 2026, Ohio",
+   "website": "https://www.klutchcannabis.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-d1d519732a19"
+  },
+  {
+   "name": "Leaf Relief",
+   "state": "OH",
+   "region": "Youngstown and Reynoldsburg, Ohio; Austintown pre-opening",
+   "served_area": "Youngstown and Reynoldsburg, Ohio; Austintown pre-opening, Ohio",
+   "website": "https://leafreliefohio.com/contact-us",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-2eb414488b5a"
+  },
+  {
+   "name": "Lighthouse Sciences",
+   "state": "OH",
+   "region": "Eastlake, Ohio",
+   "served_area": "Eastlake, Ohio, Ohio",
+   "website": "https://lighthousesci.com/",
+   "category_hint": "Cannabis Operator; Processing; Extraction",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-fee14b6a9c90"
+  },
+  {
+   "name": "Locals Cannabis Dispensary",
+   "state": "OH",
+   "region": "Columbus and Cincinnati, Ohio",
+   "served_area": "Columbus and Cincinnati, Ohio, Ohio",
+   "website": "https://localscannabis.com/contact/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-63bd45e3d30d"
+  },
+  {
+   "name": "Main Street Cannabis Co.",
+   "state": "OH",
+   "region": "Columbus, Ohio",
+   "served_area": "Columbus, Ohio, Ohio",
+   "website": "https://mainstreetcannabis.co/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-cbec823aceb6"
+  },
+  {
+   "name": "Mavuno of Ohio",
+   "state": "OH",
+   "region": "Cleveland and Athens, Ohio; South Euclid coming soon",
+   "served_area": "Cleveland and Athens, Ohio; South Euclid coming soon, Ohio",
+   "website": "https://mavunoofoh.com/contact-us/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-9ee377e930fd"
+  },
+  {
+   "name": "MissGrass",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://missgrass.com",
+   "category_hint": "Cannabis Brand and Consumer Products",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-0a9c87eb5a40"
+  },
+  {
+   "name": "Mother’s Earth Fine Cannabis",
+   "state": "OH",
+   "region": "Columbus, Ohio",
+   "served_area": "Columbus, Ohio, Ohio",
+   "website": "https://shopmotherearths.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-1347773f0174"
+  },
+  {
+   "name": "Nar Cannabis",
+   "state": "OH",
+   "region": "Delaware and Columbus, Ohio",
+   "served_area": "Delaware and Columbus, Ohio, Ohio",
+   "website": "https://www.narreserve.com/contact-us/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-f3d5255d5bc7"
+  },
+  {
+   "name": "Nectar Ohio",
+   "state": "OH",
+   "region": "Bowling Green, Cincinnati (x3), Euclid and Harrison, Ohio",
+   "served_area": "Bowling Green, Cincinnati (x3), Euclid and Harrison, Ohio, Ohio",
+   "website": "https://nectarohio.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-5557bb333b04"
+  },
+  {
+   "name": "Nirvana Center Dispensaries",
+   "state": "OH",
+   "region": "Elyria, Ohio (Northeast Ohio)",
+   "served_area": "Elyria, Ohio (Northeast Ohio), Ohio",
+   "website": "https://ohio.nirvanacannabis.com/contact/",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-a821a61acb08"
+  },
+  {
+   "name": "Northwoods Cannabis",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://northwoodscultivation.com/contact",
+   "category_hint": "Cannabis Operator; Cultivation; Processing; Wholesale",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-6cae66a61594"
+  },
+  {
+   "name": "Off The Charts Dayton",
+   "state": "OH",
+   "region": "Dayton, Ohio",
+   "served_area": "Dayton, Ohio, Ohio",
+   "website": "https://otcdispo.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-17949ca7057c"
+  },
+  {
+   "name": "Ohio Cannabis Company",
+   "state": "OH",
+   "region": "Canton, Columbus, Dublin, Piqua and Upper Sandusky/Harpster; Canal Winchester coming soon",
+   "served_area": "Canton, Columbus, Dublin, Piqua and Upper Sandusky/Harpster; Canal Winchester coming soon, Ohio",
+   "website": "https://occdispensary.com/locations/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-d480f46274ac"
+  },
+  {
+   "name": "Ohio Clean Leaf",
+   "state": "OH",
+   "region": "Dayton, Ohio",
+   "served_area": "Dayton, Ohio, Ohio",
+   "website": "https://ohiocleanleaf.com/",
+   "category_hint": "Cannabis Operator; Cultivation",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-7e1ab15e4a71"
+  },
+  {
+   "name": "Ohio Green Systems",
+   "state": "OH",
+   "region": "Garfield Heights, Ohio",
+   "served_area": "Garfield Heights, Ohio, Ohio",
+   "website": "https://ohiogreensystems.com/about/",
+   "category_hint": "Cannabis Operator; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-e49263f057bc"
+  },
+  {
+   "name": "PharmaCann / Verilife",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://verilifeoh.com/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-aefe1b952bc0"
+  },
+  {
+   "name": "Pure Ohio Wellness",
+   "state": "OH",
+   "region": "Central Ohio; Dayton / Miami Valley",
+   "served_area": "Central Ohio; Dayton / Miami Valley, Ohio",
+   "website": "https://www.pureohiowellness.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-73dbb4d51092"
+  },
+  {
+   "name": "Purpose Leaf / hōn Cannabis",
+   "state": "OH",
+   "region": "Enon, Ohio / Dayton–Miami Valley",
+   "served_area": "Enon, Ohio / Dayton–Miami Valley, Ohio",
+   "website": "https://www.honcannabis.com/contact/",
+   "category_hint": "Cannabis Operator; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-2b099217b822"
+  },
+  {
+   "name": "Queen City Cannabis",
+   "state": "OH",
+   "region": "Norwood and Harrison, Ohio (Cincinnati metro)",
+   "served_area": "Norwood and Harrison, Ohio (Cincinnati metro), Ohio",
+   "website": "https://www.queenccanna.com/locations",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-ae7e208afc98"
+  },
+  {
+   "name": "Randy's",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://randys.com",
+   "category_hint": "Cannabis Accessories and Consumer Products",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-80f8c07ddd91"
+  },
+  {
+   "name": "Ratio Cannabis",
+   "state": "OH",
+   "region": "New Philadelphia, Ohio — current first-party storefront; Columbus legal license not first-party storefront-confirmed",
+   "served_area": "New Philadelphia, Ohio — current first-party storefront; Columbus legal license not first-party storefront-confirmed, Ohio",
+   "website": "https://www.ratio-cannabis.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-9bdb83da8d0c"
+  },
+  {
+   "name": "Riviera Creek",
+   "state": "OH",
+   "region": "Youngstown, Ohio",
+   "served_area": "Youngstown, Ohio, Ohio",
+   "website": "https://rivieracreek.com/contact/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-b434c8bd9f4c"
+  },
+  {
+   "name": "ROAM Dispensary",
+   "state": "OH",
+   "region": "Seven Hills, Ohio",
+   "served_area": "Seven Hills, Ohio, Ohio",
+   "website": "https://www.roamdispensary.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-31a9d040cd43"
+  },
+  {
+   "name": "Rove",
+   "state": "OH",
+   "region": "Multi-state; active Ohio market participation",
+   "served_area": "Multi-state; active Ohio market participation, Ohio",
+   "website": "https://rovebrand.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-9770d5914483"
+  },
+  {
+   "name": "Shangri-La Dispensaries",
+   "state": "OH",
+   "region": "Monroe, Cleveland, Cincinnati, Delphos and Amelia, Ohio",
+   "served_area": "Monroe, Cleveland, Cincinnati, Delphos and Amelia, Ohio, Ohio",
+   "website": "https://shangriladispensaries.com/contact-us/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-807016fdf315"
+  },
+  {
+   "name": "Southern Ohio Botanicals",
+   "state": "OH",
+   "region": "Portsmouth / Southern Ohio",
+   "served_area": "Portsmouth / Southern Ohio, Ohio",
+   "website": "https://southernohiobotanicals.com/about/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-a05f9afca5ef"
+  },
+  {
+   "name": "Standard Wellness / The Forest",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.standardwellness.com/contact/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-fa59d5f74ed0"
+  },
+  {
+   "name": "Story Cannabis",
+   "state": "OH",
+   "region": "8 Ohio dispensaries: Cincinnati (x2), Cleveland (x2), Columbus, Coshocton, Dublin, Massillon",
+   "served_area": "8 Ohio dispensaries: Cincinnati (x2), Cleveland (x2), Columbus, Coshocton, Dublin, Massillon, Ohio",
+   "website": "https://storycannabis.com/contact-us/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-2f4e4abf2576"
+  },
+  {
+   "name": "Subsidio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.subsidiocannabis.com/",
+   "category_hint": "Patient-focused Cannabis Brand; Edibles / Infused Products; Cannabis Chocolate",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-139c66e61558"
+  },
+  {
+   "name": "Supergood",
+   "state": "OH",
+   "region": "Ravenna, Ohio",
+   "served_area": "Ravenna, Ohio, Ohio",
+   "website": "https://supergoodstore.com/store/ravenna/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-acbcf491323e"
+  },
+  {
+   "name": "Terrasana Cannabis Co.",
+   "state": "OH",
+   "region": "7 current Ohio dispensaries; Columbus cultivation and processing; planned Akron, Canton and Zanesville dispensaries",
+   "served_area": "7 current Ohio dispensaries; Columbus cultivation and processing; planned Akron, Canton and Zanesville dispensaries, Ohio",
+   "website": "https://terrasanacannabisco.com/about/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-4d7897d29e7e"
+  },
+  {
+   "name": "The Botanist (Acreage Holdings)",
+   "state": "OH",
+   "region": "Akron, Canton, Cleveland (x2), Columbus, Solon and Wickliffe, Ohio (7 locations)",
+   "served_area": "Akron, Canton, Cleveland (x2), Columbus, Solon and Wickliffe, Ohio (7 locations), Ohio",
+   "website": "https://shopbotanist.com/locations/columbus-dispensary/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-7022b334ede8"
+  },
+  {
+   "name": "The Cannabist Company / Columbia Care Ohio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.cannabistcompany.com/contact-us",
+   "category_hint": "Cannabis Operator; Processing",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-342301c01b6b"
+  },
+  {
+   "name": "The Garden Club Dispensary",
+   "state": "OH",
+   "region": "Springdale dispensary; Columbus cultivation and processing",
+   "served_area": "Springdale dispensary; Columbus cultivation and processing, Ohio",
+   "website": "https://gardenclubdispensaries.com/ohio/dispensary-near-pleasant-run-farm/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-a4be8fc0719f"
+  },
+  {
+   "name": "The Mothership Cannabis Dispensary",
+   "state": "OH",
+   "region": "Streetsboro, Ohio",
+   "served_area": "Streetsboro, Ohio, Ohio",
+   "website": "https://mothershipdispensary.com/contact/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-4c8da4a965ec"
+  },
+  {
+   "name": "Theory Wellness",
+   "state": "OH",
+   "region": "Sherwood and Columbus, Ohio",
+   "served_area": "Sherwood and Columbus, Ohio, Ohio",
+   "website": "https://theorywellness.org/ohio-dispensary/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-1587d77e43a5"
+  },
+  {
+   "name": "Therapy Cannabis",
+   "state": "OH",
+   "region": "Cleveland and Cincinnati, Ohio",
+   "served_area": "Cleveland and Cincinnati, Ohio, Ohio",
+   "website": "https://www.therapycannabis.com/contact/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-541abb14f3bc"
+  },
+  {
+   "name": "Thrive Wellness",
+   "state": "OH",
+   "region": "Tiffin, Ohio; Columbus/Reynoldsburg at 2025 Brice Rd, Reynoldsburg, OH 43068",
+   "served_area": "Tiffin, Ohio; Columbus/Reynoldsburg at 2025 Brice Rd, Reynoldsburg, OH 43068, Ohio",
+   "website": "https://ir.marimedinc.com/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-c50a78614d86"
+  },
+  {
+   "name": "Trulieve Ohio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.trulieveoh.com/shop/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-171927b374cf"
+  },
+  {
+   "name": "UpLift",
+   "state": "OH",
+   "region": "Milford and Mt. Orab, Ohio",
+   "served_area": "Milford and Mt. Orab, Ohio, Ohio",
+   "website": "https://www.upliftohio.com/",
+   "category_hint": "Cannabis Operator",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-e0b1fa95a12d"
+  },
+  {
+   "name": "Verano / Zen Leaf",
+   "state": "OH",
+   "region": "6 Ohio dispensaries: Antwerp, Bowling Green, Canton, Cincinnati, Riverside/Dayton, Newark",
+   "served_area": "6 Ohio dispensaries: Antwerp, Bowling Green, Canton, Cincinnati, Riverside/Dayton, Newark, Ohio",
+   "website": "https://investors.verano.com/news-releases/news-release-details/verano-announces-fourth-quarter-and-full-year-2025-financial",
+   "category_hint": "Cannabis Operator; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-2412bd73869d"
+  },
+  {
+   "name": "Vext Science / Appalachian Pharm / Herbal Wellness Center / The Hive",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://vextscience.com/",
+   "category_hint": "Cannabis Operator; Cultivation; Processing; Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-c987375d90fe"
+  },
+  {
+   "name": "Woodward Fine Cannabis (formerly Pollen)",
+   "state": "OH",
+   "region": "Delaware, Ohio",
+   "served_area": "Delaware, Ohio, Ohio",
+   "website": "https://woodwardcannabis.com/locations/woodward-delaware/",
+   "category_hint": "Dispensary / Retail",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "source_record": "org-79984c5926e3"
+  },
+  {
+   "name": "Cincinnati, Columbus and Cleveland Medical Marijuana Meetups",
+   "state": "OH",
+   "region": "Cincinnati / Columbus / Cleveland",
+   "served_area": "Cincinnati / Columbus / Cleveland, Ohio",
+   "website": "https://www.meetup.com/cincinnati-medical-marijuana-meetup/",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-1b5fd89992f5"
+  },
+  {
+   "name": "Cleveland Cannabis and Music Expo",
+   "state": "OH",
+   "region": "Cleveland / Northeast Ohio",
+   "served_area": "Cleveland / Northeast Ohio, Ohio",
+   "website": "https://linktr.ee/clevelandcannabisandmusic",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-091b191caaaa"
+  },
+  {
+   "name": "Highly Satisfied Stoners Food Expo",
+   "state": "OH",
+   "region": "Cleveland / Northeast Ohio",
+   "served_area": "Cleveland / Northeast Ohio, Ohio",
+   "website": "https://www.eventbrite.com/o/the-session-216-44623008733",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-be3a86788b46"
+  },
+  {
+   "name": "IgniteIt",
+   "state": "OH",
+   "region": "Cincinnati / Ohio Valley; multi-market",
+   "served_area": "Cincinnati / Ohio Valley; multi-market, Ohio",
+   "website": "https://www.igniteit.com/contact/",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-f9dece454b02"
+  },
+  {
+   "name": "MJ Unpacked",
+   "state": "OH",
+   "region": "Kansas City, Missouri; Ohio industry engagement: OCHBS 2026 direct-contact evidence",
+   "served_area": "Kansas City, Missouri; Ohio industry engagement: OCHBS 2026 direct-contact evidence, Ohio",
+   "website": "https://mjunpacked.com",
+   "category_hint": "Cannabis Events and Business Networking",
+   "source_category": "Events & Expos",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-35f5d72740cc"
+  },
+  {
+   "name": "Ohio Cannabis Expo",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.ohiocannabisexpo.com/",
+   "category_hint": "Cannabis trade shows; exhibitor, speaker, and sponsor opportunities; industry networking",
+   "source_category": "Events & Expos",
+   "source_record": "org-ea14a4ededa6"
+  },
+  {
+   "name": "Ohio Cannabis Health & Business Summit",
+   "state": "OH",
+   "region": "Columbus / Central Ohio",
+   "served_area": "Columbus / Central Ohio, Ohio",
+   "website": "https://ochbs.com/",
+   "category_hint": "Events / Expos; Cannabis Business Conference; Education; Exhibitors; Sponsorships; Industry Networking; Policy",
+   "source_category": "Events & Expos",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-84327294cf18"
+  },
+  {
+   "name": "Ohio Valley 4/20 Cannabis Festival and Ohio Valley Cannabis Cup",
+   "state": "OH",
+   "region": "Cadiz / Jacobsburg / Eastern Ohio",
+   "served_area": "Cadiz / Jacobsburg / Eastern Ohio, Ohio",
+   "website": "https://www.facebook.com/groups/1177728024082676/",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-23b94eafc801"
+  },
+  {
+   "name": "Stargazer Cannabis Festival",
+   "state": "OH",
+   "region": "Waverly / Southern Ohio",
+   "served_area": "Waverly / Southern Ohio, Ohio",
+   "website": "https://www.stargazerfest.com/",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-0479f2850035"
+  },
+  {
+   "name": "The 420 Olympics",
+   "state": "OH",
+   "region": "Cleveland / Northeast Ohio",
+   "served_area": "Cleveland / Northeast Ohio, Ohio",
+   "website": "https://www.eventbrite.com/e/the-3rd-annual-420-olympics-tickets-1983394873458",
+   "category_hint": "Events / Expos",
+   "source_category": "Events & Expos",
+   "source_record": "org-d96da8ebac94"
+  },
+  {
+   "name": "The Ohio Classic / The Classic Events",
+   "state": "OH",
+   "region": "Kettering / Dayton region; multi-market Classic series",
+   "served_area": "Kettering / Dayton region; multi-market Classic series, Ohio",
+   "website": "https://theclassicevents.com/",
+   "category_hint": "Events / Expos; Cannabis Networking; Golf Event; Sponsorships; Brand Activations; Fundraising; Brain Tumor Research",
+   "source_category": "Events & Expos",
+   "source_record": "org-9f0eac39576f"
+  },
+  {
+   "name": "Women's Cannabis & Wellness Expo",
+   "state": "OH",
+   "region": "West Chester / Greater Cincinnati",
+   "served_area": "West Chester / Greater Cincinnati, Ohio",
+   "website": "https://medicateoh.com/events/",
+   "category_hint": "Events / Expos; Women's Health; Cannabis Wellness; Patient Education; Licensed Vendors; Speakers; Sponsorships",
+   "source_category": "Events & Expos",
+   "source_record": "org-36b5cb011fb3"
+  },
+  {
+   "name": "420 SwitchBlade",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.420switchblade.com",
+   "category_hint": "Cannabis Accessories",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-5ad9d905fae3"
+  },
+  {
+   "name": "Clean Remedies",
+   "state": "OH",
+   "region": "Northeast Ohio / Cleveland-Akron",
+   "served_area": "Northeast Ohio / Cleveland-Akron, Ohio",
+   "website": "https://cleanremedies.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; CBD",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-28107c7fe3a4"
+  },
+  {
+   "name": "Cornbread Hemp",
+   "state": "OH",
+   "region": "Kentucky-based / Ohio retail availability documented",
+   "served_area": "Kentucky-based / Ohio retail availability documented, Ohio",
+   "website": "https://www.cornbreadhemp.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; CBD; Dispensary / Retail",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-9a763fe48014"
+  },
+  {
+   "name": "Cycling Frog / North Fork Distribution",
+   "served_area": "Nationwide",
+   "website": "https://cyclingfrog.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; THC Beverages; Gummies; Wholesale; Direct-to-Consumer; Ohio Sales",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-a8e21c973f96"
+  },
+  {
+   "name": "Dyspensr",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://dyspensr.com",
+   "category_hint": "Wholesale Smoking Accessories and Retail Supply",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-c57033abadbe"
+  },
+  {
+   "name": "Fifty West Brewing Company / Sunflower Seltzers",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://drinksunflower.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; THC Beverages; Manufacturing; Retail Distribution; Lab Results",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-fef0a7bb2f40"
+  },
+  {
+   "name": "G Pen / Grenco Science",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://gpen.com",
+   "category_hint": "Vape Hardware and Consumer Accessories",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-5cbe778a5271"
+  },
+  {
+   "name": "Mojo's Smoke Shop (formerly The Hemp House / Wholesale Hemp LLC)",
+   "state": "OH",
+   "region": "Portsmouth and Wheelersburg, Ohio",
+   "served_area": "Portsmouth and Wheelersburg, Ohio, Ohio",
+   "website": "https://mojossmokeshop.com/",
+   "category_hint": "Hemp / CBD; Dispensary / Retail",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-20250325b35f"
+  },
+  {
+   "name": "Motive CBD",
+   "state": "OH",
+   "region": "Columbus, Ohio (hemp grown in Centerburg, OH)",
+   "served_area": "Columbus, Ohio (hemp grown in Centerburg, OH), Ohio",
+   "website": "https://trymotivewellness.com/pages/contact-us",
+   "category_hint": "Hemp / CBD; CBD",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-b48e16de9fcf"
+  },
+  {
+   "name": "Nexus Agriscience",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://nexusagriscience.com",
+   "category_hint": "Cannabis and Hemp Genetics; Ingredients and Research",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-4272e7927699"
+  },
+  {
+   "name": "Pure Genesis",
+   "state": "OH",
+   "region": "New Jersey (not an Ohio licensee); Ohio event connection: retained OCHBS speaker-source record",
+   "served_area": "New Jersey (not an Ohio licensee); Ohio event connection: retained OCHBS speaker-source record, Ohio",
+   "website": "https://puregenesis.us/",
+   "category_hint": "Hemp / CBD",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-f3b97807ae41"
+  },
+  {
+   "name": "Sarene Craft Beer Distributors — Ohio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.sarenecraft.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; Beverage Distribution; Wholesale; Ohio Statewide Service",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-c6c7ab956ad5"
+  },
+  {
+   "name": "Saucy Seltzer / Saucy Brew Works",
+   "state": "OH",
+   "region": "Cleveland / Columbus / Ohio",
+   "served_area": "Cleveland / Columbus / Ohio, Ohio",
+   "website": "https://vibesbysaucy.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; THC Beverages; CBD; CBG; CBN; Wholesale; Retail Partnerships",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-7e1c31ddf363"
+  },
+  {
+   "name": "Titan Logistics Group LLC / TLGDistro / 420 Craft Beverages",
+   "state": "OH",
+   "region": "Cleveland / Ohio / multi-state",
+   "served_area": "Cleveland / Ohio / multi-state, Ohio",
+   "website": "https://www.tlgdistro.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; Beverage Distribution; Wholesale; Retail Logistics; Compliance; Brand Portfolio",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-1f499dcfc56c"
+  },
+  {
+   "name": "Urban Artifact / Coastalo (Grayscale Brewing LLC)",
+   "state": "OH",
+   "region": "Cincinnati / Ohio — sales currently protected by federal preliminary injunction",
+   "served_area": "Cincinnati / Ohio — sales currently protected by federal preliminary injunction, Ohio",
+   "website": "https://www.coastalo.com/",
+   "category_hint": "Hemp / CBD; Hemp-derived THC; THC Soda; Beverage Manufacturing; Ohio Hemp Litigation",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-8863e9b8ffe1"
+  },
+  {
+   "name": "AlphaRoot",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://alpharoot.com/cannabis-insurance/ohio/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-5174fb5f4865"
+  },
+  {
+   "name": "Amwins Program Underwriters",
+   "served_area": "Nationwide",
+   "website": "https://www.amwins.com/products/cannabis",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-f1126161a4ac"
+  },
+  {
+   "name": "Berkley",
+   "served_area": "Nationwide",
+   "website": "https://www.berkley.com/business-insurance/cannabis",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-c61e7b6f6d19"
+  },
+  {
+   "name": "CannabisInsurance.com / 420Insurance.com — Kulchin Ross Insurance Services",
+   "served_area": "Nationwide",
+   "website": "https://cannabisinsurance.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-5589cd092de8"
+  },
+  {
+   "name": "Cannaspace Insurance Group",
+   "served_area": "Nationwide",
+   "website": "https://cannaspaceinsurancegroup.com/pages/contact-us",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-f9fbd6240a18"
+  },
+  {
+   "name": "Cannasure Insurance Services (One80 Intermediaries)",
+   "served_area": "Nationwide",
+   "website": "https://www.one80.com/programs/cannabis/cannasure/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-ed855a2c302a"
+  },
+  {
+   "name": "CannGen Insurance Services",
+   "served_area": "Nationwide",
+   "website": "https://www.canngenins.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-b28150502634"
+  },
+  {
+   "name": "CIS Insurance Services, LLC (The Cannabis Insurance Company)",
+   "served_area": "Nationwide",
+   "website": "https://www.thecannabisinsurancecompany.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-27266ffaa5f7"
+  },
+  {
+   "name": "Contractors Choice Agency — Cannabis Insurance",
+   "served_area": "Nationwide",
+   "website": "https://eandsinsurance.com/services/cannabis-business-insurance",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-48bc962a2145"
+  },
+  {
+   "name": "Cover Cannabis (brand of Inszone Insurance Services, Inc.)",
+   "served_area": "Nationwide",
+   "website": "https://covercannabis.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-1384f3688cb8"
+  },
+  {
+   "name": "HUB International",
+   "served_area": "Multistate",
+   "website": "https://www.hubinternational.com/en-CA/industries/cannabis-insurance/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-d86de7bab0cc"
+  },
+  {
+   "name": "iCann Insure",
+   "state": "OH",
+   "region": "Ohio and other legal-cannabis states",
+   "served_area": "Ohio and other legal-cannabis states, Ohio",
+   "website": "https://www.icanninsure.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-1cbd067de90c"
+  },
+  {
+   "name": "Insureon",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.insureon.com/cannabis-business-insurance/ohio",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-6f378d0b5792"
+  },
+  {
+   "name": "McGowan Program Administrators",
+   "served_area": "Nationwide",
+   "website": "https://www.mcgowanprograms.com/products/cannabis-insurance/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-14a064b915f3"
+  },
+  {
+   "name": "Millers Insurance Group",
+   "served_area": "Multistate",
+   "website": "https://millersinsurancegroup.com",
+   "category_hint": "Insurance and Risk Management",
+   "source_category": "Insurance",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7155fdc4e396"
+  },
+  {
+   "name": "Payne & Brown Insurance Agency",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://paynebrown.com/business-insurance/specialized-business-insurance/marijuana-insurance/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-4c67457feb96"
+  },
+  {
+   "name": "ProSure Group",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.prosuregroup.com/ohio-marijuana-surety-bonds",
+   "category_hint": "Insurance; Surety Bonds",
+   "source_category": "Insurance",
+   "source_record": "org-516e00934b80"
+  },
+  {
+   "name": "QuadScore",
+   "served_area": "Nationwide",
+   "website": "https://quadscore.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-ce090dd6efa5"
+  },
+  {
+   "name": "SafeHerb",
+   "served_area": "Nationwide",
+   "website": "https://safeherb.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-4d61d91d6bff"
+  },
+  {
+   "name": "Spire Insurance Solutions",
+   "served_area": "Nationwide",
+   "website": "https://www.spireamerica.com/cannabis-insurance/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-0b73ca0a2058"
+  },
+  {
+   "name": "Starwind Specialty Insurance Services",
+   "served_area": "Nationwide",
+   "website": "https://www.starwindins.com/cannabis",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-adfa95ff2c1f"
+  },
+  {
+   "name": "Strive Insurance Group",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://striveins.com/blog/cannabis-general-liability-insurance-ohio/",
+   "category_hint": "Insurance; General Liability; Surety Bonds",
+   "source_category": "Insurance",
+   "source_record": "org-bb0314e21158"
+  },
+  {
+   "name": "Truepath Insurance",
+   "served_area": "Nationwide",
+   "website": "https://www.trytruepath.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-f339dbd4fde7"
+  },
+  {
+   "name": "Verde Insurance",
+   "served_area": "Nationwide",
+   "website": "https://verdeins.com/",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-f28a4972c6a5"
+  },
+  {
+   "name": "World Insurance Associates",
+   "served_area": "Nationwide",
+   "website": "https://www.worldinsurance.com/product/cannabis-insurance",
+   "category_hint": "Insurance",
+   "source_category": "Insurance",
+   "source_record": "org-976f3a0347b4"
+  },
+  {
+   "name": "'68 Partners LLC",
+   "served_area": "Multistate",
+   "website": "https://68partners.com/",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-9df4306f4be4"
+  },
+  {
+   "name": "Ainslie Consulting",
+   "served_area": "Multistate",
+   "website": "https://www.ainslie.us/services",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-20c268171121"
+  },
+  {
+   "name": "Benesch, Friedlander, Coplan & Aronoff LLP",
+   "served_area": "Nationwide",
+   "website": "https://www.beneschlaw.com/resources/issue-2-passes-and-recreational-marijuana-is-on-the-horizon-for-ohio-what-is-next-for-the-buckeye-state.html",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-209ab06e5fe7"
+  },
+  {
+   "name": "Bricker Graydon — cannabis practice",
+   "state": "OH",
+   "region": "Central Ohio",
+   "served_area": "Central Ohio, Ohio",
+   "website": "https://www.brickergraydon.com/team/j-stephen-smith",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-dea403955b20"
+  },
+  {
+   "name": "Cannaspire",
+   "served_area": "Multistate",
+   "website": "https://cannaspire.com/",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-ce7e40ed878d"
+  },
+  {
+   "name": "Catalyst BC",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://catalyst-bc.com/ohio-cannabis-consulting/",
+   "category_hint": "Legal; Licensing; Regulatory Compliance; HVAC / Climate Control; Dehumidification",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-bc5cee9459df"
+  },
+  {
+   "name": "Dentons",
+   "served_area": "Multistate",
+   "website": "https://www.dentons.com/en/malina-dumas",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-1531d6b2c339"
+  },
+  {
+   "name": "Dickinson Wright PLLC",
+   "served_area": "Nationwide",
+   "website": "https://www.dickinson-wright.com/our-people/lloyd-pierre-louis",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-b4b02a5e6161"
+  },
+  {
+   "name": "Foley Hoag LLP",
+   "served_area": "Multistate",
+   "website": "https://foleyhoag.com/people/mcqueeny-michael/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-4adb7d744c55"
+  },
+  {
+   "name": "Frantz Ward LLP",
+   "served_area": "Nationwide",
+   "website": "https://www.frantzward.com/practices/cannabis/",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-a165a0f11715"
+  },
+  {
+   "name": "Ice Miller LLP",
+   "served_area": "Nationwide",
+   "website": "https://www.icemiller.com/cannabis",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-91ee171bdaeb"
+  },
+  {
+   "name": "ICS Consulting Service",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.icsconsultingservice.com/ohio-cannabis-compliance-audits-facility-launch-services-ics-consulting",
+   "category_hint": "Legal; Licensing; Regulatory Compliance",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-7ca4a132ada7"
+  },
+  {
+   "name": "Kegler Brown Hill + Ritter",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.keglerbrown.com/cannabis",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-9b673ee01ed9"
+  },
+  {
+   "name": "Mansour Gavin LPA",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://mansourgavin.com/practice-area/corporate-and-business-services/marijuana-law-and-policy/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-f01dfabbc20d"
+  },
+  {
+   "name": "Omnus Law",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://omnuslaw.com/attorneys/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-ff8ae7820be0"
+  },
+  {
+   "name": "Porter Wright Morris & Arthur LLP",
+   "served_area": "Nationwide",
+   "website": "https://www.porterwright.com/cannabis/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-06824bd6c74e"
+  },
+  {
+   "name": "Reminger Co., LPA",
+   "state": "OH",
+   "region": "Ohio and regional",
+   "served_area": "Ohio and regional, Ohio",
+   "website": "https://www.reminger.com/report-5293",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-03e26cc03f84"
+  },
+  {
+   "name": "Seeley, Savidge, Ebert & Gourash Co., LPA (SSEG)",
+   "served_area": "Nationwide",
+   "website": "https://sseg-law.com/practice-groups/regulated-products/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-c07b717074e3"
+  },
+  {
+   "name": "Sick & Co.",
+   "state": "OH",
+   "region": "Ohio and multiple U.S. markets",
+   "served_area": "Ohio and multiple U.S. markets, Ohio",
+   "website": "https://sickandco.com/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-109a93176b6c"
+  },
+  {
+   "name": "StreamLine Cannabis Consulting",
+   "state": "OH",
+   "region": "Ohio-based; Ohio, Pennsylvania, Maryland and additional markets",
+   "served_area": "Ohio-based; Ohio, Pennsylvania, Maryland and additional markets, Ohio",
+   "website": "https://streamlinecannabisconsulting.godaddysites.com/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-875f0233c47d"
+  },
+  {
+   "name": "Tucker Ellis LLP",
+   "state": "OH",
+   "region": "Ohio and additional regulated markets",
+   "served_area": "Ohio and additional regulated markets, Ohio",
+   "website": "https://www.tuckerellis.com/services/cannabis/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-baace2c570b4"
+  },
+  {
+   "name": "Vorys, Sater, Seymour and Pease LLP",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.vorys.com/industry-cannabis",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-bae125036d67"
+  },
+  {
+   "name": "WH Burkley (formerly Walter Haverfield LLP)",
+   "state": "OH",
+   "region": "Ohio (Cleveland, Mayfield, Columbus); also Pittsburgh PA and Wheeling WV",
+   "served_area": "Ohio (Cleveland, Mayfield, Columbus); also Pittsburgh PA and Wheeling WV, Ohio",
+   "website": "https://www.walterhav.com/service/cannabis-law/",
+   "category_hint": "Legal; Licensing",
+   "source_category": "Legal & Licensing",
+   "source_record": "org-69fd86123b43"
+  },
+  {
+   "name": "5W Public Relations",
+   "served_area": "Nationwide",
+   "website": "https://www.5wpr.com/contactus/",
+   "category_hint": "Marketing / Media; PR / Communications",
+   "source_category": "Marketing & Media",
+   "source_record": "org-ad0cac1b9e7a"
+  },
+  {
+   "name": "Advance Ohio",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.advance-ohio.com/contact/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-b819d31c47d6"
+  },
+  {
+   "name": "Agensea",
+   "served_area": "Nationwide",
+   "website": "https://agensea.co/cannabis-branding-marketing-creative-agency/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-0fc313d6c680"
+  },
+  {
+   "name": "Bud Authority",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://budauthority.com/contact-us",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-66aea0e7b5a4"
+  },
+  {
+   "name": "Cannabis Business Times",
+   "served_area": "Nationwide",
+   "website": "https://www.cannabisbusinesstimes.com/home/document/15704343/cannabis-business-times-2026-cannabis-business-times-media-kit",
+   "category_hint": "Marketing / Media; Advertising; Content / Social Media; Media / Publication",
+   "source_category": "Marketing & Media",
+   "source_record": "org-7987f7d7552c"
+  },
+  {
+   "name": "Cannabis Creative Group",
+   "served_area": "Nationwide",
+   "website": "https://cannabiscreative.com/services/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-67ba18bcf3f7"
+  },
+  {
+   "name": "Cannabis Websites & SEO",
+   "served_area": "Multistate",
+   "website": "https://cannabis-websites.com/cannabis-seo-strategy-ohio/",
+   "category_hint": "Marketing / Media; SEO / Search",
+   "source_category": "Marketing & Media",
+   "source_record": "org-b3c9c0bc44a0"
+  },
+  {
+   "name": "Cannabiz Marketing Solutions / DopeSEO",
+   "served_area": "Nationwide",
+   "website": "https://dopeseo.com/contact/",
+   "category_hint": "Marketing / Media; SEO / Search",
+   "source_category": "Marketing & Media",
+   "source_record": "org-91c77257c699"
+  },
+  {
+   "name": "CannaContent",
+   "state": "OH",
+   "region": "Ohio-serving; remote services",
+   "served_area": "Ohio-serving; remote services, Ohio",
+   "website": "https://cannacontent.co/services/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-e7ec54328c78"
+  },
+  {
+   "name": "CannaPlanners",
+   "served_area": "Nationwide",
+   "website": "https://cannaplanners.com/get-started",
+   "category_hint": "Marketing / Media; SEO / Search; Branding / Design",
+   "source_category": "Marketing & Media",
+   "source_record": "org-3b5c3869332f"
+  },
+  {
+   "name": "CashColorCannabis",
+   "served_area": "Nationwide",
+   "website": "https://cashcolorcannabis.com/contact/",
+   "category_hint": "Cannabis media; podcast; magazine; journalism; Black cannabis entrepreneurs; marketing",
+   "source_category": "Marketing & Media",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-6c62f0f9c74b"
+  },
+  {
+   "name": "Coffman Media",
+   "served_area": "Nationwide",
+   "website": "https://coffmanmedia.com/",
+   "category_hint": "Marketing / Media; Content / Social Media; Signage / Graphics; Media / Publication; POS; Digital Signage / Kiosks",
+   "source_category": "Marketing & Media",
+   "source_record": "org-fded5093999b"
+  },
+  {
+   "name": "DEEPROOTS",
+   "served_area": "Nationwide",
+   "website": "https://deeproots.io/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-3208e395d79a"
+  },
+  {
+   "name": "Digital Third Coast",
+   "served_area": "Nationwide",
+   "website": "https://www.digitalthirdcoast.com/digital-pr-for-cannabis-companies",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-3c2ffdae042b"
+  },
+  {
+   "name": "Durée & Company — Cannabis & CBD PR",
+   "served_area": "Nationwide",
+   "website": "https://cannabismarketingpr.com/contact/",
+   "category_hint": "Marketing / Media; PR / Communications; Media / Publication",
+   "source_category": "Marketing & Media",
+   "source_record": "org-e54ac43e5180"
+  },
+  {
+   "name": "Grasslands",
+   "served_area": "Multistate",
+   "website": "https://www.mygrasslands.com/contact-us",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-38fba23c1d5e"
+  },
+  {
+   "name": "GreenState",
+   "served_area": "Nationwide",
+   "website": "https://www.greenstate.com/business/igniteit-ohio-recap/",
+   "category_hint": "Marketing / Media; Media / Publication",
+   "source_category": "Marketing & Media",
+   "source_record": "org-84fe8b355440"
+  },
+  {
+   "name": "Hybrid Marketing Co.",
+   "served_area": "Nationwide",
+   "website": "https://hybridmarketingco.com/contact/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-2fc7c8996cd5"
+  },
+  {
+   "name": "Leaf Marketing",
+   "served_area": "Multistate",
+   "website": "https://leafmarketing.com/",
+   "category_hint": "Marketing / Media; Advertising",
+   "source_category": "Marketing & Media",
+   "source_record": "org-27432b04ff0d"
+  },
+  {
+   "name": "Level Plus",
+   "state": "OH",
+   "region": "Toledo and surrounding Ohio communities",
+   "served_area": "Toledo and surrounding Ohio communities, Ohio",
+   "website": "https://golevelplus.com/dispensaries/oh/toledo/",
+   "category_hint": "Marketing / Media; SEO / Search",
+   "source_category": "Marketing & Media",
+   "source_record": "org-0ed58be2d2e7"
+  },
+  {
+   "name": "MATTIO Communications",
+   "served_area": "Nationwide",
+   "website": "https://www.mattio.com/cannabis-pr",
+   "category_hint": "Marketing / Media; PR / Communications",
+   "source_category": "Marketing & Media",
+   "source_record": "org-b282cd3094ea"
+  },
+  {
+   "name": "MediaJel",
+   "served_area": "Nationwide",
+   "website": "https://www.mediajel.com/contact-us",
+   "category_hint": "Marketing / Media; Advertising",
+   "source_category": "Marketing & Media",
+   "source_record": "org-5796802ffeb6"
+  },
+  {
+   "name": "NisonCo",
+   "served_area": "Nationwide",
+   "website": "https://nisonco.com/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-df41816014cc"
+  },
+  {
+   "name": "Ohio Cannabis Live",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.ohiocannabislive.com/patients",
+   "category_hint": "Ohio cannabis news; education; community; product and strain information; events",
+   "source_category": "Marketing & Media",
+   "source_record": "org-a32d429b1d8a"
+  },
+  {
+   "name": "OhioCannabis.com",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ohiocannabis.com/contact/",
+   "category_hint": "Marketing / Media; Media / Publication; Events / Networking; Community",
+   "source_category": "Marketing & Media",
+   "source_record": "org-0039680585f9"
+  },
+  {
+   "name": "PMB PROMOS",
+   "served_area": "Nationwide",
+   "website": "https://www.pmbpromos.com",
+   "category_hint": "Promotional merchandise and branded products",
+   "source_category": "Marketing & Media",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7172eadd96a4"
+  },
+  {
+   "name": "POINT BRAND Marketing Agency",
+   "served_area": "Nationwide",
+   "website": "https://www.pntbrand.com/",
+   "category_hint": "Marketing / Media; Branding / Design; Digital Marketing",
+   "source_category": "Marketing & Media",
+   "source_record": "org-ea58ef0c710b"
+  },
+  {
+   "name": "PufCreativ",
+   "served_area": "Nationwide",
+   "website": "https://pufcreativ.com/contact/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-4ee259b8e58f"
+  },
+  {
+   "name": "Range Marketing",
+   "served_area": "Nationwide",
+   "website": "https://rangemarketing.com/cannabis-dispensary-marketing/",
+   "category_hint": "Marketing / Media; Digital Marketing; SEO / Search; Branding / Design; Website Development",
+   "source_category": "Marketing & Media",
+   "source_record": "org-a107d913ecd8"
+  },
+  {
+   "name": "RBO",
+   "served_area": "Multistate",
+   "website": "https://www.rboinc.com",
+   "category_hint": "Brand Deployment; Print; Packaging and Fulfillment",
+   "source_category": "Marketing & Media",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-6734e1942cc7"
+  },
+  {
+   "name": "Rival Response",
+   "served_area": "Nationwide",
+   "website": "https://rivalresponse.com/",
+   "category_hint": "Marketing / Media; Advertising",
+   "source_category": "Marketing & Media",
+   "source_record": "org-f9233e32a729"
+  },
+  {
+   "name": "Seedless Media",
+   "state": "OH",
+   "region": "Ohio-serving (Cleveland/Akron focus); headquartered in Tempe, Arizona",
+   "served_area": "Ohio-serving (Cleveland/Akron focus); headquartered in Tempe, Arizona, Ohio",
+   "website": "https://seedless.media/cannabis-marketing-agency-cleveland-seedless-media/",
+   "category_hint": "Marketing / Media; Media / Publication",
+   "source_category": "Marketing & Media",
+   "source_record": "org-2b438fb26214"
+  },
+  {
+   "name": "Signs By Tomorrow Cincinnati North",
+   "state": "OH",
+   "region": "Cincinnati / Southwest Ohio",
+   "served_area": "Cincinnati / Southwest Ohio, Ohio",
+   "website": "https://www.signsbytomorrow.com/cincinnatinorth/",
+   "category_hint": "Marketing / Media; Branding / Design; Signage / Graphics",
+   "source_category": "Marketing & Media",
+   "source_record": "org-4575c56db1e0"
+  },
+  {
+   "name": "Spokes Digital",
+   "served_area": "Nationwide",
+   "website": "https://spokesdigital.us/consultation-form/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-8e54183208a4"
+  },
+  {
+   "name": "Springbig",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://springbig.com/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-9070ef5f2adb"
+  },
+  {
+   "name": "Surfside",
+   "served_area": "Multistate",
+   "website": "https://surfside.io/commerce-media",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-207c57d3828a"
+  },
+  {
+   "name": "Terrayn",
+   "served_area": "Multistate",
+   "website": "https://www.terrayn.com/contact/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-dac350091391"
+  },
+  {
+   "name": "The Cannabis Marketing Agency",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.thecannabismarketingagency.com/contact-us",
+   "category_hint": "Marketing / Media; Advertising",
+   "source_category": "Marketing & Media",
+   "source_record": "org-5ab8516f2235"
+  },
+  {
+   "name": "The Hood Collective",
+   "state": "OH",
+   "region": "Throughout Ohio — Columbus, Cleveland, Cincinnati, Dayton and Akron",
+   "served_area": "Throughout Ohio — Columbus, Cleveland, Cincinnati, Dayton and Akron, Ohio",
+   "website": "https://www.hoodcollective.com/contact",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-be69aa019900"
+  },
+  {
+   "name": "ThrivePOP",
+   "served_area": "Nationwide",
+   "website": "https://thrivepop.com/contact-us/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-6d9a4c9578ba"
+  },
+  {
+   "name": "Trip",
+   "served_area": "Nationwide",
+   "website": "https://tripstudio.co/contact/",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-bd13d5a0906b"
+  },
+  {
+   "name": "VEOOZ",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://dispensaries.veooz.com/healthcare-marketing/state/ohio",
+   "category_hint": "Marketing / Media",
+   "source_category": "Marketing & Media",
+   "source_record": "org-914195f2354b"
+  },
+  {
+   "name": "Americans for Safe Access",
+   "served_area": "Nationwide",
+   "website": "https://www.safeaccessnow.org/ohio_judiciary",
+   "category_hint": "Nonprofit / Advocacy; Veteran Services / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-a41077656b77"
+  },
+  {
+   "name": "Civics Cannabis",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://civicscannabis.org/",
+   "category_hint": "Nonprofit / Advocacy; Consumer Advocacy; Policy Advocacy; Education / Research; Social Equity",
+   "source_category": "Nonprofit & Advocacy",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-a7b45513e9cf"
+  },
+  {
+   "name": "Coalition to Regulate Marijuana Like Alcohol (Ohio)",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.facebook.com/JustLikeAlcohol/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy; Ballot Campaign; Adult-Use Legalization; Issue 2",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-7e749b6967b8"
+  },
+  {
+   "name": "Compassionate Alternatives",
+   "served_area": "Nationwide",
+   "website": "https://compassionatealternatives.org/",
+   "category_hint": "Nonprofit / Advocacy; Patient Education; Medical Cannabis; Community Events; Public Outreach",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-ed0906c8b550"
+  },
+  {
+   "name": "Drug Enforcement and Policy Center (Ohio State Moritz)",
+   "served_area": "Nationwide",
+   "website": "https://moritzlaw.osu.edu/faculty-and-research/drug-enforcement-and-policy-center/depc-history-and-mission",
+   "category_hint": "Nonprofit / Advocacy; Education / Research; Cannabis Policy; Record Sealing; Expungement; Social Equity; Academic Center",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-c6f6f261e714"
+  },
+  {
+   "name": "Drug Policy Alliance",
+   "state": "OH",
+   "region": "Ohio engagement / United States; no Ohio office",
+   "served_area": "Ohio engagement / United States; no Ohio office, Ohio",
+   "website": "https://drugpolicy.org/about/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-8427ef8e5bb7"
+  },
+  {
+   "name": "Green Environmental Outreach (GEO Nonprofit)",
+   "state": "OH",
+   "region": "Springfield, Columbus and Central Ohio",
+   "served_area": "Springfield, Columbus and Central Ohio, Ohio",
+   "website": "https://www.geononprofit.org/contact",
+   "category_hint": "Nonprofit / Advocacy; Social Equity; Community Outreach; Policy Advocacy; Environmental Justice",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-12edc986a5a5"
+  },
+  {
+   "name": "International Cannabis Education Coalition (ICEC)",
+   "served_area": "Nationwide",
+   "website": "https://www.theicecgroup.org/",
+   "category_hint": "Nonprofit / Advocacy; Education / Research; Patient Advocacy; Cannabis Safety; Community Outreach",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-05e4ab7218d1"
+  },
+  {
+   "name": "Last Prisoner Project",
+   "served_area": "Nationwide",
+   "website": "https://www.lastprisonerproject.org/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-18cfa139168e"
+  },
+  {
+   "name": "LEAF411",
+   "served_area": "Nationwide",
+   "website": "https://leaf411.org/services/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-9c01f7e0ab4e"
+  },
+  {
+   "name": "Marijuana Policy Project",
+   "served_area": "Nationwide",
+   "website": "https://www.mpp.org/states/ohio/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-4adb57400fe1"
+  },
+  {
+   "name": "MedicateOH",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://medicateoh.com/contact-us/",
+   "category_hint": "Nonprofit / Advocacy; Patient Advocacy; Education / Research; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-b870a8a62a9e"
+  },
+  {
+   "name": "Midwest CannaWomen",
+   "state": "OH",
+   "region": "Cleveland / Ohio; also provides patient-access routing for Pennsylvania and West Virginia",
+   "served_area": "Cleveland / Ohio; also provides patient-access routing for Pennsylvania and West Virginia, Ohio",
+   "website": "https://midwestcannawomen.crd.co/",
+   "category_hint": "Nonprofit / Advocacy; Patient Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-cb9a881abcf1"
+  },
+  {
+   "name": "National Cannabis Industry Association",
+   "served_area": "Nationwide",
+   "website": "https://thecannabisindustry.org/category/ohio/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-1d6604295a95"
+  },
+  {
+   "name": "Natural Therapies Education Foundation",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://naturaltherapiesfoundation.org",
+   "category_hint": "Education; Research and Nonprofit",
+   "source_category": "Nonprofit & Advocacy",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-f46072cb3cfa"
+  },
+  {
+   "name": "NORML",
+   "served_area": "Nationwide",
+   "website": "https://norml.org/contact-us/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-73029716e566"
+  },
+  {
+   "name": "North Linden Area Commission",
+   "state": "OH",
+   "region": "Columbus, OH",
+   "served_area": "Columbus, OH, Ohio",
+   "website": "https://www.cbusareacommissions.org/northlinden",
+   "category_hint": "Government and Community Organizations",
+   "source_category": "Nonprofit & Advocacy",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7d813189790c"
+  },
+  {
+   "name": "OHCANN (Ohio Cannabis Coalition)",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ohcann.com/contact/",
+   "category_hint": "Nonprofit / Advocacy; Patient Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-28996af4250a"
+  },
+  {
+   "name": "Ohio Cannabis Association",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ohiocannabisassociation.com/",
+   "category_hint": "Nonprofit / Advocacy; Patient Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-8aa562b99642"
+  },
+  {
+   "name": "Ohio Healthy Alternatives Association",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.ohhaa.org/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-f58fbbd656cf"
+  },
+  {
+   "name": "Ohio Justice & Policy Center",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ohiojpc.org/",
+   "category_hint": "Nonprofit / Advocacy; Criminal Justice Reform; Expungement / Record Sealing; Legal Services; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-6f45f7c60883"
+  },
+  {
+   "name": "Ohio Medical Marijuana Physicians Association",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ommpa.com/",
+   "category_hint": "Nonprofit / Advocacy; Education / Research; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-fbc9f2e06984"
+  },
+  {
+   "name": "Ohio Veteran's Alliance for Medical Cannabis (OVAMC)",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.facebook.com/OVAC.4.Change/",
+   "category_hint": "Nonprofit / Advocacy; Veteran Services / Advocacy; Patient Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-fd7388e9d2ee"
+  },
+  {
+   "name": "OneOhio Recovery Foundation",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.oneohiofoundation.com/contact-us",
+   "category_hint": "Nonprofit / Advocacy; Grantmaking; Public Health; Cannabis Education; Substance Use Prevention",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-bf86a088bea5"
+  },
+  {
+   "name": "Realm of Caring Foundation",
+   "state": "OH",
+   "region": "Ohio-accessible remote support / worldwide; no Ohio office",
+   "served_area": "Ohio-accessible remote support / worldwide; no Ohio office, Ohio",
+   "website": "https://realmofcaring.org/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-a8433675c717"
+  },
+  {
+   "name": "Sensible Movement Coalition",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.sensiblemovement.org/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy; Decriminalization; Local Ballot Initiatives; Grassroots Organizing",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-36630e5c633e"
+  },
+  {
+   "name": "The Cannabis Chamber of Commerce",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.thecannabischamber.com/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-6d96aab778c7"
+  },
+  {
+   "name": "The Cannabis Museum",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://cannabismuseum.com/",
+   "category_hint": "Nonprofit / Advocacy; Education / Research",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-8238a66c6c67"
+  },
+  {
+   "name": "The Mobility Independence Foundation (MIF)",
+   "served_area": "Multistate",
+   "website": "https://themif.org/action/contact/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-321e96d37e7d"
+  },
+  {
+   "name": "Truth Initiative",
+   "served_area": "Nationwide",
+   "website": "https://truthinitiative.org/",
+   "category_hint": "Nonprofit / Advocacy; Public Health; Cannabis Prevention; Education / Research; Campaign Evaluation",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-82220f4b38b3"
+  },
+  {
+   "name": "U.S. Hemp Roundtable",
+   "served_area": "Nationwide",
+   "website": "https://hempsupporter.com/contact/",
+   "category_hint": "Nonprofit / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-4d4b4fa99409"
+  },
+  {
+   "name": "US Cannabis Roundtable",
+   "served_area": "Nationwide",
+   "website": "https://uscr.org/contact/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-b2c3ac4255a5"
+  },
+  {
+   "name": "Veteran Home Guardians",
+   "state": "OH",
+   "region": "Marengo, Ohio; Central Ohio — Morrow, Knox, Delaware and Marion counties",
+   "served_area": "Marengo, Ohio; Central Ohio — Morrow, Knox, Delaware and Marion counties, Ohio",
+   "website": "https://www.vethomeguard.org",
+   "category_hint": "Nonprofit / Advocacy; Veteran Services / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-c180ef8dc4f9"
+  },
+  {
+   "name": "Veterans Initiative 22",
+   "served_area": "Nationwide",
+   "website": "https://www.veteransinitiative22.com/contact",
+   "category_hint": "Nonprofit / Advocacy; Veteran Services / Advocacy; Policy Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-b4d008cdf3ab"
+  },
+  {
+   "name": "A-ROO Company",
+   "state": "OH",
+   "region": "Northeast Ohio / Cleveland-Akron",
+   "served_area": "Northeast Ohio / Cleveland-Akron, Ohio",
+   "website": "https://www.a-roo.com/our-story",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-213edd99cf5c"
+  },
+  {
+   "name": "Berlin Packaging",
+   "served_area": "Nationwide",
+   "website": "https://www.berlinpackaging.com/cannabis-cbd-packaging/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-d66804546580"
+  },
+  {
+   "name": "CannaZip",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://cannazipbags.com/contact/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-76eced7adf7a"
+  },
+  {
+   "name": "Contempo Packaging",
+   "served_area": "Multistate",
+   "website": "https://www.contempocard.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-2f442746d1f6"
+  },
+  {
+   "name": "CRATIV Packaging",
+   "served_area": "Multistate",
+   "website": "https://crativpackaging.com/",
+   "category_hint": "Packaging / Labeling; Child-Resistant Packaging",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-65617e337fe7"
+  },
+  {
+   "name": "Custom Cones USA",
+   "served_area": "Multistate",
+   "website": "https://customconesusa.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-ac6c235d84b2"
+  },
+  {
+   "name": "Direct Target Products",
+   "state": "OH",
+   "region": "Spencer, Ohio | Ohio-serving",
+   "served_area": "Spencer, Ohio | Ohio-serving, Ohio",
+   "website": "https://directtargetproducts.com/contact/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-bff25117eadb"
+  },
+  {
+   "name": "Dispensary Supply",
+   "served_area": "Multistate",
+   "website": "https://www.dispensarysupply.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-daa9079c0b61"
+  },
+  {
+   "name": "Dragon Chewer",
+   "served_area": "Nationwide",
+   "website": "https://dragonchewer.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-5bf53f1772f4"
+  },
+  {
+   "name": "Dymapak",
+   "state": "OH",
+   "region": "Worldwide shipping | Ohio-serving",
+   "served_area": "Worldwide shipping | Ohio-serving, Ohio",
+   "website": "https://dymapak.com/contact-us/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-89414e56dfbb"
+  },
+  {
+   "name": "eBottles",
+   "served_area": "Nationwide",
+   "website": "https://www.ebottles.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-c846e3e71849"
+  },
+  {
+   "name": "Finished Goods",
+   "served_area": "Multistate",
+   "website": "https://www.finishedgoods.com/",
+   "category_hint": "Cannabis packaging; vape hardware; child-resistant packaging; 510 cartridges; manufacturing",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-36f49023be41"
+  },
+  {
+   "name": "Fortis Solutions Group",
+   "served_area": "Multistate",
+   "website": "https://fortissolutionsgroup.com/contact/",
+   "category_hint": "Packaging / Labeling; Printing / Labels",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-978898ebbc07"
+  },
+  {
+   "name": "Green Rush Packaging",
+   "served_area": "Nationwide",
+   "website": "https://greenrushpackaging.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-ba023ba76349"
+  },
+  {
+   "name": "Grove Bags",
+   "state": "OH",
+   "region": "Bedford Heights, Ohio, with additional Columbus operations",
+   "served_area": "Bedford Heights, Ohio, with additional Columbus operations, Ohio",
+   "website": "https://grovebags.com/pages/about",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-3d665d449ae6"
+  },
+  {
+   "name": "Hara Supply",
+   "state": "OH",
+   "region": "4031 N. Pecos Rd., Suite 100, Las Vegas, NV 89115; Ohio industry engagement: OCHBS 2026 direct-contact evidence",
+   "served_area": "4031 N. Pecos Rd., Suite 100, Las Vegas, NV 89115; Ohio industry engagement: OCHBS 2026 direct-contact evidence, Ohio",
+   "website": "https://harasupply.com",
+   "category_hint": "Pre-Roll Supplies and Packaging",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-cd0bcb770201"
+  },
+  {
+   "name": "Hefestus USA Inc.",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.hefestus-tech.com",
+   "category_hint": "Pre-Roll Equipment; Packaging Automation; Automated Pre-Roll and Packaging Systems",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-8cfae8fa9c89"
+  },
+  {
+   "name": "Kaufman Container",
+   "served_area": "Nationwide",
+   "website": "https://www.kaufmancontainer.com/service/contact/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-973cf0245c6e"
+  },
+  {
+   "name": "Label Aid, Inc.",
+   "served_area": "Nationwide",
+   "website": "https://www.labelaidinc.com/",
+   "category_hint": "Custom labels; printing; packaging; cannabis labels; barcode labels; Ohio supplier",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-e0d93f21d61b"
+  },
+  {
+   "name": "Mammoth Labels & Packaging",
+   "served_area": "Nationwide",
+   "website": "https://mammothpackaging.com/markets/cannabis-labels/",
+   "category_hint": "Packaging / Labeling; Printing / Labels",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-079c9905b709"
+  },
+  {
+   "name": "Miami Valley Packaging Solutions",
+   "state": "OH",
+   "region": "Dayton / Miami Valley",
+   "served_area": "Dayton / Miami Valley, Ohio",
+   "website": "https://mvpsohio.com/contact/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-cc73334fa814"
+  },
+  {
+   "name": "Moondust USA",
+   "served_area": "Multistate",
+   "website": "https://www.moondustusa.com/contact-us/",
+   "category_hint": "Packaging / Labeling; Pre-Roll Packaging",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-c760c3a83472"
+  },
+  {
+   "name": "N2 Packaging Systems",
+   "served_area": "Multistate",
+   "website": "https://n2pack.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-89dcba7ce077"
+  },
+  {
+   "name": "Niagara Label",
+   "served_area": "Nationwide",
+   "website": "https://www.niagaralabel.com/contact-us",
+   "category_hint": "Packaging / Labeling; Printing / Labels",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-8b4a1a9db98a"
+  },
+  {
+   "name": "Package My Bud",
+   "served_area": "Nationwide",
+   "website": "https://www.packagemybud.com",
+   "category_hint": "Cannabis packaging; custom packaging and labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-d9b1b2d2d217"
+  },
+  {
+   "name": "PackTHC",
+   "served_area": "Nationwide",
+   "website": "https://www.packthc.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-2fd3506b7eb2"
+  },
+  {
+   "name": "PackTrack",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://packtrack.net/",
+   "category_hint": "Packaging / Labeling; Printing / Labels",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-e7e43adc3511"
+  },
+  {
+   "name": "Pollen Gear",
+   "served_area": "Multistate",
+   "website": "https://pollengear.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-2586c0cc00fd"
+  },
+  {
+   "name": "PreRoll Distro",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://prerolldistro.com/contact/",
+   "category_hint": "Pre-Roll Supplies and Distribution",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-b10fae35df91"
+  },
+  {
+   "name": "PreRoll-Er",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://preroll-er.com",
+   "category_hint": "Pre-Roll Equipment and Packaging",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-b3d069b72662"
+  },
+  {
+   "name": "Royal Blunts",
+   "served_area": "Nationwide",
+   "website": "https://royalblunts.com/",
+   "category_hint": "Packaging / Labeling; Pre-Roll Packaging",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-ae47f740e012"
+  },
+  {
+   "name": "RXDco",
+   "state": "OH",
+   "region": "Ohio | All U.S. legal markets",
+   "served_area": "Ohio | All U.S. legal markets, Ohio",
+   "website": "https://rxdco.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-877dbd3c9ccf"
+  },
+  {
+   "name": "SafeCare Packaging",
+   "served_area": "Nationwide",
+   "website": "https://safecarepackaging.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-48c5b9278769"
+  },
+  {
+   "name": "Sana Packaging",
+   "served_area": "Multistate",
+   "website": "https://sanapackaging.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-0ddc72c17eb9"
+  },
+  {
+   "name": "Smith Corona",
+   "served_area": "Nationwide",
+   "website": "https://www.smithcorona.com/cannabis-labels.html",
+   "category_hint": "Packaging / Labeling; Printing / Labels",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-92bb88e0422d"
+  },
+  {
+   "name": "Tree Street Packaging",
+   "served_area": "Multistate",
+   "website": "https://treestreetpackaging.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-9714eff1008a"
+  },
+  {
+   "name": "Vert Packaging",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.vertpack.com/",
+   "category_hint": "Packaging / Labeling",
+   "source_category": "Packaging & Labeling",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-7063acd850da"
+  },
+  {
+   "name": "420 Property",
+   "served_area": "Nationwide",
+   "website": "https://www.420property.com/ohio/",
+   "category_hint": "Real Estate / Build-Out; Real Estate",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-54769487fe4f"
+  },
+  {
+   "name": "Allspace",
+   "served_area": "Nationwide",
+   "website": "https://goallspace.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-f2c6f4b780f6"
+  },
+  {
+   "name": "Anderson Porter Design",
+   "served_area": "Nationwide",
+   "website": "https://www.andersonporter.com/contact",
+   "category_hint": "Real Estate / Build-Out; HVAC / Climate Control; Architecture / Engineering",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-9763272c7061"
+  },
+  {
+   "name": "ARCO National Construction",
+   "served_area": "Nationwide",
+   "website": "https://www.arconational.com/contact/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-547f01a174ca"
+  },
+  {
+   "name": "ATI Restoration — Cleveland",
+   "served_area": "Nationwide",
+   "website": "https://atirestoration.com/regional-offices/cleveland-oh/",
+   "category_hint": "Mold / Microbial Remediation; Sanitation / Disinfection; Water Damage / Restoration; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-f167bed71a80"
+  },
+  {
+   "name": "Bud Bar Displays",
+   "served_area": "Nationwide",
+   "website": "https://www.budbardisplays.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-8954644facc1"
+  },
+  {
+   "name": "Cannabis Facility Construction (CFC)",
+   "served_area": "Multistate",
+   "website": "https://cannabisfacility.net/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-271525f0bb6f"
+  },
+  {
+   "name": "Claypool Electric",
+   "state": "OH",
+   "region": "Central Ohio; Lancaster, Columbus, Newark and Athens offices",
+   "served_area": "Central Ohio; Lancaster, Columbus, Newark and Athens offices, Ohio",
+   "website": "https://claypoolelectric.com/",
+   "category_hint": "Real Estate / Build-Out; Electrical; Construction / Build-Out; Cultivation",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-2309318d71ec"
+  },
+  {
+   "name": "CLC Design Studio",
+   "state": "OH",
+   "region": "Ohio and multiple U.S. cannabis markets",
+   "served_area": "Ohio and multiple U.S. cannabis markets, Ohio",
+   "website": "https://clcdesignstudio.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-e89aabc7db2f"
+  },
+  {
+   "name": "Dominion AG (DAG)",
+   "served_area": "Nationwide",
+   "website": "https://www.dagfacilities.com/contact/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-55347a6ba03b"
+  },
+  {
+   "name": "Dr. Greenhouse, Inc.",
+   "served_area": "Nationwide",
+   "website": "https://www.doctorgreenhouse.com/",
+   "category_hint": "Real Estate / Build-Out; HVAC / Climate Control; Dehumidification; Ventilation / Air Filtration; Architecture / Engineering",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-7eadbf4f4945"
+  },
+  {
+   "name": "Engineered Temperature Solutions (ETS)",
+   "state": "OH",
+   "region": "Lancaster and Central Ohio",
+   "served_area": "Lancaster and Central Ohio, Ohio",
+   "website": "https://www.ohio-ets.com/service-areas/lancaster-ohio-hvac",
+   "category_hint": "HVAC / Climate Control; Dehumidification; Ventilation / Air Filtration; Indoor Air Quality; Cultivation",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-9b7047555d2a"
+  },
+  {
+   "name": "Epstein",
+   "served_area": "Nationwide",
+   "website": "https://www.epsteinglobal.com/contact",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-f73d6f8cdebe"
+  },
+  {
+   "name": "GreenZones",
+   "served_area": "Nationwide",
+   "website": "https://www.greenzones.us/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-2bf9228b0518"
+  },
+  {
+   "name": "Grow America Builders",
+   "served_area": "Nationwide",
+   "website": "https://growamericabuilders.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-04fce3c5a9e7"
+  },
+  {
+   "name": "Kiesland Development Services",
+   "state": "OH",
+   "region": "Southwest Ohio, Dayton, Northern Kentucky and Indiana; Ohio cannabis project experience",
+   "served_area": "Southwest Ohio, Dayton, Northern Kentucky and Indiana; Ohio cannabis project experience, Ohio",
+   "website": "https://www.kiesland.com/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out; Design / Build; Cultivation",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-4b829397bf1a"
+  },
+  {
+   "name": "NEXT architecture",
+   "state": "OH",
+   "region": "Ohio project experience | Pittsburgh-based",
+   "served_area": "Ohio project experience | Pittsburgh-based, Ohio",
+   "website": "https://www.next-architecture.net/office.html",
+   "category_hint": "Real Estate / Build-Out; Architecture / Engineering",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-83129fa77642"
+  },
+  {
+   "name": "Ohio Cannabis Design Solutions",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.ohiocannabisdesignsolutions.com/",
+   "category_hint": "Real Estate / Build-Out; HVAC / Climate Control; Cultivation",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-43d1a747f0ae"
+  },
+  {
+   "name": "Oliver Architecture",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://oliverarchitect.com/about",
+   "category_hint": "Real Estate / Build-Out; Architecture / Engineering",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-ad28d10d93f6"
+  },
+  {
+   "name": "OPC Pest Services",
+   "state": "OH",
+   "region": "Cincinnati / Southwest Ohio",
+   "served_area": "Cincinnati / Southwest Ohio, Ohio",
+   "website": "https://www.opcpest.com/",
+   "category_hint": "Real Estate / Build-Out; Sanitation / Disinfection; Pest Management / IPM",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-b17390f489a7"
+  },
+  {
+   "name": "Path Construction",
+   "served_area": "Nationwide",
+   "website": "https://pathcc.com/contact-us/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-e2134138e765"
+  },
+  {
+   "name": "Pio Custom Cabinetry",
+   "served_area": "Nationwide",
+   "website": "https://pioww.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-217eebef8361"
+  },
+  {
+   "name": "Prospiant",
+   "served_area": "Nationwide",
+   "website": "https://www.prospiant.com/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-01fd01796a5c"
+  },
+  {
+   "name": "RBI CMS",
+   "state": "OH",
+   "region": "Central Ohio",
+   "served_area": "Central Ohio, Ohio",
+   "website": "https://rbicms.com/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-213dd6d61c3e"
+  },
+  {
+   "name": "Stockmeister Services",
+   "state": "OH",
+   "region": "Ohio | Regional cannabis projects",
+   "served_area": "Ohio | Regional cannabis projects, Ohio",
+   "website": "https://stockmeister.com/cannabis/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-e84bd9b38215"
+  },
+  {
+   "name": "Studio Bliss",
+   "state": "OH",
+   "region": "27+ U.S. states; explicit Ohio cannabis facility-design offering",
+   "served_area": "27+ U.S. states; explicit Ohio cannabis facility-design offering, Ohio",
+   "website": "https://studioblissla.com/contact-2/",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-19bab7f0dc74"
+  },
+  {
+   "name": "Summit Construction Company",
+   "state": "OH",
+   "region": "Northeast and Central Ohio",
+   "served_area": "Northeast and Central Ohio, Ohio",
+   "website": "https://www.summitconstruction.com/",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-1fe8ab476108"
+  },
+  {
+   "name": "Terrapin Construction Group",
+   "served_area": "Nationwide",
+   "website": "https://terrapincg.com/cannabis-facility-construction",
+   "category_hint": "Real Estate / Build-Out; Construction / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-70fa704deee5"
+  },
+  {
+   "name": "VALERE Architects",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.valerearchitects.com/ohio-cannabis-architects",
+   "category_hint": "Real Estate / Build-Out",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-97f6d0768a39"
+  },
+  {
+   "name": "Zoned Properties",
+   "served_area": "Nationwide",
+   "website": "https://zonedproperties.com/",
+   "category_hint": "Real Estate / Build-Out; Commercial Real Estate; Site Selection; Zoning / Land Use; Brokerage",
+   "source_category": "Real Estate / Build-Out",
+   "source_record": "org-7bf06cb96659"
+  },
+  {
+   "name": "ABS Money Systems",
+   "state": "OH",
+   "region": "1781 Westbelt Drive, Columbus, OH 43228",
+   "served_area": "1781 Westbelt Drive, Columbus, OH 43228, Ohio",
+   "website": "https://absmoney.com",
+   "category_hint": "Cash Handling and ATM Solutions",
+   "source_category": "Security & Cash Logistics",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-517bb8b79eb5"
+  },
+  {
+   "name": "Apple Water Management",
+   "served_area": "Nationwide",
+   "website": "https://applewatermanagement.com/",
+   "category_hint": "Security / Cash Logistics; Cash Management",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-9a8f8e220473"
+  },
+  {
+   "name": "ArcadianAI",
+   "served_area": "Nationwide",
+   "website": "https://www.arcadian.ai/pages/cannabis-security",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-172a3dc6fdad"
+  },
+  {
+   "name": "Brink's",
+   "served_area": "Nationwide",
+   "website": "https://us.brinks.com/contact",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-71102633651f"
+  },
+  {
+   "name": "BS Done Right",
+   "served_area": "Nationwide",
+   "website": "https://bsdoneright.com/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-c2c3b280033c"
+  },
+  {
+   "name": "Calvis Security",
+   "served_area": "Nationwide",
+   "website": "https://calvis.com/locations/cincinnati/cannabis-security",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-159b873d06f3"
+  },
+  {
+   "name": "Cannabis Safety First LLC",
+   "state": "OH",
+   "region": "Central Ohio",
+   "served_area": "Central Ohio, Ohio",
+   "website": "https://www.cannabissafetyfirst.com/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-322ee82642f3"
+  },
+  {
+   "name": "DEM360",
+   "state": "OH",
+   "region": "Ohio and multistate",
+   "served_area": "Ohio and multistate, Ohio",
+   "website": "https://www.dem360.com/our-services/cannabis-security",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-b378d74b9ade"
+  },
+  {
+   "name": "Elite Preparedness Asset Protection",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.elitepreparedness.com/copy-of-american-patriot-organizati",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-604ede518b05"
+  },
+  {
+   "name": "Everon (formerly ADT Commercial)",
+   "served_area": "Nationwide",
+   "website": "https://www.adt.com/commercial",
+   "category_hint": "Security / Cash Logistics; Video Surveillance; Access Control; Alarm / Panic Systems; Fire Detection / Protection; Monitoring",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-5c99e5f5c9c9"
+  },
+  {
+   "name": "GardaWorld Cash",
+   "state": "OH",
+   "region": "Ohio branches in Akron, Cincinnati, Cleveland, Columbus, Dayton, Toledo and Youngstown",
+   "served_area": "Ohio branches in Akron, Cincinnati, Cleveland, Columbus, Dayton, Toledo and Youngstown, Ohio",
+   "website": "https://cash.garda.com/locations/united-states/ohio",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-9365716997b1"
+  },
+  {
+   "name": "Green Cross ATM",
+   "served_area": "Nationwide",
+   "website": "https://greencrossatm.com/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-e82d60b88784"
+  },
+  {
+   "name": "Guardian Alarm",
+   "state": "OH",
+   "region": "Ohio — Cincinnati, Cleveland, Columbus, Toledo and surrounding markets",
+   "served_area": "Ohio — Cincinnati, Cleveland, Columbus, Toledo and surrounding markets, Ohio",
+   "website": "https://guardianalarm.com/locations/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-e18361195eef"
+  },
+  {
+   "name": "Guardian Protection",
+   "state": "OH",
+   "region": "Ohio — Cincinnati, Cleveland, Columbus, Youngstown and surrounding markets",
+   "served_area": "Ohio — Cincinnati, Cleveland, Columbus, Youngstown and surrounding markets, Ohio",
+   "website": "https://guardianprotection.com/cannabis",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-54a596954b3c"
+  },
+  {
+   "name": "Hanwha Vision America",
+   "state": "OH",
+   "region": "500 Frank W. Burr Blvd., Suite 43, Teaneck, NJ 07666; Ohio industry engagement: OCHBS 2026 direct-contact evidence",
+   "served_area": "500 Frank W. Burr Blvd., Suite 43, Teaneck, NJ 07666; Ohio industry engagement: OCHBS 2026 direct-contact evidence, Ohio",
+   "website": "https://hanwhavisionamerica.com",
+   "category_hint": "Security and Video Surveillance",
+   "source_category": "Security & Cash Logistics",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-05fa6cc45648"
+  },
+  {
+   "name": "Hi-Tech Security Solutions",
+   "state": "OH",
+   "region": "Cleveland and Northeast Ohio",
+   "served_area": "Cleveland and Northeast Ohio, Ohio",
+   "website": "https://www.4-hitech.com/services/cctv-security-cameras/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-885c2a224166"
+  },
+  {
+   "name": "Innovatex IT Solutions",
+   "served_area": "Nationwide",
+   "website": "https://innovatexit.com/industries/cannabis",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-acdedba12f3c"
+  },
+  {
+   "name": "Koorsen Fire & Security",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.koorsen.com",
+   "category_hint": "Fire Safety; Security and Facility Services",
+   "source_category": "Security & Cash Logistics",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7a67d8f3a6f9"
+  },
+  {
+   "name": "LiveReach AI",
+   "served_area": "Multistate",
+   "website": "https://www.livereach.ai/cannabis",
+   "category_hint": "Security / Cash Logistics; Access Control",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-8adc90efe4e0"
+  },
+  {
+   "name": "Loomis US",
+   "state": "OH",
+   "region": "Ohio; Cincinnati and Columbus facilities confirmed",
+   "served_area": "Ohio; Cincinnati and Columbus facilities confirmed, Ohio",
+   "website": "https://www.loomis.us/contact-us",
+   "category_hint": "Security / Cash Logistics; Armored / Secure Transport",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-932a48a31a6f"
+  },
+  {
+   "name": "MVP Financial Equipment (MVP ATM)",
+   "served_area": "Nationwide",
+   "website": "https://mvpatm.com/mvp-easy-deposit-overview/",
+   "category_hint": "Security / Cash Logistics; Armored / Secure Transport",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-39b71ed63460"
+  },
+  {
+   "name": "OHZ Security",
+   "served_area": "Multistate",
+   "website": "https://ohzsecurity.com/industries/industrial-critical-infrastructure/cannabis-facilities/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-17e21b6c3009"
+  },
+  {
+   "name": "Porcupine Defense Solutions",
+   "served_area": "Multistate",
+   "category_hint": "Security; Cannabis-Willing Vendor; Cannabis Business Services",
+   "source_category": "Security & Cash Logistics",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-0557619757dc"
+  },
+  {
+   "name": "ProTech Security",
+   "state": "OH",
+   "region": "Cleveland / Akron / Canton / Columbus / Ohio",
+   "served_area": "Cleveland / Akron / Canton / Columbus / Ohio, Ohio",
+   "website": "https://protechsecurity.com/",
+   "category_hint": "Security / Cash Logistics; Access Control; Video Surveillance; Alarm / Panic Systems; Fire Detection / Protection; Environmental Monitoring",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-3d37c9e81ab0"
+  },
+  {
+   "name": "Sapphire Risk Advisory Group",
+   "served_area": "Nationwide",
+   "website": "https://www.sapphirerisk.com/adult-use-cannabis-in-ohio/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-16d4da55ae5f"
+  },
+  {
+   "name": "Security 101 — Columbus",
+   "state": "OH",
+   "region": "Greater Columbus",
+   "served_area": "Greater Columbus, Ohio",
+   "website": "https://www.security101.com/columbus",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-bb22c8902ddd"
+  },
+  {
+   "name": "Solink",
+   "served_area": "Multistate",
+   "website": "https://solink.com/solutions/cannabis-security/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-9fed675327c4"
+  },
+  {
+   "name": "Talaria",
+   "state": "OH",
+   "region": "Ohio and 18 other states plus Washington, D.C.",
+   "served_area": "Ohio and 18 other states plus Washington, D.C., Ohio",
+   "website": "https://talaria.com/ohio/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-2b1d7f43aa6e"
+  },
+  {
+   "name": "Vector Security",
+   "state": "OH",
+   "region": "Ohio — Geneva, Westerville, Mansfield and Canfield",
+   "served_area": "Ohio — Geneva, Westerville, Mansfield and Canfield, Ohio",
+   "website": "https://www.vectorsecurity.com/business-security/industries/cannabis/",
+   "category_hint": "Security / Cash Logistics",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-88f48543e97d"
+  },
+  {
+   "name": "Verkada",
+   "served_area": "Nationwide",
+   "website": "https://www.verkada.com/",
+   "category_hint": "Security / Cash Logistics; Video Surveillance; Access Control; Alarm / Panic Systems; Environmental Monitoring; Cloud Security",
+   "source_category": "Security & Cash Logistics",
+   "source_record": "org-175f350d2985"
+  },
+  {
+   "name": "CannabizTeam",
+   "served_area": "Nationwide",
+   "website": "https://cannabizteam.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-2c9b864bffb1"
+  },
+  {
+   "name": "CanopyHR",
+   "served_area": "Multistate",
+   "website": "https://canopyhrsolutions.com/",
+   "category_hint": "Staffing / HR; Human Resources; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-53cb78fdf20c"
+  },
+  {
+   "name": "CSC Schools (Cleveland School of Cannabis)",
+   "state": "OH",
+   "region": "Ohio / online",
+   "served_area": "Ohio / online, Ohio",
+   "website": "https://cscschools.edu/",
+   "category_hint": "Staffing / HR; Employee Training",
+   "source_category": "Staffing & HR",
+   "source_record": "org-842f90458ef2"
+  },
+  {
+   "name": "Direct Recruiters, Inc.",
+   "served_area": "Nationwide",
+   "website": "https://directrecruiters.com/practice-areas/cannabis-executive-search-and-recruiters/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-265cb53bc283"
+  },
+  {
+   "name": "Emerald Lane Recruitment",
+   "served_area": "Multistate",
+   "website": "https://emeraldlanerecruitment.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-4eecce726b2e"
+  },
+  {
+   "name": "Evolve HCM",
+   "served_area": "Multistate",
+   "website": "https://www.evolvehcm.com/",
+   "category_hint": "Staffing / HR",
+   "source_category": "Staffing & HR",
+   "source_record": "org-c75f5115acff"
+  },
+  {
+   "name": "FastFingerprints (National Background Check, Inc.)",
+   "served_area": "Nationwide",
+   "website": "https://www.fastfingerprints.com/",
+   "category_hint": "Staffing / HR; Background Checks; Fingerprinting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-7f30a2faf075"
+  },
+  {
+   "name": "FlowerHire",
+   "served_area": "Multistate",
+   "website": "https://flowerhire.com/cannabis-recruiting-and-staffing/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-4706d228695d"
+  },
+  {
+   "name": "Grassroots Staffing Group",
+   "served_area": "Nationwide",
+   "website": "https://grassrootsstaffinggroup.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-5987e1037522"
+  },
+  {
+   "name": "Green Collar Network",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.greencollarnetwork.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-e9278d97b9fa"
+  },
+  {
+   "name": "Green Flower",
+   "served_area": "Nationwide",
+   "website": "https://green-flower.com/meet-with-us/",
+   "category_hint": "Staffing / HR; Employee Training",
+   "source_category": "Staffing & HR",
+   "source_record": "org-038a2ba4c6a3"
+  },
+  {
+   "name": "High Bluff Group",
+   "served_area": "Multistate",
+   "website": "https://www.highbluffgroup.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting; Human Resources",
+   "source_category": "Staffing & HR",
+   "source_record": "org-4a6d0e9f4a07"
+  },
+  {
+   "name": "High End Search",
+   "served_area": "Multistate",
+   "website": "https://www.highendsearch.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-91d667ae5d92"
+  },
+  {
+   "name": "Hunter + Esquire",
+   "served_area": "Multistate",
+   "website": "https://www.hunteresquire.com/",
+   "category_hint": "Staffing / HR",
+   "source_category": "Staffing & HR",
+   "source_record": "org-5b35bc213905"
+  },
+  {
+   "name": "KayaPush",
+   "served_area": "Multistate",
+   "website": "https://www.kayapush.com/",
+   "category_hint": "Staffing / HR; Human Resources; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-817af2844fdc"
+  },
+  {
+   "name": "Kent State University — Cannabis Education",
+   "state": "OH",
+   "region": "Ohio / 100% online",
+   "served_area": "Ohio / 100% online, Ohio",
+   "website": "https://cannabiseducation.kent.edu/",
+   "category_hint": "Staffing / HR; Employee Training; Workforce Development; Cannabis Career Education",
+   "source_category": "Staffing & HR",
+   "source_record": "org-a83be9552b63"
+  },
+  {
+   "name": "Kind Benefits",
+   "served_area": "Nationwide",
+   "website": "https://kindbenefits.co/",
+   "category_hint": "Staffing / HR",
+   "source_category": "Staffing & HR",
+   "source_record": "org-388238cf0313"
+  },
+  {
+   "name": "KushHR",
+   "state": "OH",
+   "region": "Ohio | Select U.S. markets",
+   "served_area": "Ohio | Select U.S. markets, Ohio",
+   "website": "https://kushhr.com/about/",
+   "category_hint": "Staffing / HR; Human Resources",
+   "source_category": "Staffing & HR",
+   "source_record": "org-23cbf7524a65"
+  },
+  {
+   "name": "OROleafhr",
+   "served_area": "Multistate",
+   "website": "https://oroleafhr.com/",
+   "category_hint": "Staffing / HR; Human Resources; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-098f74cadecb"
+  },
+  {
+   "name": "Paragon Payroll",
+   "served_area": "Multistate",
+   "website": "https://www.paragonpayroll.com/cannabis",
+   "category_hint": "Staffing / HR; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-fc88c0cbff15"
+  },
+  {
+   "name": "Paylient",
+   "served_area": "Nationwide",
+   "website": "https://www.paylient.com/",
+   "category_hint": "Staffing / HR; Human Resources; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-5a38fa4c7aad"
+  },
+  {
+   "name": "Tesseon",
+   "served_area": "Multistate",
+   "website": "https://tesseon.com/contact-us/",
+   "category_hint": "Staffing / HR; Human Resources; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-d268d75a101c"
+  },
+  {
+   "name": "The United Green",
+   "served_area": "Nationwide",
+   "website": "https://www.theunitedgreen.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-ae7e83263b95"
+  },
+  {
+   "name": "TrimForce",
+   "served_area": "Nationwide",
+   "website": "https://www.trim-force.com/",
+   "category_hint": "Staffing / HR",
+   "source_category": "Staffing & HR",
+   "source_record": "org-d0977478cf53"
+  },
+  {
+   "name": "Trovaro",
+   "served_area": "Multistate",
+   "website": "https://gotrovaro.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-9a3195afc097"
+  },
+  {
+   "name": "University of Cincinnati — Cannabis Studies Certificate",
+   "state": "OH",
+   "region": "Cincinnati / Ohio",
+   "served_area": "Cincinnati / Ohio, Ohio",
+   "website": "https://www.daap.uc.edu/academic-programs/school-of-planning/cannabis-studies-certificate.html",
+   "category_hint": "Staffing / HR; Employee Training; Workforce Development; Higher Education",
+   "source_category": "Staffing & HR",
+   "source_record": "org-ae271f545ee6"
+  },
+  {
+   "name": "Vangst",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://vangst.com/employer/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-c921c1c273cf"
+  },
+  {
+   "name": "Viridian Staffing",
+   "served_area": "Nationwide",
+   "website": "https://www.viridianstaffing.com/",
+   "category_hint": "Staffing / HR; Staffing / Recruiting",
+   "source_category": "Staffing & HR",
+   "source_record": "org-92074d3577bc"
+  },
+  {
+   "name": "White Ash Group",
+   "served_area": "Multistate",
+   "website": "https://www.whiteashgroup.com/",
+   "category_hint": "Staffing / HR",
+   "source_category": "Staffing & HR",
+   "source_record": "org-2f2f38627940"
+  },
+  {
+   "name": "Würk",
+   "served_area": "Multistate",
+   "website": "https://enjoywurk.com/",
+   "category_hint": "Staffing / HR; Payroll",
+   "source_category": "Staffing & HR",
+   "source_record": "org-10fcfaed139c"
+  },
+  {
+   "name": "Zane State College — Cannabis Certificate Programs",
+   "state": "OH",
+   "region": "Ohio / 100% online",
+   "served_area": "Ohio / 100% online, Ohio",
+   "website": "https://cannabis.zanestate.edu/",
+   "category_hint": "Staffing / HR; Employee Training; Workforce Development; Cannabis Career Education",
+   "source_category": "Staffing & HR",
+   "source_record": "org-d11f62d98d3a"
+  },
+  {
+   "name": "365 Cannabis (acquired by Innovia Consulting, Feb 2026 — see Innovia entry)",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.365cannabis.com/contact/",
+   "category_hint": "Technology",
+   "source_category": "Technology",
+   "source_record": "org-3d3c5f565927"
+  },
+  {
+   "name": "Alpine IQ (AIQ; incl. AIQ Ecommerce, formerly Dispense)",
+   "served_area": "Nationwide",
+   "website": "https://aiq.com/",
+   "category_hint": "Technology; Ecommerce / Online Ordering",
+   "source_category": "Technology",
+   "source_record": "org-53423d4fe08f"
+  },
+  {
+   "name": "BLAZE",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.blaze.me/dispensary-pos-software/ohio",
+   "category_hint": "Technology; Metrc / Track-and-Trace; Regulatory Compliance",
+   "source_category": "Technology",
+   "source_record": "org-037f0479b847"
+  },
+  {
+   "name": "Brandr AI",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://brandrai.com/",
+   "category_hint": "Technology",
+   "source_category": "Technology",
+   "source_record": "org-87b32cb5cf50"
+  },
+  {
+   "name": "Canix (including acquired Trym)",
+   "served_area": "Nationwide",
+   "website": "https://www.canix.com/",
+   "category_hint": "Technology; Cultivation Software; Metrc / Track-and-Trace; Inventory; Data / Analytics",
+   "source_category": "Technology",
+   "source_record": "org-8150454287d6"
+  },
+  {
+   "name": "CannaHub",
+   "state": "OH",
+   "region": "Mentor, Ohio; serves cannabis operators",
+   "served_area": "Mentor, Ohio; serves cannabis operators, Ohio",
+   "website": "https://cannahub.io/",
+   "category_hint": "Technology; Metrc / Track-and-Trace; Data / Analytics; Regulatory Compliance",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-93ded3612fd5"
+  },
+  {
+   "name": "CannaLnx (EM2P2)",
+   "served_area": "Nationwide",
+   "website": "https://www.cannalnx.com/",
+   "category_hint": "Technology; Digital Health; Medical Cannabis; Data / Analytics",
+   "source_category": "Technology",
+   "source_record": "org-fb73e6da4d0f"
+  },
+  {
+   "name": "Detroit Dispensing Solutions",
+   "state": "OH",
+   "region": "Michigan-based / multi-market; Ohio-market engagement documented",
+   "served_area": "Michigan-based / multi-market; Ohio-market engagement documented, Ohio",
+   "website": "https://www.detroitdispensingsolutions.com/contactus",
+   "category_hint": "Technology; Cannabis Equipment; Filling and Dispensing; Infusion; Vacuum and Decarboxylation Systems",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-88975f378bd8"
+  },
+  {
+   "name": "Dutchie",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://dutchie.com/business/state-laws/ohio",
+   "category_hint": "Technology; POS; Ecommerce / Online Ordering; Inventory; Metrc / Track-and-Trace; Regulatory Compliance",
+   "source_category": "Technology",
+   "source_record": "org-a06c1362a303"
+  },
+  {
+   "name": "Flowhub",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.flowhub.com/contact",
+   "category_hint": "Technology; POS; Metrc / Track-and-Trace; Payments / Merchant Services",
+   "source_category": "Technology",
+   "source_record": "org-cfc768cc486e"
+  },
+  {
+   "name": "Green Check Verified",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://greencheckverified.com/",
+   "category_hint": "Technology; Regulatory Compliance",
+   "source_category": "Technology",
+   "source_record": "org-2a92a4f3c70c"
+  },
+  {
+   "name": "GreenTank",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://greentanktech.com",
+   "category_hint": "Cannabis Vape Hardware and Technology",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-7354c5fa79e6"
+  },
+  {
+   "name": "GrowerIQ",
+   "served_area": "Multistate",
+   "website": "https://groweriq.com",
+   "category_hint": "Cannabis Cultivation and Seed-to-Sale Software",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-dd29cf4b93ea"
+  },
+  {
+   "name": "GrowGeneration",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.growgeneration.com/ihort",
+   "category_hint": "Technology",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-0e18d6a3e0ca"
+  },
+  {
+   "name": "Happy Cabbage",
+   "served_area": "Multistate",
+   "website": "https://www.happycabbage.io",
+   "category_hint": "Cannabis Retail Software and Analytics",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-22363ee3ca56"
+  },
+  {
+   "name": "Headset",
+   "served_area": "Nationwide",
+   "website": "https://www.headset.io/",
+   "category_hint": "Technology; Data / Analytics",
+   "source_category": "Technology",
+   "source_record": "org-79c6188047ac"
+  },
+  {
+   "name": "Hoodie Analytics",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.hoodieanalytics.com",
+   "category_hint": "Technology; Data / Analytics",
+   "source_category": "Technology",
+   "source_record": "org-4e563ff69d7a"
+  },
+  {
+   "name": "Horticulture Lighting Group",
+   "served_area": "Multistate",
+   "website": "https://horticulturelightinggroup.com/pages/contact-page",
+   "category_hint": "LED grow lights; cultivation equipment; indoor horticulture; lighting",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-0feff903c70c"
+  },
+  {
+   "name": "Hytiva Technologies",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.hytiva.com/business-services",
+   "category_hint": "Cannabis Technology and Business Services",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-ff5c505e8d2b"
+  },
+  {
+   "name": "IndicaOnline",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://indicaonline.com/markets/ohio/",
+   "category_hint": "Technology; POS; Metrc / Track-and-Trace; Regulatory Compliance",
+   "source_category": "Technology",
+   "source_record": "org-57f411325bdc"
+  },
+  {
+   "name": "Indoor Gardens",
+   "state": "OH",
+   "region": "5304 Fleet Ave, Cleveland, OH 44105; 2076 Romig Rd, Akron, OH 44320; 4720 Indianola Ave, Columbus, OH 43214",
+   "served_area": "5304 Fleet Ave, Cleveland, OH 44105; 2076 Romig Rd, Akron, OH 44320; 4720 Indianola Ave, Columbus, OH 43214, Ohio",
+   "website": "https://indoorgardens.com/",
+   "category_hint": "Cultivation Supplies and Grow Store Retail",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-6d0ae4c0f229"
+  },
+  {
+   "name": "Innovia",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.innovia.com/contact",
+   "category_hint": "Technology",
+   "source_category": "Technology",
+   "source_record": "org-0f1a2f519e40"
+  },
+  {
+   "name": "Jane Technologies",
+   "served_area": "Nationwide",
+   "website": "https://www.iheartjane.com/business/ecommerce",
+   "category_hint": "Technology; POS",
+   "source_category": "Technology",
+   "source_record": "org-3c57a53ad51a"
+  },
+  {
+   "name": "JointCommerce",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.jointcommerce.com/contact-us",
+   "category_hint": "Technology; Advertising",
+   "source_category": "Technology",
+   "source_record": "org-cc9e43442ed0"
+  },
+  {
+   "name": "LeafBridge",
+   "served_area": "Nationwide",
+   "website": "https://leafbridge.io/",
+   "category_hint": "Technology; Ecommerce / Online Ordering; Website / Ecommerce Integration",
+   "source_category": "Technology",
+   "source_record": "org-3d0d1f662279"
+  },
+  {
+   "name": "Lucid Green",
+   "served_area": "Nationwide",
+   "website": "https://www.lucidgreen.io/",
+   "category_hint": "Technology; Metrc / Track-and-Trace",
+   "source_category": "Technology",
+   "source_record": "org-6ed3327990cd"
+  },
+  {
+   "name": "Marijuana Software LLC — Ohio Metrc",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://ohio.marijuanasoftwarellc.com/",
+   "category_hint": "Technology; Metrc / Track-and-Trace; Media / Publication",
+   "source_category": "Technology",
+   "source_record": "org-d04d2460a818"
+  },
+  {
+   "name": "Melt To Make",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://melt-to-make.com/pages/melt-to-make%E2%84%A2-contact-gummy-manufacturing",
+   "category_hint": "Technology",
+   "source_category": "Technology",
+   "source_record": "org-54dcc0ba312a"
+  },
+  {
+   "name": "Metrc",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.metrc.com/partner/ohio/",
+   "category_hint": "Technology; Metrc / Track-and-Trace",
+   "source_category": "Technology",
+   "source_record": "org-ce5f89f3d3b3"
+  },
+  {
+   "name": "Ohio420.ai",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.ohio420.ai/",
+   "category_hint": "Technology; Regulatory Compliance; AI / Workflow Tools",
+   "source_category": "Technology",
+   "source_record": "org-a06683a78c5f"
+  },
+  {
+   "name": "Outlaw Technology",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://outlawtechnology.net",
+   "category_hint": "Compliance; Traceability and Inventory Technology",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-9aaf751c8541"
+  },
+  {
+   "name": "POSaBIT",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.posabit.com/contact-us",
+   "category_hint": "Technology; POS; Payments / Merchant Services",
+   "source_category": "Technology",
+   "source_record": "org-dcff1d5fca84"
+  },
+  {
+   "name": "Quality Extractions Group",
+   "state": "OH",
+   "region": "2533 Tracy Rd., Northwood, Ohio 43619",
+   "served_area": "2533 Tracy Rd., Northwood, Ohio 43619, Ohio",
+   "website": "https://qualityextractions.com",
+   "category_hint": "Extraction Solvents and Processing Supplies",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-dc474ca20d13"
+  },
+  {
+   "name": "RX Green Technologies",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.rxgreentechnologies.com",
+   "category_hint": "Cultivation Supplies and Nutrients",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-5685e7174422"
+  },
+  {
+   "name": "StashStock",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.stashstock.com/",
+   "category_hint": "METRC; seed-to-sale; inventory reconciliation; cultivation; processing; compliance",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-a7e9b3f90d8b"
+  },
+  {
+   "name": "Sweed",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.sweedpos.com/ohio-cannabis-dispensary",
+   "category_hint": "Technology; Regulatory Compliance",
+   "source_category": "Technology",
+   "source_record": "org-40bdc9eb2854"
+  },
+  {
+   "name": "Vecmar",
+   "served_area": "Nationwide",
+   "website": "https://www.vecmar.com/",
+   "category_hint": "Retail hardware; document scanners; barcode scanners; receipt printers; check scanners; maintenance; remanufacturing",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-f3c5879951d3"
+  },
+  {
+   "name": "WebJoint",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.webjoint.com/cannabis-resources/regulations/ohio",
+   "category_hint": "Technology; Metrc / Track-and-Trace",
+   "source_category": "Technology",
+   "source_record": "org-688c71d09ae7"
+  },
+  {
+   "name": "Weedmaps for Business",
+   "served_area": "Nationwide",
+   "website": "https://weedmaps.com/business/",
+   "category_hint": "Technology; Ecommerce / Online Ordering; Advertising",
+   "source_category": "Technology",
+   "source_record": "org-e47fbe7eb5d2"
+  },
+  {
+   "name": "Willow Industries",
+   "served_area": "Nationwide",
+   "website": "https://willowindustries.com/",
+   "category_hint": "Decontamination / Remediation; Mold / Microbial; Post-Harvest Processing; Processing",
+   "source_category": "Technology",
+   "source_record": "org-b55e227695b5"
+  },
+  {
+   "name": "XRpure",
+   "served_area": "Multistate",
+   "website": "https://xrpure.com/xr16/",
+   "category_hint": "Technology; Decontamination / Remediation; Mold / Microbial; Post-Harvest Processing",
+   "source_category": "Technology",
+   "source_record": "org-d28afba8d1dd"
+  },
+  {
+   "name": "Ziel",
+   "served_area": "Nationwide",
+   "website": "https://www.ziel.com/",
+   "category_hint": "Decontamination / Remediation; Mold / Microbial; Post-Harvest Processing; Processing",
+   "source_category": "Technology",
+   "source_record": "org-f487ce396018"
+  },
+  {
+   "name": "ACT LAB (ACT Laboratories, Inc.)",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://actlab.com/ohio/",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial",
+   "source_category": "Testing Labs",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "source_record": "org-439251489828"
+  },
+  {
+   "name": "CP Labs Ohio Operating Company, LLC",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://cplabsoh.wordpress.com/2024/04/17/cannabinoids/",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial; Terpene Testing; Pesticide Testing; Heavy Metals Testing; Residual Solvents Testing",
+   "source_category": "Testing Labs",
+   "source_record": "org-326247e5b9d0"
+  },
+  {
+   "name": "Green Analytics OH",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://greenanalyticslabs.com/locations/",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial",
+   "source_category": "Testing Labs",
+   "source_record": "org-923f274679fc"
+  },
+  {
+   "name": "North Coast Testing Laboratories, LLC",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.northcoasttestinglabs.com/",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial",
+   "source_category": "Testing Labs",
+   "source_record": "org-8fd15920db44"
+  },
+  {
+   "name": "Pinnacle Testing and Specialty Lab",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://pinnacletestinglabs.com/",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial; Sample Transport",
+   "source_category": "Testing Labs",
+   "source_record": "org-74e57cabf73f"
+  },
+  {
+   "name": "Smithers CTS Ohio, LLC",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.smithers.com/industries/cannabis-testing/contact-us",
+   "category_hint": "Cannabis Testing; Compliance Testing; Potency Testing; Microbial Testing; Mold / Microbial",
+   "source_category": "Testing Labs",
+   "source_record": "org-a3ab86b73858"
+  },
+  {
+   "name": "Mood Leaf",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.moodleaf.com/contact",
+   "category_hint": "Cannabis Brand and Consumer Products",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-105e0713e773"
+  },
+  {
+   "name": "SIPE Promotional Products",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "category_hint": "Promotional Products and Branded Merchandise",
+   "source_category": "Marketing & Media",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-3af4221fa5d1"
+  },
+  {
+   "name": "Precise TB Solutions",
+   "state": "OH",
+   "region": "600 W. Market St., Suite B, Baltimore, OH 43105 (address only; service coverage unconfirmed)",
+   "served_area": "600 W. Market St., Suite B, Baltimore, OH 43105 (address only; service coverage unconfirmed), Ohio",
+   "category_hint": "Accounting; Bookkeeping and Payroll",
+   "source_category": "Accounting & Tax",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-baee0f174df2"
+  },
+  {
+   "name": "Courier Pro Logistics",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.courierprologistics.com/",
+   "category_hint": "Cannabis Logistics and Courier Services",
+   "source_category": "Security & Cash Logistics",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-fb49bcaddd77"
+  },
+  {
+   "name": "Tom & Berry Premium Reserve",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://tomandberrys.com/",
+   "category_hint": "Ohio cannabis brand; flower; community; cultivation attribution",
+   "source_category": "Cultivator / Processor / Dispensary",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-271d2e550b0d"
+  },
+  {
+   "name": "SCM Promotions",
+   "state": "OH",
+   "region": "Streetsboro, Ohio; Ohio cannabis market",
+   "served_area": "Streetsboro, Ohio; Ohio cannabis market, Ohio",
+   "website": "https://www.scmpromotions.com",
+   "category_hint": "Promotional products; Custom apparel; Branded merchandise; Cannabis swag; Trade show giveaways",
+   "source_category": "Marketing & Media",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-646560c1ff20"
+  },
+  {
+   "name": "Ohio Women’s Cannabis Chamber of Commerce",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.OhioWomensCannaChamber.org",
+   "category_hint": "Advocacy; Education and Nonprofit",
+   "source_category": "Nonprofit & Advocacy",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-d124f071dca0"
+  },
+  {
+   "name": "GLEAF / Gleaf Group",
+   "state": "OH",
+   "served_area": "Ohio statewide",
+   "website": "https://www.gleafgroup.com",
+   "category_hint": "Cannabis Vape Hardware and Technology",
+   "source_category": "Technology",
+   "events": [
+    {
+     "name": "Ohio Cannabis Health & Business Summit (OCHBS)",
+     "year": 2026,
+     "city": "Columbus",
+     "state": "OH"
+    }
+   ],
+   "evidence_level": "trade-show-contact",
+   "source_record": "org-ac6c53cdc50a"
+  },
+  {
+   "name": "Laurelcrest",
+   "served_area": "Multistate",
+   "website": "https://laurelcrest.com/",
+   "category_hint": "Hemp / CBD",
+   "source_category": "Hemp / CBD Products & Ancillary",
+   "source_record": "org-6a466599534c"
+  },
+  {
+   "name": "Kentucky Cannabis Industry Alliance",
+   "served_area": "Multistate",
+   "website": "https://www.kycanna.org/",
+   "category_hint": "Nonprofit / Advocacy",
+   "source_category": "Nonprofit & Advocacy",
+   "source_record": "org-9b0acb0eee5e"
+  },
+  {
+   "name": "DIZPOT",
+   "served_area": "Nationwide",
+   "website": "https://dizpot.com/",
+   "category_hint": "Cannabis packaging; dispensary exit bags; custom Mylar bags; packaging design; branding; supply chain logistics; Ohio operators",
+   "source_category": "Packaging & Labeling",
+   "source_record": "org-36e94688f898"
+  }
+ ]
+}

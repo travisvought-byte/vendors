@@ -1,0 +1,43 @@
+{
+ "event": {
+  "name": "Hemp Fest at Urban Artifact",
+  "year": 2026,
+  "city": "Cincinnati",
+  "state": "OH",
+  "type": "festival"
+ },
+ "roster_kind": "vendors",
+ "source_url": "https://www.cincinnatimagazine.com/article/hemp-fest-26/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 0,
+ "vendors": [
+  {
+   "name": "Karen Wellington Foundation",
+   "category_hint": "vendor (nonprofit)"
+  },
+  {
+   "name": "50 West",
+   "category_hint": "THC beverage (Sunflower)"
+  },
+  {
+   "name": "Rhinegeist",
+   "category_hint": "THC beverage (Fuzzy Bones)"
+  },
+  {
+   "name": "Cycling Frog",
+   "category_hint": "THC beverage"
+  },
+  {
+   "name": "Floral",
+   "category_hint": "THC beverage"
+  },
+  {
+   "name": "Estazzi",
+   "category_hint": "THC beverage"
+  },
+  {
+   "name": "Succlent Señorita",
+   "category_hint": "food"
+  }
+ ]
+}

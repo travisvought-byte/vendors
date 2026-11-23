@@ -1,0 +1,711 @@
+{
+ "source": "us-oh-buckeye-wedding-expo-2026",
+ "title": "Buckeye Wedding Expo 2026 exhibitors",
+ "publisher": "www.eventleaf.com",
+ "landing_url": "https://www.eventleaf.com/e/buckeye-wedding-expo-Feb-2026-dayton-arcade",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "7bb705094bca056e56b010d172b96f5508f3ae5a16af228944c4a1138280573a",
+ "counts": {
+  "read": 48,
+  "kept": 47,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "Dayton Arcade",
+   "category_hint": "venue",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mark's Photo and Video",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Elite Catering & Events",
+   "category_hint": "catering",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Lux Lounge",
+   "category_hint": "mobile bar",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ohio's Greatest Music",
+   "category_hint": "DJ/MC and music",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Glamorous Weddings",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Campbell Creative",
+   "category_hint": "live painting and portraits",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "City BBQ",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tap Truck Dayton",
+   "category_hint": "mobile bar",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kayla Bertke Photography",
+   "category_hint": "photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Lost & Found Rentals",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Furst the Florist",
+   "category_hint": "florist",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Liftoff Entertainment",
+   "category_hint": "DJ and photo booth",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cartoona Matata",
+   "category_hint": "caricature art",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Top of the Market",
+   "category_hint": "wedding/event venue",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Black Tie DJ",
+   "category_hint": "DJ/MC",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Mission BBQ",
+   "category_hint": "BBQ food",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Sarah Babcock Studio",
+   "category_hint": "wedding photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "LMR Catering",
+   "category_hint": "catering",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Grande Hall",
+   "category_hint": "event venue",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Unlimited Events",
+   "category_hint": "event decor",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bernstein's Fine Catering",
+   "category_hint": "catering",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Brightside",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Flowerman",
+   "category_hint": "florist",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Childers Photography",
+   "category_hint": "photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Men's Warehouse",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Jos A Bank",
+   "category_hint": "menswear/tuxedos",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "NCR Country Club",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Ruth and Rose",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Simply Decadent",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Greg Seevers Photography",
+   "category_hint": "photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Angela's Premier Events",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Gest Carts",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cassidy Alane Photography",
+   "category_hint": "photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Photo Booth Cincinnati",
+   "category_hint": "photo booth rentals",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Glass and Grace Events",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Kohler Catering",
+   "category_hint": "catering",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Hollon Flowers",
+   "category_hint": "florist",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Amplified Digital Entertainment",
+   "category_hint": "DJ",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Cakes By Mindy",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "The Air Luxe",
+   "category_hint": "balloon installations",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Pottinger Photography",
+   "category_hint": "wedding photography",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Bahar & Reza",
+   "category_hint": "bridal boutique",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Legacy Event Group",
+   "category_hint": "event services",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Prime Time Party and Event Rental",
+   "category_hint": "event rentals",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Blush and Bloom",
+   "category_hint": "wedding planning",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  },
+  {
+   "name": "Tipsy Times",
+   "category_hint": "bartending",
+   "events": [
+    {
+     "name": "Buckeye Wedding Expo",
+     "year": 2026,
+     "city": "Dayton",
+     "state": "OH",
+     "type": "consumer-expo"
+    }
+   ],
+   "roster_kind": "exhibitors",
+   "event_type": "consumer-expo"
+  }
+ ]
+}

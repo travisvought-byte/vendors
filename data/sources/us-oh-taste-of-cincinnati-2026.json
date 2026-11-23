@@ -1,0 +1,1204 @@
+{
+ "source": "us-oh-taste-of-cincinnati-2026",
+ "title": "Taste of Cincinnati 2026 food-vendors",
+ "publisher": "www.fox19.com",
+ "landing_url": "https://www.fox19.com/2026/05/21/everything-you-need-know-about-taste-cincinnati-2026/",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "5151c32c301b518a80f54cb337afd17bdb1d4abfefcce0a75da52f4f60f1fb01",
+ "counts": {
+  "read": 79,
+  "kept": 79,
+  "dropped": {},
+  "personal_name_only": 0
+ },
+ "vendors": [
+  {
+   "name": "Adena's Beefstroll",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "AJ's Cheesesteaks",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Alfio's Buon Cibo",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Alley Baby",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Bridges Nepali Cuisine",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Buffalo's Best",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Che's Globally Inspired Catering and Events",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Cheese N Chong",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Chicago Gyros and Dogs",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Chino's Street Food",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Christine's Casual Dining",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Davis Cookie Collection",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Dreamys Ice Cream",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Eddie's Southern Style BBQ",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Eliza Jane's Bakeshop",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "El Vaquero Food Truck",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Funnel Cake Island",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Fusako Japanese Street Fusion",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Gee's Caribbean Kitchen",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Glier's Goetta",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Goetta and Sweets",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Hankering Southern Kitchen",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Izzy's",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Juntos Mexican Cocina",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Kabobske",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "LALO Chino Latino",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "LaRosa's Family Pizzeria",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Larry's",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Lasang Pinoy Filipino Eats",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Little Trolley Donuts",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Lobsta Bakes of Maine",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Mama Afrique Nigerian Cuisine",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "MamaBear's Mac",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Maw Maw's Creole Kitchen",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Maya Indian Restaurant",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Mazunte Mercado Catering",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Mis Sabores",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Off The Hook",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Oliver's Desserts",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Paityn's Place Soul Food Catering and Cuisine",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pierre Entities Catering",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pompilio's Restaurant",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Red Sesame Korean BBQ",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "S.E.A. Cuisine Foodtruck",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Sawasdee Thai Cuisine & Sushi",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Schmidt's of German Village",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "SugarSnap! Sweet Treats",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Taste of Belgium",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Cheesecakery",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The German Corner",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Naughty Lobstah",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Tickle Pickle Restaurant",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Twisted Greek",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Wicked Hickory",
+   "category_hint": "food vendor",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Afromeals",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "BanaSun",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Dat's Ole School Cookin'",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Daveyboy's Bourbon Pecans",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Deme Kitchen",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Honey Child Pops",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Jane's Bar",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Jay's Nyam & Jam",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Lotus Street Food",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Magnificent Morsels Catering",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Maker Bakers Co.",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Oliver Tree Catering",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pankis Dutch Pancakes",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Rocky's Home Flavor",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Sabor Alaniz",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Sen by Kiki",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Soleil Kitchen",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Arepa Place",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Empanada's Box",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Passion Plate",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Tilita",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Twinergy",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Walkerbar",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Wendigo Tea Co.",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Yee Mama",
+   "category_hint": "food vendor (Taste of Findlay Market section)",
+   "events": [
+    {
+     "name": "Taste of Cincinnati",
+     "year": 2026,
+     "city": "Cincinnati",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "food-vendors",
+   "event_type": "festival"
+  }
+ ]
+}

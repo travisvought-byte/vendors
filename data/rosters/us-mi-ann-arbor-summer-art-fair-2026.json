@@ -1,0 +1,19 @@
+{
+ "event": {
+  "name": "Ann Arbor Summer Art Fair",
+  "year": 2026,
+  "city": "Ann Arbor",
+  "state": "MI",
+  "type": "festival"
+ },
+ "roster_kind": "artists",
+ "source_url": "https://www.theguild.org/fair/ann-arbor-art-fair/participating-artists/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 356,
+ "vendors": [
+  {
+   "name": "Michigan Silversmiths",
+   "category_hint": "jewelry"
+  }
+ ]
+}

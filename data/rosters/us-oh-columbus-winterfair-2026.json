@@ -1,0 +1,297 @@
+{
+ "event": {
+  "name": "Columbus Winterfair",
+  "year": 2026,
+  "city": "Columbus",
+  "state": "OH",
+  "type": "market"
+ },
+ "roster_kind": "exhibitors",
+ "source_url": "https://winterfair.org/columbus-winterfair-artist-and-gourmet-marketplace-directory-2026/",
+ "retrieved": "2026-11-23",
+ "personal_name_only_count": 340,
+ "vendors": [
+  {
+   "name": "3rd & Spoon",
+   "city": "Pickerington",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Adreanne's Ltd.",
+   "city": "Columbus",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Passion Works",
+   "city": "Athens",
+   "state": "OH",
+   "category_hint": "3-D mixed media"
+  },
+  {
+   "name": "BEEpothecary",
+   "city": "Lancaster",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "C.Krueger's",
+   "city": "Blacklick",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Carina Dolci Apothecary",
+   "city": "Longs",
+   "state": "SC",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Caruso's Gourmet Foods",
+   "city": "Cincinnati",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Cherish Creamery",
+   "city": "Reynoldsville",
+   "state": "PA",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Circa Plants",
+   "city": "Logan",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Copper Coast Confections",
+   "city": "Gibsonia",
+   "state": "PA",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Essential Candy",
+   "city": "Easley",
+   "state": "SC",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "foodfort",
+   "city": "Columbus",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "FoodieCards",
+   "city": "Toledo",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "ForeverGreen Farm",
+   "city": "Slippery Rock",
+   "state": "PA",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Foris Extraordinary Meats",
+   "city": "Columbus",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Heavenly Dips",
+   "city": "Sunbury",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Herbal Scent Creations",
+   "city": "Mount Gilead",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Hinton Apiaries",
+   "city": "Grove City",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Kofinas Olive Oil",
+   "city": "Cincinnati",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Kravn Lane Creations LLC",
+   "city": "Garfield Heights",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "La Dolce 'Nola",
+   "city": "Pickerington",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Lone Wolf Lavender",
+   "city": "Albany",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Lovin' Tails",
+   "city": "Berwyn",
+   "state": "IL",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Michael's Artisan Chocolates",
+   "city": "Galena",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "MinusG Surprisingly Gluten Free",
+   "city": "Newbury",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "My Soaps",
+   "city": "Westerville",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Nectar of the Vine",
+   "city": "Burton",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Palmer Place Fine Teas",
+   "city": "Willoughby Hills",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Principessa Teas",
+   "city": "Reynoldsburg",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "R&O Candy Company",
+   "city": "Columbus",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Ron & Frank's Drink Mixes",
+   "city": "Cheswick",
+   "state": "PA",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Silver Bridge Coffee Company",
+   "city": "Gallipolis",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Slippery Elm",
+   "city": "Bowling Green",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Smith Brothers Sweets",
+   "city": "Milan",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Stillwater Valley Orchard & Apiary",
+   "city": "Tipp City",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Sweet Thing Gourmet",
+   "city": "Bexley",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "The Art of Honey",
+   "city": "Utica",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "The Craftist",
+   "city": "Sturgis",
+   "state": "KY",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "The Crazy Cucumber",
+   "city": "Johnstown",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "The Great Bread Company",
+   "city": "Allendale",
+   "state": "MI",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Trinity Herbal Apothecary",
+   "city": "Delaware",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Trisha's Elderberries",
+   "city": "Columbus",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "True Honey Teas",
+   "city": "Lorton",
+   "state": "VA",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "WanderLather Soap Company",
+   "city": "Delaware",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Whiskey Flour",
+   "city": "Westerville",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Wise Guyz Gadgets",
+   "city": "Austin",
+   "state": "TX",
+   "category_hint": "gourmet marketplace"
+  },
+  {
+   "name": "Wishwell Farms",
+   "city": "Bellefontaine",
+   "state": "OH",
+   "category_hint": "gourmet marketplace"
+  }
+ ]
+}

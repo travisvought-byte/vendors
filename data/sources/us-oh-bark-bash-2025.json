@@ -1,0 +1,1321 @@
+{
+ "source": "us-oh-bark-bash-2025",
+ "title": "Bark Bash 2025 vendors",
+ "publisher": "www.metroparks.net",
+ "landing_url": "https://www.metroparks.net/wp-content/uploads/2025/07/Vendor-List-2025-2.pdf",
+ "evidence_level": "event-roster",
+ "kept_rule": "Every business on the published list; entries naming only a person are counted, not listed.",
+ "retrieved_on": "2026-11-23",
+ "read_from": "roster file",
+ "sha256": "1915c89889f7d552d61ae9222911c6a112b1a6b407ae1dea315ccd84628ee535",
+ "counts": {
+  "read": 93,
+  "kept": 93,
+  "dropped": {},
+  "personal_name_only": 1
+ },
+ "vendors": [
+  {
+   "name": "ValuVet Wellness",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "PetCakes by Lucky Paws Inc.",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Delaware Good Dog",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pawsitive Vitality",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Mutts & Co.",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Milo's Wish",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Veteran Companion Animal Services",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Columbus Humane",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "4 Paws and a Tail",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "All Tails R Waggin",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Camp Bow Wow",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pet FBI",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pet Butler",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Stitches + Sass",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Bumble's Backyard",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "SWACO",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "PetSuites",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Puptown Lounge",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Project Warmth",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Columbus Department of Public Utilities",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Hollywood Feed",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "One of the Pack",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Franklin County Auditor's Office",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Hope 4 Dogs",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Whispering Pine K9",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Carpe Diem PSA Club",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Pink Leash",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Paws Worthy Dog Training",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "COVE (Central Ohio Veterinary Emergency)",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Professional K9",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Metro Parks Outdoor Adventure",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Ohio Fuzzy Pawz Shih Tzu Rescue, Inc.",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pet Supplies Plus",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "First Mate Pet Food",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Grateful Acres Pets",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "K9aid.org",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Columbus All Breed",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Franklin County 4H",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Colony Cats & Dogs",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Central Ohio Muttessori School",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Faithful Forgotten Best Friends (FFBF)",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Hospets, Inc.",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Paws Veterinary Urgent Care",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "RESCUEDohio",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "ARRf K9",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "SOS - Shelter Outreach Services",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Canine Crave",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Dogtor Jewelry Studio",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "DuckleyDoesArt",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Park Your Paws",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Shaterra",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Central Ohio Pit Savers",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Newfoundland Club of America Charitable",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Humane Society of Madison County",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Wags Bakery LLC",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Girls Gone Raw",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Just Four Pups",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "WoodChew",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Treat Wreaths",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "ASPCA Cruelty Recovery Center",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Everything Golden",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Ash and Alder Photography",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Spoil Em Rotten",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Muschlitz Photography",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Boba & Co.",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Friends of Metro Parks",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Rufftimes Pet Accessories",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Shake Your Tail Feathers Aviary",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "SICSA Pet Adoption Center",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Suburban Animal Clinic",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Metro Parks",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Our Two Bostons",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Top Rocks Paws",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Crafts by Beth",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Blue Boy Bandanas",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Boujee Dog Bites",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Good Dog Goodies",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Groovy Girls",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Pet Wants Dublin",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "K9 Resorts Hilliard",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Zoom Room New Albany",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Marley's Paw Bakery",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "No Tails About It Corgi Rescue",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Ohio Pet Waste Removal",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Columbus Dog Wizard",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "WHATTAMUTT",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Woof Gang Bakery & Grooming Dublin",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Ice Castles",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "The Ohio State University Veterinary Medical Center",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Atlas Butler Heating, Cooling, and Pluming",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Penninsula Sky Dogs",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Stage Performance Dogs",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  },
+  {
+   "name": "Sheriff K9 Units",
+   "events": [
+    {
+     "name": "Bark Bash",
+     "year": 2025,
+     "city": "Columbus",
+     "state": "OH",
+     "type": "festival"
+    }
+   ],
+   "roster_kind": "vendors",
+   "event_type": "festival"
+  }
+ ]
+}
