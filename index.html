@@ -52,6 +52,29 @@ button{font:inherit;padding:10px 16px;border-radius:8px;border:0;background:var(
 section.how{margin:40px 0;padding-top:8px;border-top:1px solid var(--line)}
 section.how h2{font-size:1.3rem}
 .small{color:var(--muted);font-size:.9rem}
+/* Symbols drawn for Vendor Maps (one sprite at the top of the page), in the text or accent color.
+   Decoration only: the words beside each one say the same thing. */
+.go .gi{width:1.2em;height:1.2em;vertical-align:-.22em;margin-right:.4em}
+.promise .pi{display:block;width:28px;height:28px;color:var(--accent);margin-bottom:6px}
+/* How opt-in contact works: three steps, connected left to right (top to bottom on phones) */
+.flow{margin:20px 0 0;padding:16px 18px 18px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.flow figcaption{font-weight:700;font-size:1.05rem;margin:0 0 14px}
+.flow figcaption span{display:block;font-weight:400;font-size:.9rem;color:var(--muted)}
+.flow ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.flow li{position:relative}
+.flow .dot{display:grid;place-items:center;width:46px;height:46px;border-radius:50%;background:var(--chip);border:2px solid var(--accent);color:var(--accent);margin-bottom:8px}
+.flow .dot svg{width:24px;height:24px}
+.flow b{display:block}
+.flow .t{display:block;color:var(--muted);font-size:.93rem}
+.flow li:not(:last-child)::after{content:"";position:absolute;top:22px;left:58px;right:-14px;border-top:2px solid var(--field)}
+.flow li+li::before{content:"";position:absolute;top:18px;left:-15px;width:8px;height:8px;border-top:2px solid var(--field);border-right:2px solid var(--field);transform:rotate(45deg)}
+@media (max-width:720px){
+  .flow ol{grid-template-columns:1fr;gap:20px}
+  .flow li{display:grid;grid-template-columns:46px minmax(0,1fr);gap:0 12px}
+  .flow .dot{grid-row:1/span 2;margin:0}
+  .flow li:not(:last-child)::after{top:54px;bottom:-14px;left:22px;right:auto;border-top:0;border-left:2px solid var(--field)}
+  .flow li+li::before{top:-13px;left:18px;transform:rotate(135deg)}
+}
 footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
 .skip{position:absolute;left:8px;top:-200px;z-index:10;background:var(--panel);color:var(--ink);padding:10px 14px;border:2px solid var(--ink);border-radius:6px;font-weight:700}.skip:focus{top:8px}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}/* Reach symbols beside Local, State, Regional and National. Line drawings from Lucide (ISC license, https://lucide.dev),
    drawn in the text color; decoration only, the word beside each carries the meaning. */
@@ -61,6 +84,15 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
 </head>
 <body>
 <a class="skip" href="#find">Skip to the vendor search</a>
+<svg width="0" height="0" style="position:absolute;overflow:hidden" aria-hidden="true" focusable="false"><defs>
+<symbol id="vm-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 17.5a7 7 0 1 0 0-14 7 7 0 0 0 0 14zM15.5 15.5L20.5 20.5"/></symbol>
+<symbol id="vm-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5.5h18v13H3zM3.5 6.5l8.5 6.5 8.5-6.5"/></symbol>
+<symbol id="vm-stall" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 11.5V20h14v-8.5M3 9l2-5h14l2 5M3 9a3 3 0 0 0 6 0 3 3 0 0 0 6 0 3 3 0 0 0 6 0M10 20v-4.5h4V20"/></symbol>
+<symbol id="vm-tag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4v7.6a1 1 0 0 0 .3.7l8.4 8.4a1 1 0 0 0 1.4 0l7.6-7.6a1 1 0 0 0 0-1.4l-8.4-8.4a1 1 0 0 0-.7-.3H4a1 1 0 0 0-1 1zM8 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></symbol>
+<symbol id="vm-sign" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3L7.5 8M12 3l4.5 5M3 8h18v10H3zM7 13h10"/></symbol>
+<symbol id="vm-optin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zM8 12.5l3 3 5-6.5"/></symbol>
+<symbol id="vm-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 11h13v9.5h-13zM8.5 11V7.5a3.5 3.5 0 0 1 7 0V11M12 14.5v2.5"/></symbol>
+</defs></svg>
 <div class="wrap">
 <header>
   <h1>Find vendors for your event</h1>
@@ -69,10 +101,10 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
   <nav class="here" aria-labelledby="here-title">
     <h2 id="here-title">I'm here…</h2>
     <ul class="choose">
-      <li><a class="go" href="#find">To find vendors for my event</a>
+      <li><a class="go" href="#find"><svg class="gi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-search"/></svg>To find vendors for my event</a>
         <p>Pick your state and category below, or start with vendors by reach:</p>
         <p class="reach"><a href="?reach=local#find">Local</a><a href="?reach=state#find">Statewide</a><a href="?reach=regional#find">Regional</a><a href="?reach=national#find">National</a></p></li>
-      <li><a class="go" href="#vendors">As a vendor who wants to hear about new events</a>
+      <li><a class="go" href="#vendors"><svg class="gi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-stall"/></svg>As a vendor who wants to hear about new events</a>
         <p>Whether you work one town's markets, a state's fair circuit or national shows: how your listing works and how your details are protected.</p></li>
     </ul>
   </nav>
@@ -101,11 +133,19 @@ footer{padding:24px 0 48px;color:var(--muted);font-size:.9rem}
 <section class="how" id="vendors">
   <h2>For vendors</h2>
   <p>Sell at fairs, festivals, markets, expos or trade shows? Vendor Maps is built so organizers can find your business without your personal details going public, at the local, state and national level.</p>
+  <figure class="flow">
+    <figcaption>How opt-in contact works <span>Opt-in messaging is opening soon. Until then this list is a preview.</span></figcaption>
+    <ol>
+      <li><span class="dot" aria-hidden="true"><svg class="fi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-search"/></svg></span><b>An organizer searches the list</b> <span class="t">By state, category and reach. No account and no fee.</span></li>
+      <li><span class="dot" aria-hidden="true"><svg class="fi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-mail"/></svg></span><b>Their message goes through Vendor Maps</b> <span class="t">No contact people, emails or phone numbers are published.</span></li>
+      <li><span class="dot" aria-hidden="true"><svg class="fi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-stall"/></svg></span><b>Vendors who opted in hear about it</b> <span class="t">Vendor Maps passes it on to vendors who want to hear about events.</span></li>
+    </ol>
+  </figure>
   <div class="promise">
-    <div><b>Free for organizers</b><span>No account and no fee to search.</span></div>
-    <div><b>Business names only</b><span>No contact people, emails or phone numbers are published.</span></div>
-    <div><b>Opt-in contact</b><span>Organizers' messages go through Vendor Maps to vendors who want to hear about events.</span></div>
-    <div><b>We're not selling your data</b><span>Not to advertisers, not to list brokers, not to anyone.</span></div>
+    <div><svg class="pi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-tag"/></svg><b>Free for organizers</b><span>No account and no fee to search.</span></div>
+    <div><svg class="pi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-sign"/></svg><b>Business names only</b><span>No contact people, emails or phone numbers are published.</span></div>
+    <div><svg class="pi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-optin"/></svg><b>Opt-in contact</b><span>Organizers' messages go through Vendor Maps to vendors who want to hear about events.</span></div>
+    <div><svg class="pi" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#vm-lock"/></svg><b>We're not selling your data</b><span>Not to advertisers, not to list brokers, not to anyone.</span></div>
   </div>
   <p>If your business is listed and you'd like it changed or taken off, or you'd like to hear about events near you, opt-in messaging is opening soon. Until then this list is a preview.</p>
 </section>
